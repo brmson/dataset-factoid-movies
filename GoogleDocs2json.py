@@ -8,8 +8,8 @@ import sys
 argv = sys.argv
 input_filename = argv[1]
 output_filename = argv[2]
-train = file(output_filename + "_train.json", 'w')
-test = file(output_filename + "_test.json", 'w')
+train = file(output_filename + "-train.json", 'w')
+test = file(output_filename + "-test.json", 'w')
 
 train.write('[\r\n')
 test.write('[\r\n')
@@ -22,9 +22,6 @@ with open(input_filename,'r') as f:
     while (last_test + 4) < last_train:
         last_test += 4
     for line in reader:
-        if (i < 6): #skip the first 5 lines containing the readme and title
-           i+=1
-           continue
         if (i%4 == 0):
             jsfile = test
         else:
