@@ -16,3 +16,13 @@ More documentation to come.  The data here has been extracted using
 The dataset is called **moviesA** - the A letter represents our intention
 to develop it further.  It is currently rather noisy, mixed with sports
 questions and not that large either.
+
+
+**moviesC** is a dataset created by merging the t-movies dataset (here named moviesB for reference) from 
+	https://github.com/brmson/dataset-factoid-webquestions/t-movies
+and public feedback in our 2 spreadsheets (downloaded 17.8.2015):
+
+	https://docs.google.com/spreadsheets/d/1FELqTPH6EUws5l_qR14igg1aomsKJ8V7iQEKJ5VEefM
+
+	https://docs.google.com/spreadsheets/d/1W43mU78kmp6cSM5JEekdXFm_QM_Brj6piq2vAjG8qNM
+
