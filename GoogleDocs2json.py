@@ -28,7 +28,7 @@ with open(input_filename,'r') as f:
             jsfile = train
         words = line.split("\t")
         jsfile.write('{')
-        jsfile.write('"qID\": \"' + str(i) + '\", ')
+        jsfile.write('"qId\": \"mfb' + str(i).zfill(6) + '\", ')
         jsfile.write('"qText\": \"' + words[1] + '\", ')
         jsfile.write("\"answers\": [")
         jsfile.write("\""+words[2]+"\"")
