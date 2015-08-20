@@ -20,3 +20,13 @@ the feedback data from a Google Docs spreadsheet.
 
 We intend to follow up with even larger and better datasets, using
 next consecutive letters.
+
+Using with YodaQA
+-----------------
+
+YodaQA typically excepts datasets in a TSV format rather than JSON.
+(JSON collection reader in YodaQA is work-in-progress.)  To get the
+data to TSV format, run
+
+	../dataset-factoid-webquestions/scripts/json2tsv.py moviesC train moviesC
+	../dataset-factoid-webquestions/scripts/json2tsv.py moviesC test moviesC
