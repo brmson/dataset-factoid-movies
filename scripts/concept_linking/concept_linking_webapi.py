@@ -39,7 +39,7 @@ def list_index():
     global concepts_and_questions
     output = ""
     for key, value in concepts_and_questions.iteritems():
-        output = output + "<a href=http://localhost:5000/"+key+">"+value['qText'] +"</a> <br/>"
+        output = output + "<a href="+url_for("update_concept", qId=key)+">"+value['qText'] +"</a> <br/>"
     return output
 
 @app.route('/update_concept/<qId>', methods=['POST'])
