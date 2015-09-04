@@ -81,11 +81,11 @@ def process_concept(qId):
     global concepts_and_questions
     res = concepts_and_questions[qId]
     output = ''
-    output += '<p><iframe style="float: right" src="http://en.m.wikipedia.org/" width="640" height="600"></iframe>'
+    output += '<p><iframe name="wiki" style="float: right" src="http://en.m.wikipedia.org/" width="640" height="600"></iframe>'
     output += res['qId'] + " : " + res['qText'] + "<br/>"
     output += "<form method=\"post\" action=\"/update_concept/"+qId+"\">"
     for concept in res['Concept']:
-        output += '<li><input type="checkbox" name="concept" value="%d;_;%s"> <a href="http://en.wikipedia.org/?curid=%d">%s</a>' % (int(concept['pageID']),concept['fullLabel'], int(concept['pageID']), concept['fullLabel']) + "<br/>" 
+        output += '<li><input type="checkbox" name="concept" value="%d;_;%s"> <a href="http://en.m.wikipedia.org/?curid=%d" target="wiki">%s</a>' % (int(concept['pageID']),concept['fullLabel'], int(concept['pageID']), concept['fullLabel']) + "<br/>" 
     output += '<li>Unlisted: <input type="text" name="extraLabel" value="">'
     for i in range(4):
         output += ' <input type="text" name="extraLabel" value="">'
