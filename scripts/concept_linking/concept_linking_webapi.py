@@ -58,13 +58,15 @@ def update_concept(qId):
     #Now the concepts from "unlisted" box
     for extraLabel in request.form.getlist('extraLabel'):
         if extraLabel == "":
-            break
+            continue
         print ("looking for " + extraLabel)
         pageID = retrieve_pageID(extraLabel)
         if pageID == -1:
             #continue to append file? 
             #TODO: add "go back" button 
-            return extraLabel +" not found in  http://dbpedia.org/resource/"+extraLabel.replace (" ", "_")+" , please copy the wikipedia label exactly"
+            res = extraLabel +" not found in  http://dbpedia.org/resource/"+extraLabel.replace (" ", "_")+" , please copy the wikipedia label exactly<br/>"
+            res += "If that doesn't work, try changing non ascii characters, it can be seen in Leon:_The_Professional (note the e) and The Twilight Saga: Breaking Dawn - Part 1 (note the dash) <br/>"
+            return res
         print ("found pageID: " + str(pageID))
         d['Concept'].append({'fullLabel' : extraLabel, 'pageID' : pageID})
     print('  %s,' % (json.dumps(d, sort_keys=True),), file=output_file)
@@ -92,6 +94,7 @@ def process_concept(qId):
     output += '<br>(labels exactly as they appear in wikipedia)'
     output += '<p><input type="submit" name="save" value="Save">'
     return output
+
 
 def retrieve_pageID(label):
     url = 'http://dbpedia.ailao.eu:3030/dbpedia/query'
@@ -129,7 +132,8 @@ FILTER ( LANG(?label) = 'en' )
     sparql.setQuery(sparql_query)
     res = sparql.query().convert()
     print (str(res['results']))
-    if len(res['results']) == 0:
+    if len(res['results']['bindings']) == 0:
+        print("no answer found nigga")
         return -1
     return res['results']['bindings'][0]['pageID']['value']
 
