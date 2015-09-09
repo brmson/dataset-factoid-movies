@@ -45,5 +45,12 @@ performance.
 
     python concept_linking_performance.py questionDump.json correct_dataset.json
 
-It prints the number of exact matches, recall (when there
+It prints the number of exact matches, partial matches (when there
 is atleast one match) and incorrect concepts.
+
+For moviesC, we found 584 out of 721 concepts in total (80.9%).
+We found the exact match for 405 questions (out of 542) and had
+partial matches in 68 questions.
+69 questions were linked to wrong concepts or 
+didn't have any concepts at all. Combining partial exact matches,
+the accuracy is 87.26%
