@@ -31,6 +31,8 @@ def compare(dataset, correct):
         found_one = False
         found_all = True
         n_correct = 0
+        missed = set()
+        extra = set([c['fullLabel'] for c in entry['Concept']])
         for concept in standard['Concept']:
             found_any = False
             concepts_gs += 1
@@ -39,16 +41,21 @@ def compare(dataset, correct):
                     n_correct += 1
                     found_one = True
                     found_any = True
+                    try:
+                        extra.remove(concept2['fullLabel'])
+                    except KeyError:
+                        pass
             if found_any is False:
                 found_all = False
+                missed.add(concept['fullLabel'])
         if found_one is False:
-            print("no match found for " + str(entry['qId']))
+            print("no match found for %s [%s] :: %s" % (str(entry['qId']), entry['qText'], standard['Concept']))
             continue
-        if found_all is True:
-            print("full match for " + str(entry['qId']))
+        if found_all is True and len(entry['Concept']) == len(standard['Concept']):
+            print("full match for %s, %d concepts" % (str(entry['qId']), len(standard['Concept'])))
             exact_match += 1
         else:
-            print("partial_match for " + str(entry['qId']))
+            print("partial_match for %s [%s] :: missed %s, extra %s" % (entry['qId'], entry['qText'], missed, extra))
             partial_match += 1
 
         concepts_gen_correct += n_correct
