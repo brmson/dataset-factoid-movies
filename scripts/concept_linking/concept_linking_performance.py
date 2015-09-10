@@ -81,7 +81,7 @@ def compare(dataset, correct):
     print("precision %.3f%%, recall %.3f%%, F1 %.3f%%" % (perq_precision * 100, perq_recall * 100, perq_f1 * 100))
 
     print()
-    print(":: per-answer statistics")
+    print(":: per-entity statistics")
     precision = (concepts_gen_correct / float(concepts_gen_all))
     recall = (concepts_gen_correct / float(concepts_gs))
     print("precision: {0}/{1}, {2}% ".format
