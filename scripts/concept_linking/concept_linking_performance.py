@@ -11,7 +11,6 @@
 from __future__ import print_function
 import sys
 import json
-import itertools
 
 
 def compare(dataset, correct):
@@ -73,7 +72,7 @@ def compare(dataset, correct):
 
     print()
     print("---")
-    print(":: per-question statistics")
+    print(":: per-question statistics (macro measure)")
     print("exact match: {0} questions".format(exact_match))
     print("partial_match: {0} questions".format(partial_match))
     print("not found: {0} questions".format(total - (partial_match + exact_match)))
@@ -81,7 +80,7 @@ def compare(dataset, correct):
     print("precision %.3f%%, recall %.3f%%, F1 %.3f%%" % (perq_precision * 100, perq_recall * 100, perq_f1 * 100))
 
     print()
-    print(":: per-entity statistics")
+    print(":: per-entity statistics (micro measure)")
     precision = (concepts_gen_correct / float(concepts_gen_all))
     recall = (concepts_gen_correct / float(concepts_gs))
     print("precision: {0}/{1}, {2}% ".format
