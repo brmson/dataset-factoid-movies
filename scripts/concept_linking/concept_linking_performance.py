@@ -24,7 +24,7 @@ def compare(dataset, correct):
     perq_recall = 0
     perq_f1 = 0
     total = len(dataset)
-    for entry, standard in itertools.izip(dataset, correct):
+    for entry, standard in zip(dataset, correct):
         if entry['qId'] != standard['qId']:
             print("Incorrect match. Please sort dataset")
             break
