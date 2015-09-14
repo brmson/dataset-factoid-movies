@@ -131,7 +131,7 @@ def compare(dataset, correct):
     print("F1 %.3f%%" % (2 * (precision * recall) / (precision + recall) * 100,))
 
     print()
-    print(":: statistics per error type")
+    print(":: answer MRR per entity error type")
     print("MRR for questions with exact match of concepts: {0}".format(calculate_mrr(exact_match_set)))
     print("MRR for questions with superfluous concepts:    {0}".format(calculate_mrr(partial_more_set)))
     print("MRR for questions with missing concepts:        {0}".format(calculate_mrr(partial_missing)))
