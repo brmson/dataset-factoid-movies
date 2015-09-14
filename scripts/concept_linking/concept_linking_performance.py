@@ -39,8 +39,6 @@ def load_from_tsv(filename):
 
 
 def compare(dataset, correct):
-    partial_match = 0
-    exact_match = 0
     concepts_gs = 0
     concepts_gen_correct = 0
     concepts_gen_all = 0
@@ -85,10 +83,8 @@ def compare(dataset, correct):
         if found_all is True and len(entry['Concept']) == len(standard['Concept']):
             print("full match for %s, %d concepts" % (str(entry['qId']), len(standard['Concept'])))
             exact_match_set.add(entry['qId'])
-            exact_match += 1
         else:
             print("partial_match for %s [%s] :: missed %s, extra %s" % (entry['qId'], entry['qText'], missed, extra))
-            partial_match += 1
             if len(extra) > 0 and len(missed) == 0:
                 partial_more_set.add(entry['qId'])
             elif len(missed) > 0:
@@ -112,10 +108,11 @@ def compare(dataset, correct):
     print()
     print("---")
     print(":: per-question statistics (macro measure)")
-    print("exact match: {0} questions".format(exact_match))
-    print("partial_match: {0} questions".format(partial_match))
-    print("not found: {0} questions".format(total - (partial_match + exact_match)))
-    print("partial or exact match: {0}% questions".format((exact_match + partial_match) / float(total) * 100))
+    print("exact match: {0} questions".format(len(exact_match_set)))
+    print("partial_match (extra): {0} questions".format(len(partial_more_set)))
+    print("partial_match (missing): {0} questions".format(len(partial_missing)))
+    print("not found: {0} questions".format(len(none_found_set)))
+    print("partial or exact match: {0}% questions".format((1 - len(none_found_set) / float(total)) * 100))
     print("precision %.3f%%, recall %.3f%%, F1 %.3f%%" % (perq_precision * 100, perq_recall * 100, perq_f1 * 100))
 
     print()
