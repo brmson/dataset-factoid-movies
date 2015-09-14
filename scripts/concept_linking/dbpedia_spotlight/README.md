@@ -5,6 +5,10 @@ This script measures the entity linking performance of
 DBpedia spotlight against our json datasets using their
 REST interface.
 
+The dump.json contains DBpedia spotlight output as of 2015-09-14
+for moviesC.  To get it, uncomment the appropriate line in
+spotlight_performance.py's main.
+
 To start it, just run 
 
     python spotlight_performance.py dataset.json dump.json
