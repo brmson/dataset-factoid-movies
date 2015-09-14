@@ -40,14 +40,15 @@ The script creates a valid json, checks for missing/duplicate
 entries and sorts it. You can run the functions separately.
 
 The concept_linking_performance.py script takes the fixed 
-QuestionDump json and the sorted dataset and measures the
-performance. 
+QuestionDump json, the gold standard tsv and the sorted dataset and measures the performance. 
 
-    python concept_linking_performance.py questionDump.json correct_dataset.json
+    python concept_linking_performance.py questionDump.json correct_dataset.json GS_dump.tsv
 
-It prints both missing and superfluous concepts for every questions.
+
+It prints both missing and superfluous concepts for every question.
 Also, it generates statistics at the end. Exact/partial matches,
-precision, recall, F1.
+precision, recall, F1. For each error case (exact match, superfluous
+concepts, missing concepts, no concepts at all), answer MRR is calculated.
 
 For moviesC, we found 584 out of 721 (80.9%) correct concepts in total.
 However, the precision is 584/3518 (16.6%), as we generated 
@@ -58,3 +59,10 @@ partial matches in 221 questions. 69 questions were linked to
 wrong concepts or didn't have any concepts at all. Thus, the 
 per-question precision is 57.9%, recall is at 81.7% and
 F1 score is 27.5%
+
+MRR for questions with exact match of concepts: 0.593861785386
+MRR for questions with superfluous concepts:    0.422891376295
+MRR for questions with missing concepts:        0.323527450722
+MRR for questions with no concepts at all:      0.011142049163
+
+
