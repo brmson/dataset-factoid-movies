@@ -105,35 +105,39 @@ def compare(dataset, correct):
     perq_recall = float(perq_recall) / total
     perq_f1 = float(perq_f1) / total
 
+    exact_prop = len(exact_match_set) / float(total)
+    partial_more_prop = len(partial_more_set) / float(total)
+    partial_missing_prop = len(partial_missing) / float(total)
+    none_found_prop = len(none_found_set) / float(total)
+
     print()
     print("---")
     print(":: per-question statistics (macro measure)")
-    print("exact match: {0} questions".format(len(exact_match_set)))
-    print("partial_match (extra): {0} questions".format(len(partial_more_set)))
-    print("partial_match (missing): {0} questions".format(len(partial_missing)))
-    print("not found: {0} questions".format(len(none_found_set)))
-    print("partial or exact match: {0}% questions".format((1 - len(none_found_set) / float(total)) * 100))
+    print("exact match: %d questions (%.3f%%)" % (len(exact_match_set), exact_prop * 100))
+    print("partial_match (extra): %d questions (%.3f%%)" % (len(partial_more_set), partial_more_prop * 100))
+    print("partial_match (missing): %d questions (%.3f%%)" % (len(partial_missing), partial_missing_prop * 100))
+    print("not found: %d questions (%.3f%%)" % (len(none_found_set), none_found_prop * 100))
     print("precision %.3f%%, recall %.3f%%, F1 %.3f%%" % (perq_precision * 100, perq_recall * 100, perq_f1 * 100))
 
     print()
     print(":: per-entity statistics (micro measure)")
     precision = (concepts_gen_correct / float(concepts_gen_all))
     recall = (concepts_gen_correct / float(concepts_gs))
-    print("precision: {0}/{1}, {2}% ".format
+    print("precision: %d/%d, %.3f%% " %
           (concepts_gen_correct, concepts_gen_all,
            precision * 100))
-    print("recall: {0}/{1}, {2}% ".format
+    print("recall: %d/%d, %.3f%% " %
           (concepts_gen_correct, concepts_gs,
            recall * 100))
     print("F1 %.3f%%" % (2 * (precision * recall) / (precision + recall) * 100,))
 
     print()
     print(":: answer MRR per entity error type")
-    print("MRR for questions with exact match of concepts: {0}".format(calculate_mrr(exact_match_set)))
-    print("MRR for questions with superfluous concepts:    {0}".format(calculate_mrr(partial_more_set)))
-    print("MRR for questions with missing concepts:        {0}".format(calculate_mrr(partial_missing)))
-    print("MRR for questions with no concepts at all:      {0}".format(calculate_mrr(none_found_set)))
-    print("total MRR: " + str(calculate_mrr(total_mrr)))
+    print("MRR for questions with exact match of concepts: %.3f" % (calculate_mrr(exact_match_set)))
+    print("MRR for questions with superfluous concepts:    %.3f" % (calculate_mrr(partial_more_set)))
+    print("MRR for questions with missing concepts:        %.3f" % (calculate_mrr(partial_missing)))
+    print("MRR for questions with no concepts at all:      %.3f" % (calculate_mrr(none_found_set)))
+    print("total MRR: %.3f" % (calculate_mrr(total_mrr)))
 
 
 def main():
