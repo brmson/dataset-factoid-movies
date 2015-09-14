@@ -16,7 +16,7 @@ import csv
 qid_rank_dict = {}
 
 
-def calculate_mrr(qid_set):
+def calculate_mrr(qid_set, prop=0, exact_mrr=0):
     global qid_rank_dict
     rank_sum = 0
     count = float(len(qid_set))
@@ -25,7 +25,8 @@ def calculate_mrr(qid_set):
         if rank != 0:
             rank_sum += (1 / rank)
     mrr = rank_sum / count
-    return mrr
+    mrr_wd = (exact_mrr - mrr) * prop
+    return mrr, mrr_wd
 
 
 #loads a file with a json array and creates a corresponding dictionary with qIds as key
@@ -132,12 +133,13 @@ def compare(dataset, correct):
     print("F1 %.3f%%" % (2 * (precision * recall) / (precision + recall) * 100,))
 
     print()
-    print(":: answer MRR per entity error type")
-    print("MRR for questions with exact match of concepts: %.3f" % (calculate_mrr(exact_match_set)))
-    print("MRR for questions with superfluous concepts:    %.3f" % (calculate_mrr(partial_more_set)))
-    print("MRR for questions with missing concepts:        %.3f" % (calculate_mrr(partial_missing)))
-    print("MRR for questions with no concepts at all:      %.3f" % (calculate_mrr(none_found_set)))
-    print("total MRR: %.3f" % (calculate_mrr(total_mrr)))
+    print(":: answer MRR per entity error type (wΔ is MRR drop against correct weighted by question proportion)")
+    exact_mrr = calculate_mrr(exact_match_set)[0]
+    print("MRR for questions with exact match of concepts: %.3f" % exact_mrr)
+    print("MRR for questions with superfluous concepts:    %.3f (wΔ %.3f)" % calculate_mrr(partial_more_set, partial_more_prop, exact_mrr))
+    print("MRR for questions with missing concepts:        %.3f (wΔ %.3f)" % calculate_mrr(partial_missing, partial_missing_prop, exact_mrr))
+    print("MRR for questions with no concepts at all:      %.3f (wΔ %.3f)" % calculate_mrr(none_found_set, none_found_prop, exact_mrr))
+    print("total MRR: %.3f" % (calculate_mrr(total_mrr)[0]))
 
 
 def main():
