@@ -15,6 +15,8 @@ import json
 import csv
 qid_rank_dict = {}
 
+f_deg = 2  # degree of F-measure; 1==F1, 2==recall more important than precision
+
 
 def calculate_mrr(qid_set, prop=0, exact_mrr=0):
     global qid_rank_dict
@@ -45,7 +47,7 @@ def compare(dataset, correct):
     concepts_gen_all = 0
     perq_precision = 0
     perq_recall = 0
-    perq_f1 = 0
+    perq_f = 0
     partial_more_set = set()
     partial_missing = set()
     exact_match_set = set()
@@ -100,11 +102,11 @@ def compare(dataset, correct):
         recall = n_correct / float(len(standard['Concept']))
         perq_precision += precision
         perq_recall += recall
-        perq_f1 += 2*(precision*recall)/(precision+recall)
+        perq_f += (1+f_deg*f_deg) * (precision*recall) / ((f_deg*f_deg)*precision + recall)
 
     perq_precision = float(perq_precision) / total
     perq_recall = float(perq_recall) / total
-    perq_f1 = float(perq_f1) / total
+    perq_f = float(perq_f) / total
 
     exact_prop = len(exact_match_set) / float(total)
     partial_more_prop = len(partial_more_set) / float(total)
@@ -118,7 +120,7 @@ def compare(dataset, correct):
     print("partial_match (extra): %d questions (%.3f%%)" % (len(partial_more_set), partial_more_prop * 100))
     print("partial_match (missing): %d questions (%.3f%%)" % (len(partial_missing), partial_missing_prop * 100))
     print("not found: %d questions (%.3f%%)" % (len(none_found_set), none_found_prop * 100))
-    print("precision %.3f%%, recall %.3f%%, F1 %.3f%%" % (perq_precision * 100, perq_recall * 100, perq_f1 * 100))
+    print("precision %.3f%%, recall %.3f%%, F%.1f %.3f%%" % (perq_precision * 100, perq_recall * 100, f_deg, perq_f * 100))
 
     print()
     print(":: per-entity statistics (micro measure)")
@@ -130,7 +132,7 @@ def compare(dataset, correct):
     print("recall: %d/%d, %.3f%% " %
           (concepts_gen_correct, concepts_gs,
            recall * 100))
-    print("F1 %.3f%%" % (2 * (precision * recall) / (precision + recall) * 100,))
+    print("F%.1f %.3f%%" % (f_deg, (1 + f_deg*f_deg) * (precision * recall) / (f_deg*f_deg * precision + recall) * 100,))
 
     print()
     print(":: answer MRR per entity error type (wΔ is MRR drop against correct weighted by question proportion)")
