@@ -11,8 +11,8 @@ output_filename = argv[2]
 train = file(output_filename + "-train.json", 'w')
 test = file(output_filename + "-test.json", 'w')
 
-train.write('[\r\n')
-test.write('[\r\n')
+train.write('[\n')
+test.write('[\n')
 jsfile = train
 with open(input_filename,'r') as f:
     reader=f.readlines()
@@ -26,7 +26,7 @@ with open(input_filename,'r') as f:
             jsfile = test
         else:
             jsfile = train
-        words = line.split("\t")
+        words = line.split("\t")[1:]
         jsfile.write('{')
         jsfile.write('"qId\": \"mfb' + str(i).zfill(6) + '\", ')
         jsfile.write('"qText\": \"' + words[1] + '\", ')

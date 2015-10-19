@@ -41,6 +41,8 @@ and public feedback in our 2 spreadsheets (downloaded 17.8.2015):
 
 	https://docs.google.com/spreadsheets/d/1W43mU78kmp6cSM5JEekdXFm_QM_Brj6piq2vAjG8qNM
 
+**moviesD** is an update of moviesC on 2015-10-19.
+
 =======
 	../dataset-factoid-webquestions/scripts/json2tsv.py moviesC train moviesC
 	../dataset-factoid-webquestions/scripts/json2tsv.py moviesC test moviesC
