@@ -3,6 +3,7 @@
 
 #basic	who wrote the script for $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.written_by ?a }
 #basic	who is the director of $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.directed_by ?a }
+#basic	Whose is $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.directed_by ?a }
 #basic	who is the producer of $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.produced_by ?a }
 #basic	who was the art director for $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.film_art_direction_by ?a }
 #basic	who performed the cinematography of $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.cinematography ?a }
@@ -13,38 +14,31 @@
 
 #cmplx	who did the special effects in $MOVIE?		SELECT ?a WHERE { $MOVIE ns:film.film.other_crew ?c . ?c ns:film.film_crew_gig.crewmember ?a . ?c ns:film.film_crew_gig.film_crew_role ?r . ?r rdfs:label "Special effects supervisor"@en }
 
-#basic	when was $MOVIE released?	SELECT ?a WHERE { $MOVIE ns:film.film.initial_release_date ?a }
 #cvt	how long is $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.runtime ?r . ?r ns:film.film_cut.runtime ?a }
 #cvt	How long does $MOVIE last?	SELECT ?a WHERE { $MOVIE ns:film.film.runtime ?r . ?r ns:film.film_cut.runtime ?a }
+#cvt	What is the duration of $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.runtime ?r . ?r ns:film.film_cut.runtime ?a }
 
 #basic	Where was $MOVIE shot?	SELECT ?a WHERE { $MOVIE ns:film.film.featured_film_locations ?a }
 #basic	Where was $MOVIE made?	SELECT ?a WHERE { $MOVIE ns:film.film.featured_film_locations ?a }
+#basic	What was the filming location of $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.featured_film_locations ?a }
+#basic	What was the shooting location of $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.featured_film_locations ?a }
 
-#cvt	How big was the budget of $MOVIE?	TODO
-#cvt	How much did $MOVIE make?	TODO
-#cvt	How much money made $MOVIE?	TODO
+#cvt	How big was the budget of $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.estimated_budget ?b . ?b ns:measurement_unit.dated_money_value.amount ?a }
+#cvt	How much was the budget of $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.estimated_budget ?b . ?b ns:measurement_unit.dated_money_value.amount ?a }
+#cvt	What was the budget for $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.estimated_budget ?b . ?b ns:measurement_unit.dated_money_value.amount ?a }
+#cvt	How much did $MOVIE make?	SELECT ?a WHERE { $MOVIE ns:film.film.gross_revenue ?b . ?b ns:measurement_unit.dated_money_value.amount ?a }
+#cvt	How much money made $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.gross_revenue ?b . ?b ns:measurement_unit.dated_money_value.amount ?a }
 
-TODO:
+#basic	What gentre is $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.genre ?a }
+#basic	What genre is $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.genre ?a }
+#basic	What kind of genre is $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.genre ?a }
+#basic	What kind a movie is $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.genre ?a }
 
-How much was the <budget>  of the <movie.name> : <budget>
+#basic	when was $MOVIE released?	SELECT ?a WHERE { $MOVIE ns:film.film.initial_release_date ?a }
+#basic	what was the release date of $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.initial_release_date ?a }
+#basic 	What is the rating of $MOVIE	SELECT ?a WHERE { $MOVIE ns:film.film.rating ?a }
+#basic	What company produced $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.production_company ?a }
+#basic	What is the distribution company of $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.distributors ?d . ?d ns:film.film_film_distributor_relationship.distributor ?a }
 
-What was the filming location of the <movie.name> : <location>
-What was the special effects company for the <movie.name> : <company.specialeffects>
-What gentre is the <movie.name> : <genre>
-What is the rating of the <movie.name> : <rating>
-What gentre is the duration of teh <movie.name> : <time.duration>
-What was the budget for the <movie.name> : <budget>
-What is the <company.production> of the <movie.name> : <company.production>
-What is the <company.distribution> of the <movie.name> : <company.distribution>
-What was the <date.release> of the <movie.name> : <date.release>
-What was the <budget>  of the <movie.name> : <budget>
-What was the shooting <location>  of the <movie.name> : <location>
-
-What kind of genre is the <movie.name> : <genre> 
-What kind of a ovie is the <movie.name> : <genre>
-
-
-What time was made the <movie.name> : <time.making>
-What time was the <movie.name> released : <time.release>
-
-
+#cvt	What awards did $MOVIE receive?	TODO
+#aggreg	How many awards did $MOVIE receive?	TODO

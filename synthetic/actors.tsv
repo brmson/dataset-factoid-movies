@@ -1,0 +1,5 @@
+#cmplx	Which of the movies where $PERSON starred received Oscar?	TODO
+#basic	What movies did $PERSON star in?	SELECT ?a WHERE { ?a ns:film.film.starring ?s . ?s ns:film.performance.character $CHARACTER . ?s ns:film.performance.actor ?a }
+#aggreg	What was the last movie where $PERSON played?	TODO
+#cvt	What awards did $PERSON receive?	TODO
+#cvt	What oscards did $PERSON receive?	TODO

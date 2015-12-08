@@ -1,0 +1,2 @@
+#witns	Who played $CHARACTER in $MOVIE?	SELECT ?a WHERE { $MOVIE ns:film.film.starring ?s . ?s ns:film.performance.character $CHARACTER . ?s ns:film.performance.actor ?a }
+#basic	Who did $PERSON play in $MOVIE?	SELECT ?a WHERE { ?a ns:film.film.starring ?s . ?s ns:film.performance.character ?a . ?s ns:film.performance.actor $PERSON }
