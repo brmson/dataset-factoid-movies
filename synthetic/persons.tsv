@@ -1,19 +1,19 @@
-#basic	When was $PERSON born?	SELECT ?a WHERE { $PERSON ns:people.person.date_of_birth ?a }
-#basic	Where was $PERSON born?	SELECT ?a WHERE { $PERSON ns:people.person.place_of_birth ?a }
-#basic	What is $PERSON's birth place?	SELECT ?a WHERE { $PERSON ns:people.person.place_of_birth ?a }
+#basic	When was $PERSON born?	$PERSON ns:people.person.date_of_birth ?a .
+#basic	Where was $PERSON born?	$PERSON ns:people.person.place_of_birth ?a .
+#basic	What is $PERSON's birth place?	$PERSON ns:people.person.place_of_birth ?a .
 
-#basic	When did $PERSON die?	SELECT ?a WHERE { $PERSON ns:people.deceased_person.date_of_death ?a }
-#basic	Where did $PERSON die?	SELECT ?a WHERE { $PERSON ns:people.deceased_person.place_of_death ?a }
-#basic	How did $PERSON die?	SELECT ?a WHERE { $PERSON ns:people.deceased_person.cause_of_death ?a }
-#basic	Where is $PERSON buried?	SELECT ?a WHERE { $PERSON ns:people.deceased_person.place_of_burial ?a }
+#basic	When did $PERSON die?	$PERSON ns:people.deceased_person.date_of_death ?a .
+#basic	Where did $PERSON die?	$PERSON ns:people.deceased_person.place_of_death ?a .
+#basic	How did $PERSON die?	$PERSON ns:people.deceased_person.cause_of_death ?a .
+#basic	Where is $PERSON buried?	$PERSON ns:people.deceased_person.place_of_burial ?a .
 
-#basic	What is $PERSON's nationality?	SELECT ?a WHERE { $PERSON ns:people.person.nationality ?a }
-#basic	Where is $PERSON from?	SELECT ?a WHERE { $PERSON ns:people.person.place_of_birth ?a }
-#basic	How high is $PERSON?	SELECT ?a WHERE { $PERSON ns:people.person.height_meters ?a }
-#basic	How tall is $PERSON?	SELECT ?a WHERE { $PERSON ns:people.person.height_meters ?a }
-#basic	What's the $PERSON's height?	SELECT ?a WHERE { $PERSON ns:people.person.height_meters ?a }
+#basic	What is $PERSON's nationality?	$PERSON ns:people.person.nationality ?a .
+#basic	Where is $PERSON from?	$PERSON ns:people.person.place_of_birth ?a .
+#basic	How high is $PERSON?	$PERSON ns:people.person.height_meters ?a .
+#basic	How tall is $PERSON?	$PERSON ns:people.person.height_meters ?a .
+#basic	What's the $PERSON's height?	$PERSON ns:people.person.height_meters ?a .
 
-#basic	Who are the parents of $PERSON?	SELECT ?a WHERE { $PERSON ns:people.person.parents ?a . }
-#cmplx	Who is $PERSON's father?	SELECT ?a WHERE { $PERSON ns:people.person.parents ?a . ?a ns:people.person.gender ns:m.05zppz }
-#cmplx	Who is $PERSON's mother?	SELECT ?a WHERE { $PERSON ns:people.person.parents ?a . ?a ns:people.person.gender ns:m.02zsn }
-#cvt	Who is $PERSON married to?	SELECT ?a WHERE { $PERSON ns:people.person.spouse_s ?m . ?m ns:people.marriage.spouse ?a . FILTER (?a != $PERSON) }
+#basic	Who are the parents of $PERSON?	$PERSON ns:people.person.parents ?a .
+#cmplx	Who is $PERSON's father?	$PERSON ns:people.person.parents ?a . ?a ns:people.person.gender ns:m.05zppz .
+#cmplx	Who is $PERSON's mother?	$PERSON ns:people.person.parents ?a . ?a ns:people.person.gender ns:m.02zsn .
+#cvt	Who is $PERSON married to?	$PERSON ns:people.person.spouse_s ?m . ?m ns:people.marriage.spouse ?a . FILTER (?a != $PERSON)

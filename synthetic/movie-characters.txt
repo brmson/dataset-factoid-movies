@@ -1,3 +1,4 @@
 Fight Club,Tyler Durden,Brad Pitt
 The Avengers,Ironman,Robert Downey Jr.
 Harry Potter and the Prisoner of Azkaban,Harry Potter,Daniel Radcliffe
+Harry Potter and the Prisoner of Azkaban,Professor Albus Dumbledore,Michael Gambon
