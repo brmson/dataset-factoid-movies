@@ -28,6 +28,9 @@ YodaQA typically excepts datasets in a TSV format rather than JSON.
 (JSON collection reader in YodaQA is work-in-progress.)  To get the
 data to TSV format, run
 
+	../dataset-factoid-webquestions/scripts/json2tsv.py moviesC train moviesC
+	../dataset-factoid-webquestions/scripts/json2tsv.py moviesC test moviesC
+
 The dataset is called **moviesA** - the A letter represents our intention
 to develop it further.  It is currently rather noisy, mixed with sports
 questions and not that large either.
@@ -43,6 +46,5 @@ and public feedback in our 2 spreadsheets (downloaded 17.8.2015):
 
 **moviesD** is an update of moviesC on 2015-10-19.
 
-=======
-	../dataset-factoid-webquestions/scripts/json2tsv.py moviesC train moviesC
-	../dataset-factoid-webquestions/scripts/json2tsv.py moviesC test moviesC
+**moviesE** is an update of moviesD on 2015-12-10 and inclusion of
+synthetic questions gen v0.
