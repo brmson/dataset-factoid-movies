@@ -111,7 +111,7 @@ def genquestion(n, q, edict):
         return
 
     qid = 'syn%02d%04d' % (int(sys.argv[4]), n)
-    print('%s\t%s\t%s\t%s' % (qid, qText, '|'.join(answers), q.tag))
+    print('{ "qId": "%s", "qText": "%s", "answers": [%s], "tags": ["%s"] }' % (qid, qText, ', '.join(['"'+a+'"' for a in answers]), q.tag))
 
 Question = namedtuple("Question", "qText query tag")
 
