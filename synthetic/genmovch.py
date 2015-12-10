@@ -1,10 +1,10 @@
 #!/usr/bin/python3 -u
 #
-# Generate questions from a given set of templates
+# Generate movie-character questions from a given set of movies
 #
-# Example: genquestions.py movie-characters.tsv movie-characters.txt MOVIE,CHARACTER,PERSON 0
+# Example: genmovch.py movies.txt 4
 #
-# ...where 0 is the "generation" number for the synthetic generator
+# ...where 4 is the "generation" number for the synthetic generator
 # so that on re-runs with new templates, question IDs are not reused.
 
 from collections import namedtuple
@@ -76,65 +76,49 @@ SELECT DISTINCT ?topic WHERE {
         retVal.append(r['topic']['value'])
     return retVal[0] if retVal else None
 
-def queryAnswer(query):
+def queryMovieCharacter(movie):
     sparql = SPARQLWrapper(fburl)
     sparql.setReturnFormat(JSON)
     sparql_query = '''
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ns: <http://rdf.freebase.com/ns/>
-SELECT DISTINCT ?ans WHERE {
-''' + query + '''
-OPTIONAL { ?a rdfs:label ?alabel . FILTER(LANG(?alabel) = "en") }
-BIND(IF(BOUND(?alabel), ?alabel, ?a) AS ?ans)
-}'''
+SELECT ?p ?q WHERE {
+<''' + movie + '''> ns:film.film.starring ?s .
+?s ns:film.performance.actor ?pp .
+?pp rdfs:label ?p .
+?s ns:film.performance.character ?qq .
+?qq rdfs:label ?q .
+FILTER(LANG(?p) = "en") FILTER(LANG(?q) = "en")
+} LIMIT 8'''
     sparql.setQuery(sparql_query)
     res = sparql.query().convert()
     retVal = []
     for r in res['results']['bindings']:
-        retVal.append(r['ans']['value'])
+        retVal.append((r['p']['value'], r['q']['value']))
     # print('RV', retVal)
     return retVal
 
-def genquestion(n, q, edict):
-    qText = q.qText
-    query = q.query
-    for elabel, entity in edict.items():
-        entname, enturl = entity
-        qText = qText.replace('$'+elabel, entname)
-        query = query.replace('$'+elabel, '<'+enturl+'>')
-    if '$' in query or '$' in qText:
-        print('Unsubstituted variable: '+qText, file=sys.stderr)
+def genquestion(n, edict):
+    if not 'MOVIE' in edict:
         return
-    answers = queryAnswer(query)
-    if not answers:
-        print('No answer (skipping): '+qText, file=sys.stderr)
-        return
+    answers = queryMovieCharacter(edict['MOVIE'][1])
 
-    qid = 'syn%02d%04d' % (int(sys.argv[4]), n)
-    print('{ "qId": "%s", "qText": "%s", "answers": [%s], "tags": ["%s"] }' % (qid, qText, ', '.join(['"'+a+'"' for a in answers]), q.tag))
-
-Question = namedtuple("Question", "qText query tag")
+    for actor, character in answers:
+        for i, qText, ans in [
+                    (n, 'Who played '+character+' in '+edict['MOVIE'][0]+'?', actor),
+                    (n+1, 'Who did '+actor+' play in '+edict['MOVIE'][0]+'?', character),
+                ]:
+            qid = 'syn%02d%04d' % (int(sys.argv[2]), i)
+            print('{ "qId": "%s", "qText": "%s", "answers": [%s], "tags": ["%s"] }' % (qid, qText, '"'+ans+'"', "cvt"))
 
 
 if __name__ == "__main__":
-    questions = []
-    with open(sys.argv[1], 'r') as qf:
-        for ql in qf:
-            ql = ql.rstrip('\n')
-            if ql == '':
-                continue
-            tag, qText, query = ql.split('\t')
-            if query == 'TODO':
-                print('skipping TODO question: ' + qText, file=sys.stderr)
-                continue
-            questions.append(Question(qText, query, tag))
-
     entities = []
-    with open(sys.argv[2], 'r') as ef:
+    with open(sys.argv[1], 'r') as ef:
         for el in ef:
             el = el.rstrip('\n')
             ents = el.split(';')
-            labels = sys.argv[3].split(',')
+            labels = ['MOVIE']
             edict = dict()
             for i in range(len(labels)):
                 fbkey = queryFreebaseKey(queryWikipediaId(queryWikipediaLabel(ents[i])))
@@ -148,6 +132,5 @@ if __name__ == "__main__":
     n = 0
     for edict in entities:
         #print('... ' + ', '.join(edict.keys()), file=sys.stderr)
-        for q in questions:
-            genquestion(n, q, edict)
-            n += 1
+        genquestion(n, edict)
+        n += 2
