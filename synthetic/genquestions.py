@@ -134,7 +134,7 @@ if __name__ == "__main__":
         for el in ef:
             el = el.rstrip('\n')
             ents = el.split(',')
-            labels = sys.argv[3].split(',')
+            labels = sys.argv[3].split(';')
             edict = dict()
             for i in range(len(labels)):
                 fbkey = queryFreebaseKey(queryWikipediaId(queryWikipediaLabel(ents[i])))
