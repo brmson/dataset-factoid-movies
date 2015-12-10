@@ -89,7 +89,7 @@ SELECT ?p ?q WHERE {
 ?s ns:film.performance.character ?qq .
 ?qq rdfs:label ?q .
 FILTER(LANG(?p) = "en") FILTER(LANG(?q) = "en")
-} LIMIT 8'''
+} LIMIT 4'''
     sparql.setQuery(sparql_query)
     res = sparql.query().convert()
     retVal = []

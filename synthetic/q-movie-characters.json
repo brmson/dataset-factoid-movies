@@ -1,0 +1,676 @@
+{ "qId": "syn040000", "qText": "Who played Con #3 in The Shawshank Redemption?", "answers": ["Michael Lightsey"], "tags": ["cvt"] }
+{ "qId": "syn040001", "qText": "Who did Michael Lightsey play in The Shawshank Redemption?", "answers": ["Con #3"], "tags": ["cvt"] }
+{ "qId": "syn040000", "qText": "Who played Brooks Hatlen in The Shawshank Redemption?", "answers": ["James Whitmore"], "tags": ["cvt"] }
+{ "qId": "syn040001", "qText": "Who did James Whitmore play in The Shawshank Redemption?", "answers": ["Brooks Hatlen"], "tags": ["cvt"] }
+{ "qId": "syn040000", "qText": "Who played Andy Dufresne's Wife in The Shawshank Redemption?", "answers": ["Renee Blaine"], "tags": ["cvt"] }
+{ "qId": "syn040001", "qText": "Who did Renee Blaine play in The Shawshank Redemption?", "answers": ["Andy Dufresne's Wife"], "tags": ["cvt"] }
+{ "qId": "syn040000", "qText": "Who played Bank Manager in The Shawshank Redemption?", "answers": ["James Kisicki"], "tags": ["cvt"] }
+{ "qId": "syn040001", "qText": "Who did James Kisicki play in The Shawshank Redemption?", "answers": ["Bank Manager"], "tags": ["cvt"] }
+{ "qId": "syn040002", "qText": "Who played Wedding Guest #2 in The Godfather?", "answers": ["Ed Vantura"], "tags": ["cvt"] }
+{ "qId": "syn040003", "qText": "Who did Ed Vantura play in The Godfather?", "answers": ["Wedding Guest #2"], "tags": ["cvt"] }
+{ "qId": "syn040002", "qText": "Who played Baptism Observer in The Godfather?", "answers": ["Gian-Carlo Coppola"], "tags": ["cvt"] }
+{ "qId": "syn040003", "qText": "Who did Gian-Carlo Coppola play in The Godfather?", "answers": ["Baptism Observer"], "tags": ["cvt"] }
+{ "qId": "syn040002", "qText": "Who played Sonny's Bodyguard in The Godfather?", "answers": ["Joe Lo Grippo"], "tags": ["cvt"] }
+{ "qId": "syn040003", "qText": "Who did Joe Lo Grippo play in The Godfather?", "answers": ["Sonny's Bodyguard"], "tags": ["cvt"] }
+{ "qId": "syn040002", "qText": "Who played Theresa Hagen in The Godfather?", "answers": ["Tere Livrano"], "tags": ["cvt"] }
+{ "qId": "syn040003", "qText": "Who did Tere Livrano play in The Godfather?", "answers": ["Theresa Hagen"], "tags": ["cvt"] }
+{ "qId": "syn040004", "qText": "Who played Photographer in Court in The Godfather: Part II?", "answers": ["Gary Kurtz"], "tags": ["cvt"] }
+{ "qId": "syn040005", "qText": "Who did Gary Kurtz play in The Godfather: Part II?", "answers": ["Photographer in Court"], "tags": ["cvt"] }
+{ "qId": "syn040004", "qText": "Who played Strollo in The Godfather: Part II?", "answers": ["Andrea Maugeri"], "tags": ["cvt"] }
+{ "qId": "syn040005", "qText": "Who did Andrea Maugeri play in The Godfather: Part II?", "answers": ["Strollo"], "tags": ["cvt"] }
+{ "qId": "syn040004", "qText": "Who played Merle Johnson in The Godfather: Part II?", "answers": ["Troy Donahue"], "tags": ["cvt"] }
+{ "qId": "syn040005", "qText": "Who did Troy Donahue play in The Godfather: Part II?", "answers": ["Merle Johnson"], "tags": ["cvt"] }
+{ "qId": "syn040004", "qText": "Who played Theresa Hagen in The Godfather: Part II?", "answers": ["Tere Livrano"], "tags": ["cvt"] }
+{ "qId": "syn040005", "qText": "Who did Tere Livrano play in The Godfather: Part II?", "answers": ["Theresa Hagen"], "tags": ["cvt"] }
+{ "qId": "syn040006", "qText": "Who played Ferry Passenger #2 in The Dark Knight?", "answers": ["Natalie Hallam"], "tags": ["cvt"] }
+{ "qId": "syn040007", "qText": "Who did Natalie Hallam play in The Dark Knight?", "answers": ["Ferry Passenger #2"], "tags": ["cvt"] }
+{ "qId": "syn040006", "qText": "Who played Passenger #1 in The Dark Knight?", "answers": ["Craig Heaney"], "tags": ["cvt"] }
+{ "qId": "syn040007", "qText": "Who did Craig Heaney play in The Dark Knight?", "answers": ["Passenger #1"], "tags": ["cvt"] }
+{ "qId": "syn040006", "qText": "Who played Angry Hospital Relative in The Dark Knight?", "answers": ["Michelle Shields"], "tags": ["cvt"] }
+{ "qId": "syn040007", "qText": "Who did Michelle Shields play in The Dark Knight?", "answers": ["Angry Hospital Relative"], "tags": ["cvt"] }
+{ "qId": "syn040006", "qText": "Who played Det. Gerard Stephens in The Dark Knight?", "answers": ["Keith Szarabajka"], "tags": ["cvt"] }
+{ "qId": "syn040007", "qText": "Who did Keith Szarabajka play in The Dark Knight?", "answers": ["Det. Gerard Stephens"], "tags": ["cvt"] }
+{ "qId": "syn040010", "qText": "Who played DEF SS Officer in Schindler's List?", "answers": ["Marian Glinka"], "tags": ["cvt"] }
+{ "qId": "syn040011", "qText": "Who did Marian Glinka play in Schindler's List?", "answers": ["DEF SS Officer"], "tags": ["cvt"] }
+{ "qId": "syn040010", "qText": "Who played Wilhelm Kunde in Schindler's List?", "answers": ["Jochen Nickel"], "tags": ["cvt"] }
+{ "qId": "syn040011", "qText": "Who did Jochen Nickel play in Schindler's List?", "answers": ["Wilhelm Kunde"], "tags": ["cvt"] }
+{ "qId": "syn040010", "qText": "Who played German Clerk in Schindler's List?", "answers": ["Maciej Orłoś"], "tags": ["cvt"] }
+{ "qId": "syn040011", "qText": "Who did Maciej Orłoś play in Schindler's List?", "answers": ["German Clerk"], "tags": ["cvt"] }
+{ "qId": "syn040010", "qText": "Who played Czurda's Secretary in Schindler's List?", "answers": ["Marcin Grzymowicz"], "tags": ["cvt"] }
+{ "qId": "syn040011", "qText": "Who did Marcin Grzymowicz play in Schindler's List?", "answers": ["Czurda's Secretary"], "tags": ["cvt"] }
+{ "qId": "syn040012", "qText": "Who played Honey Bunny in Pulp Fiction?", "answers": ["Amanda Plummer"], "tags": ["cvt"] }
+{ "qId": "syn040013", "qText": "Who did Amanda Plummer play in Pulp Fiction?", "answers": ["Honey Bunny"], "tags": ["cvt"] }
+{ "qId": "syn040012", "qText": "Who played Hold Hands You Lovebirds Sayer in Pulp Fiction?", "answers": ["Emil Sitka"], "tags": ["cvt"] }
+{ "qId": "syn040013", "qText": "Who did Emil Sitka play in Pulp Fiction?", "answers": ["Hold Hands You Lovebirds Sayer"], "tags": ["cvt"] }
+{ "qId": "syn040012", "qText": "Who played Monster Joe in Pulp Fiction?", "answers": ["Dick Miller"], "tags": ["cvt"] }
+{ "qId": "syn040013", "qText": "Who did Dick Miller play in Pulp Fiction?", "answers": ["Monster Joe"], "tags": ["cvt"] }
+{ "qId": "syn040012", "qText": "Who played Lucky Lady in Pulp Fiction?", "answers": ["Lori Pizzo"], "tags": ["cvt"] }
+{ "qId": "syn040013", "qText": "Who did Lori Pizzo play in Pulp Fiction?", "answers": ["Lucky Lady"], "tags": ["cvt"] }
+{ "qId": "syn040014", "qText": "Who played Tuco in The Good, the Bad and the Ugly?", "answers": ["Eli Wallach"], "tags": ["cvt"] }
+{ "qId": "syn040015", "qText": "Who did Eli Wallach play in The Good, the Bad and the Ugly?", "answers": ["Tuco"], "tags": ["cvt"] }
+{ "qId": "syn040014", "qText": "Who played Stevens in The Good, the Bad and the Ugly?", "answers": ["Antonio Casas"], "tags": ["cvt"] }
+{ "qId": "syn040015", "qText": "Who did Antonio Casas play in The Good, the Bad and the Ugly?", "answers": ["Stevens"], "tags": ["cvt"] }
+{ "qId": "syn040014", "qText": "Who played Bounty Hunter #1 in The Good, the Bad and the Ugly?", "answers": ["Román Ariznavarreta"], "tags": ["cvt"] }
+{ "qId": "syn040015", "qText": "Who did Román Ariznavarreta play in The Good, the Bad and the Ugly?", "answers": ["Bounty Hunter #1"], "tags": ["cvt"] }
+{ "qId": "syn040014", "qText": "Who played Stevens' Wife in The Good, the Bad and the Ugly?", "answers": ["Chelo Alonso"], "tags": ["cvt"] }
+{ "qId": "syn040015", "qText": "Who did Chelo Alonso play in The Good, the Bad and the Ugly?", "answers": ["Stevens' Wife"], "tags": ["cvt"] }
+{ "qId": "syn040016", "qText": "Who played Gimli in The Lord of the Rings: The Return of the King?", "answers": ["John Rhys-Davies"], "tags": ["cvt"] }
+{ "qId": "syn040017", "qText": "Who did John Rhys-Davies play in The Lord of the Rings: The Return of the King?", "answers": ["Gimli"], "tags": ["cvt"] }
+{ "qId": "syn040016", "qText": "Who played Gríma Wormtongue in The Lord of the Rings: The Return of the King?", "answers": ["Brad Dourif"], "tags": ["cvt"] }
+{ "qId": "syn040017", "qText": "Who did Brad Dourif play in The Lord of the Rings: The Return of the King?", "answers": ["Gríma Wormtongue"], "tags": ["cvt"] }
+{ "qId": "syn040016", "qText": "Who played Peregrin Took in The Lord of the Rings: The Return of the King?", "answers": ["Billy Boyd"], "tags": ["cvt"] }
+{ "qId": "syn040017", "qText": "Who did Billy Boyd play in The Lord of the Rings: The Return of the King?", "answers": ["Peregrin Took"], "tags": ["cvt"] }
+{ "qId": "syn040016", "qText": "Who played Treebeard in The Lord of the Rings: The Return of the King?", "answers": ["John Rhys-Davies"], "tags": ["cvt"] }
+{ "qId": "syn040017", "qText": "Who did John Rhys-Davies play in The Lord of the Rings: The Return of the King?", "answers": ["Treebeard"], "tags": ["cvt"] }
+{ "qId": "syn040018", "qText": "Who played Desk Sergeant in Fight Club?", "answers": ["Leonard Termo"], "tags": ["cvt"] }
+{ "qId": "syn040019", "qText": "Who did Leonard Termo play in Fight Club?", "answers": ["Desk Sergeant"], "tags": ["cvt"] }
+{ "qId": "syn040018", "qText": "Who played Inspector Dent in Fight Club?", "answers": ["Ezra Buzzington"], "tags": ["cvt"] }
+{ "qId": "syn040019", "qText": "Who did Ezra Buzzington play in Fight Club?", "answers": ["Inspector Dent"], "tags": ["cvt"] }
+{ "qId": "syn040018", "qText": "Who played Channel 4 Reporter in Fight Club?", "answers": ["Lauren Sánchez"], "tags": ["cvt"] }
+{ "qId": "syn040019", "qText": "Who did Lauren Sánchez play in Fight Club?", "answers": ["Channel 4 Reporter"], "tags": ["cvt"] }
+{ "qId": "syn040018", "qText": "Who played Tyler Durden in Fight Club?", "answers": ["Brad Pitt"], "tags": ["cvt"] }
+{ "qId": "syn040019", "qText": "Who did Brad Pitt play in Fight Club?", "answers": ["Tyler Durden"], "tags": ["cvt"] }
+{ "qId": "syn040020", "qText": "Who played Figwit in The Lord of the Rings: The Fellowship of the Ring?", "answers": ["Bret McKenzie"], "tags": ["cvt"] }
+{ "qId": "syn040021", "qText": "Who did Bret McKenzie play in The Lord of the Rings: The Fellowship of the Ring?", "answers": ["Figwit"], "tags": ["cvt"] }
+{ "qId": "syn040020", "qText": "Who played Elendil in The Lord of the Rings: The Fellowship of the Ring?", "answers": ["Peter McKenzie"], "tags": ["cvt"] }
+{ "qId": "syn040021", "qText": "Who did Peter McKenzie play in The Lord of the Rings: The Fellowship of the Ring?", "answers": ["Elendil"], "tags": ["cvt"] }
+{ "qId": "syn040020", "qText": "Who played Gimli in The Lord of the Rings: The Fellowship of the Ring?", "answers": ["John Rhys-Davies"], "tags": ["cvt"] }
+{ "qId": "syn040021", "qText": "Who did John Rhys-Davies play in The Lord of the Rings: The Fellowship of the Ring?", "answers": ["Gimli"], "tags": ["cvt"] }
+{ "qId": "syn040020", "qText": "Who played Bounder in The Lord of the Rings: The Fellowship of the Ring?", "answers": ["Ian Mune"], "tags": ["cvt"] }
+{ "qId": "syn040021", "qText": "Who did Ian Mune play in The Lord of the Rings: The Fellowship of the Ring?", "answers": ["Bounder"], "tags": ["cvt"] }
+{ "qId": "syn040022", "qText": "Who played Lando Calrissian in Star Wars: Episode V - The Empire Strikes Back?", "answers": ["Billy Dee Williams"], "tags": ["cvt"] }
+{ "qId": "syn040023", "qText": "Who did Billy Dee Williams play in Star Wars: Episode V - The Empire Strikes Back?", "answers": ["Lando Calrissian"], "tags": ["cvt"] }
+{ "qId": "syn040022", "qText": "Who played Rebel Force Major Derlin in Star Wars: Episode V - The Empire Strikes Back?", "answers": ["John Ratzenberger"], "tags": ["cvt"] }
+{ "qId": "syn040023", "qText": "Who did John Ratzenberger play in Star Wars: Episode V - The Empire Strikes Back?", "answers": ["Rebel Force Major Derlin"], "tags": ["cvt"] }
+{ "qId": "syn040022", "qText": "Who played C-3PO in Star Wars: Episode V - The Empire Strikes Back?", "answers": ["Anthony Daniels"], "tags": ["cvt"] }
+{ "qId": "syn040023", "qText": "Who did Anthony Daniels play in Star Wars: Episode V - The Empire Strikes Back?", "answers": ["C-3PO"], "tags": ["cvt"] }
+{ "qId": "syn040022", "qText": "Who played Han Solo in Star Wars: Episode V - The Empire Strikes Back?", "answers": ["Harrison Ford"], "tags": ["cvt"] }
+{ "qId": "syn040023", "qText": "Who did Harrison Ford play in Star Wars: Episode V - The Empire Strikes Back?", "answers": ["Han Solo"], "tags": ["cvt"] }
+{ "qId": "syn040024", "qText": "Who played Mrs. Gump in Forrest Gump?", "answers": ["Sally Field"], "tags": ["cvt"] }
+{ "qId": "syn040025", "qText": "Who did Sally Field play in Forrest Gump?", "answers": ["Mrs. Gump"], "tags": ["cvt"] }
+{ "qId": "syn040024", "qText": "Who played Bus Recruit #1 in Forrest Gump?", "answers": ["Michael Flannery"], "tags": ["cvt"] }
+{ "qId": "syn040025", "qText": "Who did Michael Flannery play in Forrest Gump?", "answers": ["Bus Recruit #1"], "tags": ["cvt"] }
+{ "qId": "syn040024", "qText": "Who played Policeman at War Rally in Forrest Gump?", "answers": ["Dick Stilwell"], "tags": ["cvt"] }
+{ "qId": "syn040025", "qText": "Who did Dick Stilwell play in Forrest Gump?", "answers": ["Policeman at War Rally"], "tags": ["cvt"] }
+{ "qId": "syn040024", "qText": "Who played Local Anchor #3 in Forrest Gump?", "answers": ["Nathalie Hendrix"], "tags": ["cvt"] }
+{ "qId": "syn040025", "qText": "Who did Nathalie Hendrix play in Forrest Gump?", "answers": ["Local Anchor #3"], "tags": ["cvt"] }
+{ "qId": "syn040026", "qText": "Who played Bar Sub Con #3 in Inception?", "answers": ["Kraig Thornber"], "tags": ["cvt"] }
+{ "qId": "syn040027", "qText": "Who did Kraig Thornber play in Inception?", "answers": ["Bar Sub Con #3"], "tags": ["cvt"] }
+{ "qId": "syn040026", "qText": "Who played Cobb in Inception?", "answers": ["Jack Gilroy"], "tags": ["cvt"] }
+{ "qId": "syn040027", "qText": "Who did Jack Gilroy play in Inception?", "answers": ["Cobb"], "tags": ["cvt"] }
+{ "qId": "syn040026", "qText": "Who played Businessman #2 in Inception?", "answers": ["Andrew Pleavin"], "tags": ["cvt"] }
+{ "qId": "syn040027", "qText": "Who did Andrew Pleavin play in Inception?", "answers": ["Businessman #2"], "tags": ["cvt"] }
+{ "qId": "syn040026", "qText": "Who played LAX Passenger #1 in Inception?", "answers": ["Michael August"], "tags": ["cvt"] }
+{ "qId": "syn040027", "qText": "Who did Michael August play in Inception?", "answers": ["LAX Passenger #1"], "tags": ["cvt"] }
+{ "qId": "syn040028", "qText": "Who played Charley Cheswick in One Flew Over the Cuckoo's Nest?", "answers": ["Sydney Lassick"], "tags": ["cvt"] }
+{ "qId": "syn040029", "qText": "Who did Sydney Lassick play in One Flew Over the Cuckoo's Nest?", "answers": ["Charley Cheswick"], "tags": ["cvt"] }
+{ "qId": "syn040028", "qText": "Who played Fredrickson in One Flew Over the Cuckoo's Nest?", "answers": ["Vincent Schiavelli"], "tags": ["cvt"] }
+{ "qId": "syn040029", "qText": "Who did Vincent Schiavelli play in One Flew Over the Cuckoo's Nest?", "answers": ["Fredrickson"], "tags": ["cvt"] }
+{ "qId": "syn040028", "qText": "Who played Turkle in One Flew Over the Cuckoo's Nest?", "answers": ["Scatman Crothers"], "tags": ["cvt"] }
+{ "qId": "syn040029", "qText": "Who did Scatman Crothers play in One Flew Over the Cuckoo's Nest?", "answers": ["Turkle"], "tags": ["cvt"] }
+{ "qId": "syn040028", "qText": "Who played Woman in Crowd on Pier in One Flew Over the Cuckoo's Nest?", "answers": ["Anjelica Huston"], "tags": ["cvt"] }
+{ "qId": "syn040029", "qText": "Who did Anjelica Huston play in One Flew Over the Cuckoo's Nest?", "answers": ["Woman in Crowd on Pier"], "tags": ["cvt"] }
+{ "qId": "syn040030", "qText": "Who played Éothain in The Lord of the Rings: The Two Towers?", "answers": ["Sam Comery"], "tags": ["cvt"] }
+{ "qId": "syn040031", "qText": "Who did Sam Comery play in The Lord of the Rings: The Two Towers?", "answers": ["Éothain"], "tags": ["cvt"] }
+{ "qId": "syn040030", "qText": "Who played Gimli in The Lord of the Rings: The Two Towers?", "answers": ["John Rhys-Davies"], "tags": ["cvt"] }
+{ "qId": "syn040031", "qText": "Who did John Rhys-Davies play in The Lord of the Rings: The Two Towers?", "answers": ["Gimli"], "tags": ["cvt"] }
+{ "qId": "syn040030", "qText": "Who played Hero Orc #1 in The Lord of the Rings: The Two Towers?", "answers": ["Victoria Beynon-Cole"], "tags": ["cvt"] }
+{ "qId": "syn040031", "qText": "Who did Victoria Beynon-Cole play in The Lord of the Rings: The Two Towers?", "answers": ["Hero Orc #1"], "tags": ["cvt"] }
+{ "qId": "syn040030", "qText": "Who played Peregrin Took in The Lord of the Rings: The Two Towers?", "answers": ["Billy Boyd"], "tags": ["cvt"] }
+{ "qId": "syn040031", "qText": "Who did Billy Boyd play in The Lord of the Rings: The Two Towers?", "answers": ["Peregrin Took"], "tags": ["cvt"] }
+{ "qId": "syn040032", "qText": "Who played Potential #3 in The Matrix?", "answers": ["Adryn White"], "tags": ["cvt"] }
+{ "qId": "syn040033", "qText": "Who did Adryn White play in The Matrix?", "answers": ["Potential #3"], "tags": ["cvt"] }
+{ "qId": "syn040032", "qText": "Who played FedEx Man in The Matrix?", "answers": ["David O'Connor"], "tags": ["cvt"] }
+{ "qId": "syn040033", "qText": "Who did David O'Connor play in The Matrix?", "answers": ["FedEx Man"], "tags": ["cvt"] }
+{ "qId": "syn040032", "qText": "Who played Parking Cop in The Matrix?", "answers": ["Nigel Harbach"], "tags": ["cvt"] }
+{ "qId": "syn040033", "qText": "Who did Nigel Harbach play in The Matrix?", "answers": ["Parking Cop"], "tags": ["cvt"] }
+{ "qId": "syn040032", "qText": "Who played Shaylae in The Matrix?", "answers": ["Rana Morrison"], "tags": ["cvt"] }
+{ "qId": "syn040033", "qText": "Who did Rana Morrison play in The Matrix?", "answers": ["Shaylae"], "tags": ["cvt"] }
+{ "qId": "syn040034", "qText": "Who played Bleeding Man in Goodfellas?", "answers": ["John Di Benedetto"], "tags": ["cvt"] }
+{ "qId": "syn040035", "qText": "Who did John Di Benedetto play in Goodfellas?", "answers": ["Bleeding Man"], "tags": ["cvt"] }
+{ "qId": "syn040034", "qText": "Who played Young Henry's Sister #2 in Goodfellas?", "answers": ["Gina Mattia"], "tags": ["cvt"] }
+{ "qId": "syn040035", "qText": "Who did Gina Mattia play in Goodfellas?", "answers": ["Young Henry's Sister #2"], "tags": ["cvt"] }
+{ "qId": "syn040034", "qText": "Who played Bruce in Goodfellas?", "answers": ["Mark Evan Jacobs"], "tags": ["cvt"] }
+{ "qId": "syn040035", "qText": "Who did Mark Evan Jacobs play in Goodfellas?", "answers": ["Bruce"], "tags": ["cvt"] }
+{ "qId": "syn040034", "qText": "Who played Barbeque Wiseguy in Goodfellas?", "answers": ["Erasmus C. Alfano"], "tags": ["cvt"] }
+{ "qId": "syn040035", "qText": "Who did Erasmus C. Alfano play in Goodfellas?", "answers": ["Barbeque Wiseguy"], "tags": ["cvt"] }
+{ "qId": "syn040036", "qText": "Who played Greedo in Star Wars: Episode IV - A New Hope?", "answers": ["Paul Blake"], "tags": ["cvt"] }
+{ "qId": "syn040037", "qText": "Who did Paul Blake play in Star Wars: Episode IV - A New Hope?", "answers": ["Greedo"], "tags": ["cvt"] }
+{ "qId": "syn040036", "qText": "Who played Han Solo in Star Wars: Episode IV - A New Hope?", "answers": ["Harrison Ford"], "tags": ["cvt"] }
+{ "qId": "syn040037", "qText": "Who did Harrison Ford play in Star Wars: Episode IV - A New Hope?", "answers": ["Han Solo"], "tags": ["cvt"] }
+{ "qId": "syn040036", "qText": "Who played Greedo in Star Wars: Episode IV - A New Hope?", "answers": ["Larry Ward"], "tags": ["cvt"] }
+{ "qId": "syn040037", "qText": "Who did Larry Ward play in Star Wars: Episode IV - A New Hope?", "answers": ["Greedo"], "tags": ["cvt"] }
+{ "qId": "syn040036", "qText": "Who played General Dodonna in Star Wars: Episode IV - A New Hope?", "answers": ["Alex McCrindle"], "tags": ["cvt"] }
+{ "qId": "syn040037", "qText": "Who did Alex McCrindle play in Star Wars: Episode IV - A New Hope?", "answers": ["General Dodonna"], "tags": ["cvt"] }
+{ "qId": "syn040038", "qText": "Who played Kyûzô in Seven Samurai?", "answers": ["Seiji Miyaguchi"], "tags": ["cvt"] }
+{ "qId": "syn040039", "qText": "Who did Seiji Miyaguchi play in Seven Samurai?", "answers": ["Kyûzô"], "tags": ["cvt"] }
+{ "qId": "syn040038", "qText": "Who played Heihachi Hayashida in Seven Samurai?", "answers": ["Minoru Chiaki"], "tags": ["cvt"] }
+{ "qId": "syn040039", "qText": "Who did Minoru Chiaki play in Seven Samurai?", "answers": ["Heihachi Hayashida"], "tags": ["cvt"] }
+{ "qId": "syn040038", "qText": "Who played Rikichi in Seven Samurai?", "answers": ["Yoshio Tsuchiya"], "tags": ["cvt"] }
+{ "qId": "syn040039", "qText": "Who did Yoshio Tsuchiya play in Seven Samurai?", "answers": ["Rikichi"], "tags": ["cvt"] }
+{ "qId": "syn040038", "qText": "Who played Kikuchiyo in Seven Samurai?", "answers": ["Toshiro Mifune"], "tags": ["cvt"] }
+{ "qId": "syn040039", "qText": "Who did Toshiro Mifune play in Seven Samurai?", "answers": ["Kikuchiyo"], "tags": ["cvt"] }
+{ "qId": "syn040042", "qText": "Who played David Mills in Se7en?", "answers": ["Brad Pitt"], "tags": ["cvt"] }
+{ "qId": "syn040043", "qText": "Who did Brad Pitt play in Se7en?", "answers": ["David Mills"], "tags": ["cvt"] }
+{ "qId": "syn040042", "qText": "Who played Coroner in Se7en?", "answers": ["Reg E. Cathey"], "tags": ["cvt"] }
+{ "qId": "syn040043", "qText": "Who did Reg E. Cathey play in Se7en?", "answers": ["Coroner"], "tags": ["cvt"] }
+{ "qId": "syn040042", "qText": "Who played TV Anchor Woman in Se7en?", "answers": ["Beverly Burke"], "tags": ["cvt"] }
+{ "qId": "syn040043", "qText": "Who did Beverly Burke play in Se7en?", "answers": ["TV Anchor Woman"], "tags": ["cvt"] }
+{ "qId": "syn040042", "qText": "Who played Detective Taylor in Se7en?", "answers": ["Daniel Zacapa"], "tags": ["cvt"] }
+{ "qId": "syn040043", "qText": "Who did Daniel Zacapa play in Se7en?", "answers": ["Detective Taylor"], "tags": ["cvt"] }
+{ "qId": "syn040044", "qText": "Who played Roden in The Silence of the Lambs?", "answers": ["Dan Butler"], "tags": ["cvt"] }
+{ "qId": "syn040045", "qText": "Who did Dan Butler play in The Silence of the Lambs?", "answers": ["Roden"], "tags": ["cvt"] }
+{ "qId": "syn040044", "qText": "Who played FBI Instructor in The Silence of the Lambs?", "answers": ["Lawrence A. Bonney"], "tags": ["cvt"] }
+{ "qId": "syn040045", "qText": "Who did Lawrence A. Bonney play in The Silence of the Lambs?", "answers": ["FBI Instructor"], "tags": ["cvt"] }
+{ "qId": "syn040044", "qText": "Who played I.J. Miggs in The Silence of the Lambs?", "answers": ["Stuart Rudin"], "tags": ["cvt"] }
+{ "qId": "syn040045", "qText": "Who did Stuart Rudin play in The Silence of the Lambs?", "answers": ["I.J. Miggs"], "tags": ["cvt"] }
+{ "qId": "syn040044", "qText": "Who played Dr. Akin in The Silence of the Lambs?", "answers": ["Kenneth Utt"], "tags": ["cvt"] }
+{ "qId": "syn040045", "qText": "Who did Kenneth Utt play in The Silence of the Lambs?", "answers": ["Dr. Akin"], "tags": ["cvt"] }
+{ "qId": "syn040046", "qText": "Who played Strausz in The Usual Suspects?", "answers": ["Louis Lombardi"], "tags": ["cvt"] }
+{ "qId": "syn040047", "qText": "Who did Louis Lombardi play in The Usual Suspects?", "answers": ["Strausz"], "tags": ["cvt"] }
+{ "qId": "syn040046", "qText": "Who played Dr. Walters in The Usual Suspects?", "answers": ["Clark Gregg"], "tags": ["cvt"] }
+{ "qId": "syn040047", "qText": "Who did Clark Gregg play in The Usual Suspects?", "answers": ["Dr. Walters"], "tags": ["cvt"] }
+{ "qId": "syn040046", "qText": "Who played Redfoot the Fence in The Usual Suspects?", "answers": ["Peter Greene"], "tags": ["cvt"] }
+{ "qId": "syn040047", "qText": "Who did Peter Greene play in The Usual Suspects?", "answers": ["Redfoot the Fence"], "tags": ["cvt"] }
+{ "qId": "syn040046", "qText": "Who played Edie Finneran in The Usual Suspects?", "answers": ["Suzy Amis"], "tags": ["cvt"] }
+{ "qId": "syn040047", "qText": "Who did Suzy Amis play in The Usual Suspects?", "answers": ["Edie Finneran"], "tags": ["cvt"] }
+{ "qId": "syn040048", "qText": "Who played Joe in It's a Wonderful Life?", "answers": ["Ray Walker"], "tags": ["cvt"] }
+{ "qId": "syn040049", "qText": "Who did Ray Walker play in It's a Wonderful Life?", "answers": ["Joe"], "tags": ["cvt"] }
+{ "qId": "syn040048", "qText": "Who played Dr. Campbell in It's a Wonderful Life?", "answers": ["Harry Cheshire"], "tags": ["cvt"] }
+{ "qId": "syn040049", "qText": "Who did Harry Cheshire play in It's a Wonderful Life?", "answers": ["Dr. Campbell"], "tags": ["cvt"] }
+{ "qId": "syn040048", "qText": "Who played Tommy in It's a Wonderful Life?", "answers": ["Jimmy Hawkins"], "tags": ["cvt"] }
+{ "qId": "syn040049", "qText": "Who did Jimmy Hawkins play in It's a Wonderful Life?", "answers": ["Tommy"], "tags": ["cvt"] }
+{ "qId": "syn040048", "qText": "Who played Zuzu Bailey in It's a Wonderful Life?", "answers": ["Karolyn Grimes"], "tags": ["cvt"] }
+{ "qId": "syn040049", "qText": "Who did Karolyn Grimes play in It's a Wonderful Life?", "answers": ["Zuzu Bailey"], "tags": ["cvt"] }
+{ "qId": "syn040050", "qText": "Who played Old Maid Teacher in Life Is Beautiful?", "answers": ["Cristiana Porchiella"], "tags": ["cvt"] }
+{ "qId": "syn040051", "qText": "Who did Cristiana Porchiella play in Life Is Beautiful?", "answers": ["Old Maid Teacher"], "tags": ["cvt"] }
+{ "qId": "syn040050", "qText": "Who played City Hall Secretary in Life Is Beautiful?", "answers": ["Giovanna Villa"], "tags": ["cvt"] }
+{ "qId": "syn040051", "qText": "Who did Giovanna Villa play in Life Is Beautiful?", "answers": ["City Hall Secretary"], "tags": ["cvt"] }
+{ "qId": "syn040050", "qText": "Who played Dora in Life Is Beautiful?", "answers": ["Nicoletta Braschi"], "tags": ["cvt"] }
+{ "qId": "syn040051", "qText": "Who did Nicoletta Braschi play in Life Is Beautiful?", "answers": ["Dora"], "tags": ["cvt"] }
+{ "qId": "syn040050", "qText": "Who played Guicciardini in Life Is Beautiful?", "answers": ["Lidia Alfonsi"], "tags": ["cvt"] }
+{ "qId": "syn040051", "qText": "Who did Lidia Alfonsi play in Life Is Beautiful?", "answers": ["Guicciardini"], "tags": ["cvt"] }
+{ "qId": "syn040054", "qText": "Who played Frank's Lieutenant in Once Upon a Time in the West?", "answers": ["Michael Harvey"], "tags": ["cvt"] }
+{ "qId": "syn040055", "qText": "Who did Michael Harvey play in Once Upon a Time in the West?", "answers": ["Frank's Lieutenant"], "tags": ["cvt"] }
+{ "qId": "syn040054", "qText": "Who played Sheriff in Once Upon a Time in the West?", "answers": ["Keenan Wynn"], "tags": ["cvt"] }
+{ "qId": "syn040055", "qText": "Who did Keenan Wynn play in Once Upon a Time in the West?", "answers": ["Sheriff"], "tags": ["cvt"] }
+{ "qId": "syn040054", "qText": "Who played Wobbles in Once Upon a Time in the West?", "answers": ["Marco Zuanelli"], "tags": ["cvt"] }
+{ "qId": "syn040055", "qText": "Who did Marco Zuanelli play in Once Upon a Time in the West?", "answers": ["Wobbles"], "tags": ["cvt"] }
+{ "qId": "syn040054", "qText": "Who played Timmy McBain in Once Upon a Time in the West?", "answers": ["Enzo Santaniello"], "tags": ["cvt"] }
+{ "qId": "syn040055", "qText": "Who did Enzo Santaniello play in Once Upon a Time in the West?", "answers": ["Timmy McBain"], "tags": ["cvt"] }
+{ "qId": "syn040058", "qText": "Who played Bandai-gaeru in Spirited Away?", "answers": ["Yo Oizumi"], "tags": ["cvt"] }
+{ "qId": "syn040059", "qText": "Who did Yo Oizumi play in Spirited Away?", "answers": ["Bandai-gaeru"], "tags": ["cvt"] }
+{ "qId": "syn040058", "qText": "Who played Yuuko Ogino in Spirited Away?", "answers": ["Yasuko Sawaguchi"], "tags": ["cvt"] }
+{ "qId": "syn040059", "qText": "Who did Yasuko Sawaguchi play in Spirited Away?", "answers": ["Yuuko Ogino"], "tags": ["cvt"] }
+{ "qId": "syn040058", "qText": "Who played Akio Ogino in Spirited Away?", "answers": ["Takashi Naitō"], "tags": ["cvt"] }
+{ "qId": "syn040059", "qText": "Who did Takashi Naitō play in Spirited Away?", "answers": ["Akio Ogino"], "tags": ["cvt"] }
+{ "qId": "syn040058", "qText": "Who played Kamaji in Spirited Away?", "answers": ["Bunta Sugawara"], "tags": ["cvt"] }
+{ "qId": "syn040059", "qText": "Who did Bunta Sugawara play in Spirited Away?", "answers": ["Kamaji"], "tags": ["cvt"] }
+{ "qId": "syn040060", "qText": "Who played Soldier on the Beach #1 in Saving Private Ryan?", "answers": ["Loclann Aiken"], "tags": ["cvt"] }
+{ "qId": "syn040061", "qText": "Who did Loclann Aiken play in Saving Private Ryan?", "answers": ["Soldier on the Beach #1"], "tags": ["cvt"] }
+{ "qId": "syn040060", "qText": "Who played War Department Clerk in Saving Private Ryan?", "answers": ["Valerie Colgan"], "tags": ["cvt"] }
+{ "qId": "syn040061", "qText": "Who did Valerie Colgan play in Saving Private Ryan?", "answers": ["War Department Clerk"], "tags": ["cvt"] }
+{ "qId": "syn040060", "qText": "Who played Private Caparzo in Saving Private Ryan?", "answers": ["Vin Diesel"], "tags": ["cvt"] }
+{ "qId": "syn040061", "qText": "Who did Vin Diesel play in Saving Private Ryan?", "answers": ["Private Caparzo"], "tags": ["cvt"] }
+{ "qId": "syn040060", "qText": "Who played Lieutenant DeWindt in Saving Private Ryan?", "answers": ["Leland Orser"], "tags": ["cvt"] }
+{ "qId": "syn040061", "qText": "Who did Leland Orser play in Saving Private Ryan?", "answers": ["Lieutenant DeWindt"], "tags": ["cvt"] }
+{ "qId": "syn040062", "qText": "Who played Seth Ryan in American History X?", "answers": ["Ethan Suplee"], "tags": ["cvt"] }
+{ "qId": "syn040063", "qText": "Who did Ethan Suplee play in American History X?", "answers": ["Seth Ryan"], "tags": ["cvt"] }
+{ "qId": "syn040062", "qText": "Who played Dennis Vinyard in American History X?", "answers": ["William Russ"], "tags": ["cvt"] }
+{ "qId": "syn040063", "qText": "Who did William Russ play in American History X?", "answers": ["Dennis Vinyard"], "tags": ["cvt"] }
+{ "qId": "syn040062", "qText": "Who played Rasmussen in American History X?", "answers": ["Joseph Cortese"], "tags": ["cvt"] }
+{ "qId": "syn040063", "qText": "Who did Joseph Cortese play in American History X?", "answers": ["Rasmussen"], "tags": ["cvt"] }
+{ "qId": "syn040062", "qText": "Who played Lamont in American History X?", "answers": ["Guy Torry"], "tags": ["cvt"] }
+{ "qId": "syn040063", "qText": "Who did Guy Torry play in American History X?", "answers": ["Lamont"], "tags": ["cvt"] }
+{ "qId": "syn040066", "qText": "Who played An Eccentric Millionaire in City Lights?", "answers": ["Al Ernest Garcia"], "tags": ["cvt"] }
+{ "qId": "syn040067", "qText": "Who did Al Ernest Garcia play in City Lights?", "answers": ["An Eccentric Millionaire"], "tags": ["cvt"] }
+{ "qId": "syn040066", "qText": "Who played The Tramp in City Lights?", "answers": ["Charlie Chaplin"], "tags": ["cvt"] }
+{ "qId": "syn040067", "qText": "Who did Charlie Chaplin play in City Lights?", "answers": ["The Tramp"], "tags": ["cvt"] }
+{ "qId": "syn040066", "qText": "Who played A Blind Girl in City Lights?", "answers": ["Virginia Cherrill"], "tags": ["cvt"] }
+{ "qId": "syn040067", "qText": "Who did Virginia Cherrill play in City Lights?", "answers": ["A Blind Girl"], "tags": ["cvt"] }
+{ "qId": "syn040066", "qText": "Who played Extra in Restaurant Scene in City Lights?", "answers": ["Jean Harlow"], "tags": ["cvt"] }
+{ "qId": "syn040067", "qText": "Who did Jean Harlow play in City Lights?", "answers": ["Extra in Restaurant Scene"], "tags": ["cvt"] }
+{ "qId": "syn040068", "qText": "Who played Police Guard in Psycho?", "answers": ["Pat McCaffrie"], "tags": ["cvt"] }
+{ "qId": "syn040069", "qText": "Who did Pat McCaffrie play in Psycho?", "answers": ["Police Guard"], "tags": ["cvt"] }
+{ "qId": "syn040068", "qText": "Who played Tom Cassidy in Psycho?", "answers": ["Frank Albertson"], "tags": ["cvt"] }
+{ "qId": "syn040069", "qText": "Who did Frank Albertson play in Psycho?", "answers": ["Tom Cassidy"], "tags": ["cvt"] }
+{ "qId": "syn040068", "qText": "Who played Highway Patrol Officer in Psycho?", "answers": ["Mort Mills"], "tags": ["cvt"] }
+{ "qId": "syn040069", "qText": "Who did Mort Mills play in Psycho?", "answers": ["Highway Patrol Officer"], "tags": ["cvt"] }
+{ "qId": "syn040068", "qText": "Who played Dr. Fred Richman in Psycho?", "answers": ["Simon Oakland"], "tags": ["cvt"] }
+{ "qId": "syn040069", "qText": "Who did Simon Oakland play in Psycho?", "answers": ["Dr. Fred Richman"], "tags": ["cvt"] }
+{ "qId": "syn040070", "qText": "Who played Ratty Nepalese in Raiders of the Lost Ark?", "answers": ["Malcolm Weaver"], "tags": ["cvt"] }
+{ "qId": "syn040071", "qText": "Who did Malcolm Weaver play in Raiders of the Lost Ark?", "answers": ["Ratty Nepalese"], "tags": ["cvt"] }
+{ "qId": "syn040070", "qText": "Who played Driver of German Truck #2 in Raiders of the Lost Ark?", "answers": ["Sergio Mioni"], "tags": ["cvt"] }
+{ "qId": "syn040071", "qText": "Who did Sergio Mioni play in Raiders of the Lost Ark?", "answers": ["Driver of German Truck #2"], "tags": ["cvt"] }
+{ "qId": "syn040070", "qText": "Who played 1st Mechanic in Raiders of the Lost Ark?", "answers": ["Pat Roach"], "tags": ["cvt"] }
+{ "qId": "syn040071", "qText": "Who did Pat Roach play in Raiders of the Lost Ark?", "answers": ["1st Mechanic"], "tags": ["cvt"] }
+{ "qId": "syn040070", "qText": "Who played Col. Musgrove in Raiders of the Lost Ark?", "answers": ["Don Fellows"], "tags": ["cvt"] }
+{ "qId": "syn040071", "qText": "Who did Don Fellows play in Raiders of the Lost Ark?", "answers": ["Col. Musgrove"], "tags": ["cvt"] }
+{ "qId": "syn040072", "qText": "Who played Newlywed #1 in Rear Window?", "answers": ["Havis Davenport"], "tags": ["cvt"] }
+{ "qId": "syn040073", "qText": "Who did Havis Davenport play in Rear Window?", "answers": ["Newlywed #1"], "tags": ["cvt"] }
+{ "qId": "syn040072", "qText": "Who played Man with Miss Torso #1 in Rear Window?", "answers": ["Benny Bartlett"], "tags": ["cvt"] }
+{ "qId": "syn040073", "qText": "Who did Benny Bartlett play in Rear Window?", "answers": ["Man with Miss Torso #1"], "tags": ["cvt"] }
+{ "qId": "syn040072", "qText": "Who played Choreographer with Miss Torso in Rear Window?", "answers": ["Barbara Bailey"], "tags": ["cvt"] }
+{ "qId": "syn040073", "qText": "Who did Barbara Bailey play in Rear Window?", "answers": ["Choreographer with Miss Torso"], "tags": ["cvt"] }
+{ "qId": "syn040072", "qText": "Who played Sunbather #2 in Rear Window?", "answers": ["Jonni Paris"], "tags": ["cvt"] }
+{ "qId": "syn040073", "qText": "Who did Jonni Paris play in Rear Window?", "answers": ["Sunbather #2"], "tags": ["cvt"] }
+{ "qId": "syn040076", "qText": "Who played Minister's Wife in Modern Times?", "answers": ["Mira McKinney"], "tags": ["cvt"] }
+{ "qId": "syn040077", "qText": "Who did Mira McKinney play in Modern Times?", "answers": ["Minister's Wife"], "tags": ["cvt"] }
+{ "qId": "syn040076", "qText": "Who played A Gamin in Modern Times?", "answers": ["Paulette Goddard"], "tags": ["cvt"] }
+{ "qId": "syn040077", "qText": "Who did Paulette Goddard play in Modern Times?", "answers": ["A Gamin"], "tags": ["cvt"] }
+{ "qId": "syn040076", "qText": "Who played Cafe Proprietor in Modern Times?", "answers": ["Henry Bergman"], "tags": ["cvt"] }
+{ "qId": "syn040077", "qText": "Who did Henry Bergman play in Modern Times?", "answers": ["Cafe Proprietor"], "tags": ["cvt"] }
+{ "qId": "syn040076", "qText": "Who played J. Widdecombe Billows in Modern Times?", "answers": ["Murdock MacQuarrie"], "tags": ["cvt"] }
+{ "qId": "syn040077", "qText": "Who did Murdock MacQuarrie play in Modern Times?", "answers": ["J. Widdecombe Billows"], "tags": ["cvt"] }
+{ "qId": "syn040078", "qText": "Who played Earl the Plumber in The Green Mile?", "answers": ["Bill Gratton"], "tags": ["cvt"] }
+{ "qId": "syn040079", "qText": "Who did Bill Gratton play in The Green Mile?", "answers": ["Earl the Plumber"], "tags": ["cvt"] }
+{ "qId": "syn040078", "qText": "Who played Jan Edgecomb in The Green Mile?", "answers": ["Bonnie Hunt"], "tags": ["cvt"] }
+{ "qId": "syn040079", "qText": "Who did Bonnie Hunt play in The Green Mile?", "answers": ["Jan Edgecomb"], "tags": ["cvt"] }
+{ "qId": "syn040078", "qText": "Who played Tower Guard #2 in The Green Mile?", "answers": ["Robert Malone"], "tags": ["cvt"] }
+{ "qId": "syn040079", "qText": "Who did Robert Malone play in The Green Mile?", "answers": ["Tower Guard #2"], "tags": ["cvt"] }
+{ "qId": "syn040078", "qText": "Who played Inmate #1 in The Green Mile?", "answers": ["Bill Craddock"], "tags": ["cvt"] }
+{ "qId": "syn040079", "qText": "Who did Bill Craddock play in The Green Mile?", "answers": ["Inmate #1"], "tags": ["cvt"] }
+{ "qId": "syn040080", "qText": "Who played Douglas in Terminator 2: Judgment Day?", "answers": ["Ken Gibbel"], "tags": ["cvt"] }
+{ "qId": "syn040081", "qText": "Who did Ken Gibbel play in Terminator 2: Judgment Day?", "answers": ["Douglas"], "tags": ["cvt"] }
+{ "qId": "syn040080", "qText": "Who played Hospital Guard in Terminator 2: Judgment Day?", "answers": ["Noel Evangelisti"], "tags": ["cvt"] }
+{ "qId": "syn040081", "qText": "Who did Noel Evangelisti play in Terminator 2: Judgment Day?", "answers": ["Hospital Guard"], "tags": ["cvt"] }
+{ "qId": "syn040080", "qText": "Who played Jock #1 in Terminator 2: Judgment Day?", "answers": ["Jim Palmer"], "tags": ["cvt"] }
+{ "qId": "syn040081", "qText": "Who did Jim Palmer play in Terminator 2: Judgment Day?", "answers": ["Jock #1"], "tags": ["cvt"] }
+{ "qId": "syn040080", "qText": "Who played SWAT Officer #2 in Terminator 2: Judgment Day?", "answers": ["Ed Arneson"], "tags": ["cvt"] }
+{ "qId": "syn040081", "qText": "Who did Ed Arneson play in Terminator 2: Judgment Day?", "answers": ["SWAT Officer #2"], "tags": ["cvt"] }
+{ "qId": "syn040082", "qText": "Who played Street Musician #1 in The Pianist?", "answers": ["Lucie Skeaping"], "tags": ["cvt"] }
+{ "qId": "syn040083", "qText": "Who did Lucie Skeaping play in The Pianist?", "answers": ["Street Musician #1"], "tags": ["cvt"] }
+{ "qId": "syn040082", "qText": "Who played Yehuda in The Pianist?", "answers": ["Paul Bradley"], "tags": ["cvt"] }
+{ "qId": "syn040083", "qText": "Who did Paul Bradley play in The Pianist?", "answers": ["Yehuda"], "tags": ["cvt"] }
+{ "qId": "syn040082", "qText": "Who played Schultz in The Pianist?", "answers": ["Udo Kroschwald"], "tags": ["cvt"] }
+{ "qId": "syn040083", "qText": "Who did Udo Kroschwald play in The Pianist?", "answers": ["Schultz"], "tags": ["cvt"] }
+{ "qId": "syn040082", "qText": "Who played Regina in The Pianist?", "answers": ["Julia Rayner"], "tags": ["cvt"] }
+{ "qId": "syn040083", "qText": "Who did Julia Rayner play in The Pianist?", "answers": ["Regina"], "tags": ["cvt"] }
+{ "qId": "syn040086", "qText": "Who played Captain Queenan in The Departed?", "answers": ["Martin Sheen"], "tags": ["cvt"] }
+{ "qId": "syn040087", "qText": "Who did Martin Sheen play in The Departed?", "answers": ["Captain Queenan"], "tags": ["cvt"] }
+{ "qId": "syn040086", "qText": "Who played Cadet Parent in The Departed?", "answers": ["Gail Yudain"], "tags": ["cvt"] }
+{ "qId": "syn040087", "qText": "Who did Gail Yudain play in The Departed?", "answers": ["Cadet Parent"], "tags": ["cvt"] }
+{ "qId": "syn040086", "qText": "Who played Costello's Crew #2 in The Departed?", "answers": ["Michael Byron"], "tags": ["cvt"] }
+{ "qId": "syn040087", "qText": "Who did Michael Byron play in The Departed?", "answers": ["Costello's Crew #2"], "tags": ["cvt"] }
+{ "qId": "syn040086", "qText": "Who played Waiter in Alley #2 in The Departed?", "answers": ["Tony M. Yee"], "tags": ["cvt"] }
+{ "qId": "syn040087", "qText": "Who did Tony M. Yee play in The Departed?", "answers": ["Waiter in Alley #2"], "tags": ["cvt"] }
+{ "qId": "syn040088", "qText": "Who played Betty in Back to the Future?", "answers": ["Cristen Kauffman"], "tags": ["cvt"] }
+{ "qId": "syn040089", "qText": "Who did Cristen Kauffman play in Back to the Future?", "answers": ["Betty"], "tags": ["cvt"] }
+{ "qId": "syn040088", "qText": "Who played Terrorist in Back to the Future?", "answers": ["Richard L. Duran"], "tags": ["cvt"] }
+{ "qId": "syn040089", "qText": "Who did Richard L. Duran play in Back to the Future?", "answers": ["Terrorist"], "tags": ["cvt"] }
+{ "qId": "syn040088", "qText": "Who played Dave McFly in Back to the Future?", "answers": ["Marc McClure"], "tags": ["cvt"] }
+{ "qId": "syn040089", "qText": "Who did Marc McClure play in Back to the Future?", "answers": ["Dave McFly"], "tags": ["cvt"] }
+{ "qId": "syn040088", "qText": "Who played Starlighter #4 in Back to the Future?", "answers": ["Granville 'Danny' Young"], "tags": ["cvt"] }
+{ "qId": "syn040089", "qText": "Who did Granville 'Danny' Young play in Back to the Future?", "answers": ["Starlighter #4"], "tags": ["cvt"] }
+{ "qId": "syn040090", "qText": "Who played Tattooist in Memento?", "answers": ["Marianne Muellerleile"], "tags": ["cvt"] }
+{ "qId": "syn040091", "qText": "Who did Marianne Muellerleile play in Memento?", "answers": ["Tattooist"], "tags": ["cvt"] }
+{ "qId": "syn040090", "qText": "Who played Blonde in Memento?", "answers": ["Kimberly Campbell"], "tags": ["cvt"] }
+{ "qId": "syn040091", "qText": "Who did Kimberly Campbell play in Memento?", "answers": ["Blonde"], "tags": ["cvt"] }
+{ "qId": "syn040090", "qText": "Who played Jimmy in Memento?", "answers": ["Larry Holden"], "tags": ["cvt"] }
+{ "qId": "syn040091", "qText": "Who did Larry Holden play in Memento?", "answers": ["Jimmy"], "tags": ["cvt"] }
+{ "qId": "syn040090", "qText": "Who played Mrs. Jankis in Memento?", "answers": ["Harriet Sansom Harris"], "tags": ["cvt"] }
+{ "qId": "syn040091", "qText": "Who did Harriet Sansom Harris play in Memento?", "answers": ["Mrs. Jankis"], "tags": ["cvt"] }
+{ "qId": "syn040092", "qText": "Who played Gracchus in Gladiator?", "answers": ["Derek Jacobi"], "tags": ["cvt"] }
+{ "qId": "syn040093", "qText": "Who did Derek Jacobi play in Gladiator?", "answers": ["Gracchus"], "tags": ["cvt"] }
+{ "qId": "syn040092", "qText": "Who played Chief Catapult Operator in Gladiator?", "answers": ["Christian Simpson"], "tags": ["cvt"] }
+{ "qId": "syn040093", "qText": "Who did Christian Simpson play in Gladiator?", "answers": ["Chief Catapult Operator"], "tags": ["cvt"] }
+{ "qId": "syn040092", "qText": "Who played Assassin #2 in Gladiator?", "answers": ["Mark Lewis"], "tags": ["cvt"] }
+{ "qId": "syn040093", "qText": "Who did Mark Lewis play in Gladiator?", "answers": ["Assassin #2"], "tags": ["cvt"] }
+{ "qId": "syn040092", "qText": "Who played Roman Girl in Gladiator?", "answers": ["Ruth Frendo"], "tags": ["cvt"] }
+{ "qId": "syn040093", "qText": "Who did Ruth Frendo play in Gladiator?", "answers": ["Roman Girl"], "tags": ["cvt"] }
+{ "qId": "syn040094", "qText": "Who played Catholic Priest in Apocalypse Now?", "answers": ["Father Elias"], "tags": ["cvt"] }
+{ "qId": "syn040095", "qText": "Who did Father Elias play in Apocalypse Now?", "answers": ["Catholic Priest"], "tags": ["cvt"] }
+{ "qId": "syn040094", "qText": "Who played MP Sergeant #1 in Apocalypse Now?", "answers": ["Bo Byers"], "tags": ["cvt"] }
+{ "qId": "syn040095", "qText": "Who did Bo Byers play in Apocalypse Now?", "answers": ["MP Sergeant #1"], "tags": ["cvt"] }
+{ "qId": "syn040094", "qText": "Who played Gilles de Marais in Apocalypse Now?", "answers": ["Gian-Carlo Coppola"], "tags": ["cvt"] }
+{ "qId": "syn040095", "qText": "Who did Gian-Carlo Coppola play in Apocalypse Now?", "answers": ["Gilles de Marais"], "tags": ["cvt"] }
+{ "qId": "syn040094", "qText": "Who played Johnny from Malibu in Apocalypse Now?", "answers": ["Jerry Ross"], "tags": ["cvt"] }
+{ "qId": "syn040095", "qText": "Who did Jerry Ross play in Apocalypse Now?", "answers": ["Johnny from Malibu"], "tags": ["cvt"] }
+{ "qId": "syn040096", "qText": "Who played Col. 'Bat' Guano in Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb?", "answers": ["Keenan Wynn"], "tags": ["cvt"] }
+{ "qId": "syn040097", "qText": "Who did Keenan Wynn play in Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb?", "answers": ["Col. 'Bat' Guano"], "tags": ["cvt"] }
+{ "qId": "syn040096", "qText": "Who played Miss Scott in Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb?", "answers": ["Tracy Reed"], "tags": ["cvt"] }
+{ "qId": "syn040097", "qText": "Who did Tracy Reed play in Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb?", "answers": ["Miss Scott"], "tags": ["cvt"] }
+{ "qId": "syn040096", "qText": "Who played Group Captain Lionel Mandrake in Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb?", "answers": ["Peter Sellers"], "tags": ["cvt"] }
+{ "qId": "syn040097", "qText": "Who did Peter Sellers play in Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb?", "answers": ["Group Captain Lionel Mandrake"], "tags": ["cvt"] }
+{ "qId": "syn040096", "qText": "Who played Adm. Randolph in Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb?", "answers": ["Robert O'Neil"], "tags": ["cvt"] }
+{ "qId": "syn040097", "qText": "Who did Robert O'Neil play in Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb?", "answers": ["Adm. Randolph"], "tags": ["cvt"] }
+{ "qId": "syn040100", "qText": "Who played Bar Maid in The Prestige?", "answers": ["Basil McCurry"], "tags": ["cvt"] }
+{ "qId": "syn040101", "qText": "Who did Basil McCurry play in The Prestige?", "answers": ["Bar Maid"], "tags": ["cvt"] }
+{ "qId": "syn040100", "qText": "Who played Blind Stagehand 2 in The Prestige?", "answers": ["Sam Menning"], "tags": ["cvt"] }
+{ "qId": "syn040101", "qText": "Who did Sam Menning play in The Prestige?", "answers": ["Blind Stagehand 2"], "tags": ["cvt"] }
+{ "qId": "syn040100", "qText": "Who played Sullen Warder in The Prestige?", "answers": ["Jamie Harris"], "tags": ["cvt"] }
+{ "qId": "syn040101", "qText": "Who did Jamie Harris play in The Prestige?", "answers": ["Sullen Warder"], "tags": ["cvt"] }
+{ "qId": "syn040100", "qText": "Who played Moderator in The Prestige?", "answers": ["James Lancaster"], "tags": ["cvt"] }
+{ "qId": "syn040101", "qText": "Who did James Lancaster play in The Prestige?", "answers": ["Moderator"], "tags": ["cvt"] }
+{ "qId": "syn040102", "qText": "Who played Alien in Alien?", "answers": ["Eddie Powell"], "tags": ["cvt"] }
+{ "qId": "syn040103", "qText": "Who did Eddie Powell play in Alien?", "answers": ["Alien"], "tags": ["cvt"] }
+{ "qId": "syn040102", "qText": "Who played Ellen Ripley in Alien?", "answers": ["Sigourney Weaver"], "tags": ["cvt"] }
+{ "qId": "syn040103", "qText": "Who did Sigourney Weaver play in Alien?", "answers": ["Ellen Ripley"], "tags": ["cvt"] }
+{ "qId": "syn040102", "qText": "Who played Alien in Alien?", "answers": ["Bolaji Badejo"], "tags": ["cvt"] }
+{ "qId": "syn040103", "qText": "Who did Bolaji Badejo play in Alien?", "answers": ["Alien"], "tags": ["cvt"] }
+{ "qId": "syn040102", "qText": "Who played Parker in Alien?", "answers": ["Yaphet Kotto"], "tags": ["cvt"] }
+{ "qId": "syn040103", "qText": "Who did Yaphet Kotto play in Alien?", "answers": ["Parker"], "tags": ["cvt"] }
+{ "qId": "syn040104", "qText": "Who played Simba in The Lion King?", "answers": ["Matthew Broderick"], "tags": ["cvt"] }
+{ "qId": "syn040105", "qText": "Who did Matthew Broderick play in The Lion King?", "answers": ["Simba"], "tags": ["cvt"] }
+{ "qId": "syn040104", "qText": "Who played Rafiki in The Lion King?", "answers": ["Robert Guillaume"], "tags": ["cvt"] }
+{ "qId": "syn040105", "qText": "Who did Robert Guillaume play in The Lion King?", "answers": ["Rafiki"], "tags": ["cvt"] }
+{ "qId": "syn040104", "qText": "Who played Simba in The Lion King?", "answers": ["Evan Saucedo"], "tags": ["cvt"] }
+{ "qId": "syn040105", "qText": "Who did Evan Saucedo play in The Lion King?", "answers": ["Simba"], "tags": ["cvt"] }
+{ "qId": "syn040104", "qText": "Who played Sarafina in The Lion King?", "answers": ["Zoe Leader"], "tags": ["cvt"] }
+{ "qId": "syn040105", "qText": "Who did Zoe Leader play in The Lion King?", "answers": ["Sarafina"], "tags": ["cvt"] }
+{ "qId": "syn040106", "qText": "Who played Mr. Agar in The Great Dictator?", "answers": ["Paul Weigel"], "tags": ["cvt"] }
+{ "qId": "syn040107", "qText": "Who did Paul Weigel play in The Great Dictator?", "answers": ["Mr. Agar"], "tags": ["cvt"] }
+{ "qId": "syn040106", "qText": "Who played Schultz in The Great Dictator?", "answers": ["Reginald Gardiner"], "tags": ["cvt"] }
+{ "qId": "syn040107", "qText": "Who did Reginald Gardiner play in The Great Dictator?", "answers": ["Schultz"], "tags": ["cvt"] }
+{ "qId": "syn040106", "qText": "Who played Barber's Customer in The Great Dictator?", "answers": ["Chester Conklin"], "tags": ["cvt"] }
+{ "qId": "syn040107", "qText": "Who did Chester Conklin play in The Great Dictator?", "answers": ["Barber's Customer"], "tags": ["cvt"] }
+{ "qId": "syn040106", "qText": "Who played Napaloni in The Great Dictator?", "answers": ["Jack Oakie"], "tags": ["cvt"] }
+{ "qId": "syn040107", "qText": "Who did Jack Oakie play in The Great Dictator?", "answers": ["Napaloni"], "tags": ["cvt"] }
+{ "qId": "syn040108", "qText": "Who played BStU-Mitarbeiterin in The Lives of Others?", "answers": ["Inga Birkenfeld"], "tags": ["cvt"] }
+{ "qId": "syn040109", "qText": "Who did Inga Birkenfeld play in The Lives of Others?", "answers": ["BStU-Mitarbeiterin"], "tags": ["cvt"] }
+{ "qId": "syn040108", "qText": "Who played Benedikt Lehmann in The Lives of Others?", "answers": ["Ludwig Blochberger"], "tags": ["cvt"] }
+{ "qId": "syn040109", "qText": "Who did Ludwig Blochberger play in The Lives of Others?", "answers": ["Benedikt Lehmann"], "tags": ["cvt"] }
+{ "qId": "syn040108", "qText": "Who played Bandleader in The Lives of Others?", "answers": ["Ernst Ludwig Petrowsky"], "tags": ["cvt"] }
+{ "qId": "syn040109", "qText": "Who did Ernst Ludwig Petrowsky play in The Lives of Others?", "answers": ["Bandleader"], "tags": ["cvt"] }
+{ "qId": "syn040108", "qText": "Who played Erich Mielke in The Lives of Others?", "answers": ["Klaus Münster"], "tags": ["cvt"] }
+{ "qId": "syn040109", "qText": "Who did Klaus Münster play in The Lives of Others?", "answers": ["Erich Mielke"], "tags": ["cvt"] }
+{ "qId": "syn040110", "qText": "Who played Rio McDonald in Cinema Paradiso?", "answers": ["Jane Russell"], "tags": ["cvt"] }
+{ "qId": "syn040111", "qText": "Who did Jane Russell play in Cinema Paradiso?", "answers": ["Rio McDonald"], "tags": ["cvt"] }
+{ "qId": "syn040110", "qText": "Who played Wasska Pepel in Cinema Paradiso?", "answers": ["Jean Gabin"], "tags": ["cvt"] }
+{ "qId": "syn040111", "qText": "Who did Jean Gabin play in Cinema Paradiso?", "answers": ["Wasska Pepel"], "tags": ["cvt"] }
+{ "qId": "syn040110", "qText": "Who played Ringo Kid in Cinema Paradiso?", "answers": ["John Wayne"], "tags": ["cvt"] }
+{ "qId": "syn040111", "qText": "Who did John Wayne play in Cinema Paradiso?", "answers": ["Ringo Kid"], "tags": ["cvt"] }
+{ "qId": "syn040110", "qText": "Who played Salvatore Di Vita in Cinema Paradiso?", "answers": ["Marco Leonardi"], "tags": ["cvt"] }
+{ "qId": "syn040111", "qText": "Who did Marco Leonardi play in Cinema Paradiso?", "answers": ["Salvatore Di Vita"], "tags": ["cvt"] }
+{ "qId": "syn040112", "qText": "Who played Dick Hallorann in The Shining?", "answers": ["Scatman Crothers"], "tags": ["cvt"] }
+{ "qId": "syn040113", "qText": "Who did Scatman Crothers play in The Shining?", "answers": ["Dick Hallorann"], "tags": ["cvt"] }
+{ "qId": "syn040112", "qText": "Who played Young Woman in Bath in The Shining?", "answers": ["Lia Beldam"], "tags": ["cvt"] }
+{ "qId": "syn040113", "qText": "Who did Lia Beldam play in The Shining?", "answers": ["Young Woman in Bath"], "tags": ["cvt"] }
+{ "qId": "syn040112", "qText": "Who played Doctor in The Shining?", "answers": ["Anne Jackson"], "tags": ["cvt"] }
+{ "qId": "syn040113", "qText": "Who did Anne Jackson play in The Shining?", "answers": ["Doctor"], "tags": ["cvt"] }
+{ "qId": "syn040112", "qText": "Who played Grady Daughter #1 in The Shining?", "answers": ["Lisa Burns"], "tags": ["cvt"] }
+{ "qId": "syn040113", "qText": "Who did Lisa Burns play in The Shining?", "answers": ["Grady Daughter #1"], "tags": ["cvt"] }
+{ "qId": "syn040114", "qText": "Who played Gen. Paul Mireau in Paths of Glory?", "answers": ["George Macready"], "tags": ["cvt"] }
+{ "qId": "syn040115", "qText": "Who did George Macready play in Paths of Glory?", "answers": ["Gen. Paul Mireau"], "tags": ["cvt"] }
+{ "qId": "syn040114", "qText": "Who played Maj. Saint-Auban in Paths of Glory?", "answers": ["Richard Anderson"], "tags": ["cvt"] }
+{ "qId": "syn040115", "qText": "Who did Richard Anderson play in Paths of Glory?", "answers": ["Maj. Saint-Auban"], "tags": ["cvt"] }
+{ "qId": "syn040114", "qText": "Who played Gen. George Broulard in Paths of Glory?", "answers": ["Adolphe Menjou"], "tags": ["cvt"] }
+{ "qId": "syn040115", "qText": "Who did Adolphe Menjou play in Paths of Glory?", "answers": ["Gen. George Broulard"], "tags": ["cvt"] }
+{ "qId": "syn040114", "qText": "Who played Proprietor of cafe in Paths of Glory?", "answers": ["Jerry Hausner"], "tags": ["cvt"] }
+{ "qId": "syn040115", "qText": "Who did Jerry Hausner play in Paths of Glory?", "answers": ["Proprietor of cafe"], "tags": ["cvt"] }
+{ "qId": "syn040118", "qText": "Who played Warden at Blackgate in The Dark Knight Rises?", "answers": ["Wade Williams"], "tags": ["cvt"] }
+{ "qId": "syn040119", "qText": "Who did Wade Williams play in The Dark Knight Rises?", "answers": ["Warden at Blackgate"], "tags": ["cvt"] }
+{ "qId": "syn040118", "qText": "Who played Paparazzi #1 in The Dark Knight Rises?", "answers": ["Chris Hill"], "tags": ["cvt"] }
+{ "qId": "syn040119", "qText": "Who did Chris Hill play in The Dark Knight Rises?", "answers": ["Paparazzi #1"], "tags": ["cvt"] }
+{ "qId": "syn040118", "qText": "Who played Anthem Singer in The Dark Knight Rises?", "answers": ["Charles Jackson Coyne"], "tags": ["cvt"] }
+{ "qId": "syn040119", "qText": "Who did Charles Jackson Coyne play in The Dark Knight Rises?", "answers": ["Anthem Singer"], "tags": ["cvt"] }
+{ "qId": "syn040118", "qText": "Who played Prisoner #7 in The Dark Knight Rises?", "answers": ["Anthony Farraj"], "tags": ["cvt"] }
+{ "qId": "syn040119", "qText": "Who did Anthony Farraj play in The Dark Knight Rises?", "answers": ["Prisoner #7"], "tags": ["cvt"] }
+{ "qId": "syn040120", "qText": "Who played Ship's Computer in WALL·E?", "answers": ["Sigourney Weaver"], "tags": ["cvt"] }
+{ "qId": "syn040121", "qText": "Who did Sigourney Weaver play in WALL·E?", "answers": ["Ship's Computer"], "tags": ["cvt"] }
+{ "qId": "syn040120", "qText": "Who played John in WALL·E?", "answers": ["John Ratzenberger"], "tags": ["cvt"] }
+{ "qId": "syn040121", "qText": "Who did John Ratzenberger play in WALL·E?", "answers": ["John"], "tags": ["cvt"] }
+{ "qId": "syn040120", "qText": "Who played Brunette Boy in Commercial in WALL·E?", "answers": ["Kai Steel Smith"], "tags": ["cvt"] }
+{ "qId": "syn040121", "qText": "Who did Kai Steel Smith play in WALL·E?", "answers": ["Brunette Boy in Commercial"], "tags": ["cvt"] }
+{ "qId": "syn040120", "qText": "Who played BURN-E in WALL·E?", "answers": ["Angus MacLane"], "tags": ["cvt"] }
+{ "qId": "syn040121", "qText": "Who did Angus MacLane play in WALL·E?", "answers": ["BURN-E"], "tags": ["cvt"] }
+{ "qId": "syn040122", "qText": "Who played Mr. Smiley's Counter Girl in American Beauty?", "answers": ["Marissa Jaret Winokur"], "tags": ["cvt"] }
+{ "qId": "syn040123", "qText": "Who did Marissa Jaret Winokur play in American Beauty?", "answers": ["Mr. Smiley's Counter Girl"], "tags": ["cvt"] }
+{ "qId": "syn040122", "qText": "Who played Sale House Man #2 in American Beauty?", "answers": ["Fort Atkinson"], "tags": ["cvt"] }
+{ "qId": "syn040123", "qText": "Who did Fort Atkinson play in American Beauty?", "answers": ["Sale House Man #2"], "tags": ["cvt"] }
+{ "qId": "syn040122", "qText": "Who played Firing Range Attendant in American Beauty?", "answers": ["Matthew Kimbrough"], "tags": ["cvt"] }
+{ "qId": "syn040123", "qText": "Who did Matthew Kimbrough play in American Beauty?", "answers": ["Firing Range Attendant"], "tags": ["cvt"] }
+{ "qId": "syn040122", "qText": "Who played Lester Burnham in American Beauty?", "answers": ["Kevin Spacey"], "tags": ["cvt"] }
+{ "qId": "syn040123", "qText": "Who did Kevin Spacey play in American Beauty?", "answers": ["Lester Burnham"], "tags": ["cvt"] }
+{ "qId": "syn040124", "qText": "Who played Seita and Setsuko's aunt in Grave of the Fireflies?", "answers": ["Akemi Yamaguchi"], "tags": ["cvt"] }
+{ "qId": "syn040125", "qText": "Who did Akemi Yamaguchi play in Grave of the Fireflies?", "answers": ["Seita and Setsuko's aunt"], "tags": ["cvt"] }
+{ "qId": "syn040124", "qText": "Who played Seita in Grave of the Fireflies?", "answers": ["Tsutomu Tatsumi"], "tags": ["cvt"] }
+{ "qId": "syn040125", "qText": "Who did Tsutomu Tatsumi play in Grave of the Fireflies?", "answers": ["Seita"], "tags": ["cvt"] }
+{ "qId": "syn040124", "qText": "Who played Seita and Setsuko's mother in Grave of the Fireflies?", "answers": ["Yoshiko Shinohara"], "tags": ["cvt"] }
+{ "qId": "syn040125", "qText": "Who did Yoshiko Shinohara play in Grave of the Fireflies?", "answers": ["Seita and Setsuko's mother"], "tags": ["cvt"] }
+{ "qId": "syn040124", "qText": "Who played Setsuko in Grave of the Fireflies?", "answers": ["Ayano Shiraishi"], "tags": ["cvt"] }
+{ "qId": "syn040125", "qText": "Who did Ayano Shiraishi play in Grave of the Fireflies?", "answers": ["Setsuko"], "tags": ["cvt"] }
+{ "qId": "syn040126", "qText": "Who played Tim Crowe in Aliens?", "answers": ["Tip Tipping"], "tags": ["cvt"] }
+{ "qId": "syn040127", "qText": "Who did Tip Tipping play in Aliens?", "answers": ["Tim Crowe"], "tags": ["cvt"] }
+{ "qId": "syn040126", "qText": "Who played Cpl. Dwayne Hicks in Aliens?", "answers": ["Michael Biehn"], "tags": ["cvt"] }
+{ "qId": "syn040127", "qText": "Who did Michael Biehn play in Aliens?", "answers": ["Cpl. Dwayne Hicks"], "tags": ["cvt"] }
+{ "qId": "syn040126", "qText": "Who played Bishop in Aliens?", "answers": ["Lance Henriksen"], "tags": ["cvt"] }
+{ "qId": "syn040127", "qText": "Who did Lance Henriksen play in Aliens?", "answers": ["Bishop"], "tags": ["cvt"] }
+{ "qId": "syn040126", "qText": "Who played Lt. Gorman in Aliens?", "answers": ["William Hope"], "tags": ["cvt"] }
+{ "qId": "syn040127", "qText": "Who did William Hope play in Aliens?", "answers": ["Lt. Gorman"], "tags": ["cvt"] }
+{ "qId": "syn040128", "qText": "Who played Raymond in Citizen Kane?", "answers": ["Paul Stewart"], "tags": ["cvt"] }
+{ "qId": "syn040129", "qText": "Who did Paul Stewart play in Citizen Kane?", "answers": ["Raymond"], "tags": ["cvt"] }
+{ "qId": "syn040128", "qText": "Who played Adolf Hitler in Citizen Kane?", "answers": ["Carl Ekberg"], "tags": ["cvt"] }
+{ "qId": "syn040129", "qText": "Who did Carl Ekberg play in Citizen Kane?", "answers": ["Adolf Hitler"], "tags": ["cvt"] }
+{ "qId": "syn040128", "qText": "Who played Signor Matiste in Citizen Kane?", "answers": ["Fortunio Bonanova"], "tags": ["cvt"] }
+{ "qId": "syn040129", "qText": "Who did Fortunio Bonanova play in Citizen Kane?", "answers": ["Signor Matiste"], "tags": ["cvt"] }
+{ "qId": "syn040128", "qText": "Who played Reporter Smoking Pipe at End in Citizen Kane?", "answers": ["Alan Ladd"], "tags": ["cvt"] }
+{ "qId": "syn040129", "qText": "Who did Alan Ladd play in Citizen Kane?", "answers": ["Reporter Smoking Pipe at End"], "tags": ["cvt"] }
+{ "qId": "syn040130", "qText": "Who played Man in Phone Booth in North by Northwest?", "answers": ["Larry Leverett"], "tags": ["cvt"] }
+{ "qId": "syn040131", "qText": "Who did Larry Leverett play in North by Northwest?", "answers": ["Man in Phone Booth"], "tags": ["cvt"] }
+{ "qId": "syn040130", "qText": "Who played Man at United Nations Building in North by Northwest?", "answers": ["Bert Stevens"], "tags": ["cvt"] }
+{ "qId": "syn040131", "qText": "Who did Bert Stevens play in North by Northwest?", "answers": ["Man at United Nations Building"], "tags": ["cvt"] }
+{ "qId": "syn040130", "qText": "Who played Leonard in North by Northwest?", "answers": ["Martin Landau"], "tags": ["cvt"] }
+{ "qId": "syn040131", "qText": "Who did Martin Landau play in North by Northwest?", "answers": ["Leonard"], "tags": ["cvt"] }
+{ "qId": "syn040130", "qText": "Who played Taxi Driver #2 in North by Northwest?", "answers": ["Baynes Barron"], "tags": ["cvt"] }
+{ "qId": "syn040131", "qText": "Who did Baynes Barron play in North by Northwest?", "answers": ["Taxi Driver #2"], "tags": ["cvt"] }
+{ "qId": "syn040134", "qText": "Who played Kouroku in Princess Mononoke?", "answers": ["Masahiko Nishimura"], "tags": ["cvt"] }
+{ "qId": "syn040135", "qText": "Who did Masahiko Nishimura play in Princess Mononoke?", "answers": ["Kouroku"], "tags": ["cvt"] }
+{ "qId": "syn040134", "qText": "Who played Hii-sama in Princess Mononoke?", "answers": ["Mitsuko Mori"], "tags": ["cvt"] }
+{ "qId": "syn040135", "qText": "Who did Mitsuko Mori play in Princess Mononoke?", "answers": ["Hii-sama"], "tags": ["cvt"] }
+{ "qId": "syn040134", "qText": "Who played Gonza in Princess Mononoke?", "answers": ["Tsunehiko Kamijô"], "tags": ["cvt"] }
+{ "qId": "syn040135", "qText": "Who did Tsunehiko Kamijô play in Princess Mononoke?", "answers": ["Gonza"], "tags": ["cvt"] }
+{ "qId": "syn040134", "qText": "Who played Jiko-bô in Princess Mononoke?", "answers": ["Kaoru Kobayashi"], "tags": ["cvt"] }
+{ "qId": "syn040135", "qText": "Who did Kaoru Kobayashi play in Princess Mononoke?", "answers": ["Jiko-bô"], "tags": ["cvt"] }
+{ "qId": "syn040136", "qText": "Who played Man Walking Past Elster's Office in Vertigo?", "answers": ["Alfred Hitchcock"], "tags": ["cvt"] }
+{ "qId": "syn040137", "qText": "Who did Alfred Hitchcock play in Vertigo?", "answers": ["Man Walking Past Elster's Office"], "tags": ["cvt"] }
+{ "qId": "syn040136", "qText": "Who played Madeleine Elster in Vertigo?", "answers": ["Kim Novak"], "tags": ["cvt"] }
+{ "qId": "syn040137", "qText": "Who did Kim Novak play in Vertigo?", "answers": ["Madeleine Elster"], "tags": ["cvt"] }
+{ "qId": "syn040136", "qText": "Who played Judy Barton in Vertigo?", "answers": ["Kim Novak"], "tags": ["cvt"] }
+{ "qId": "syn040137", "qText": "Who did Kim Novak play in Vertigo?", "answers": ["Judy Barton"], "tags": ["cvt"] }
+{ "qId": "syn040136", "qText": "Who played Midge Wood in Vertigo?", "answers": ["Barbara Bel Geddes"], "tags": ["cvt"] }
+{ "qId": "syn040137", "qText": "Who did Barbara Bel Geddes play in Vertigo?", "answers": ["Midge Wood"], "tags": ["cvt"] }
+{ "qId": "syn040138", "qText": "Who played Preacher in Das Boot?", "answers": ["Joachim Bernhard"], "tags": ["cvt"] }
+{ "qId": "syn040139", "qText": "Who did Joachim Bernhard play in Das Boot?", "answers": ["Preacher"], "tags": ["cvt"] }
+{ "qId": "syn040138", "qText": "Who played 2nd Lieutenant in Das Boot?", "answers": ["Martin Semmelrogge"], "tags": ["cvt"] }
+{ "qId": "syn040139", "qText": "Who did Martin Semmelrogge play in Das Boot?", "answers": ["2nd Lieutenant"], "tags": ["cvt"] }
+{ "qId": "syn040138", "qText": "Who played Benjamin in Das Boot?", "answers": ["Jean-Claude Hoffmann"], "tags": ["cvt"] }
+{ "qId": "syn040139", "qText": "Who did Jean-Claude Hoffmann play in Das Boot?", "answers": ["Benjamin"], "tags": ["cvt"] }
+{ "qId": "syn040138", "qText": "Who played Brückenwilli in Das Boot?", "answers": ["Martin Hemme"], "tags": ["cvt"] }
+{ "qId": "syn040139", "qText": "Who did Martin Hemme play in Das Boot?", "answers": ["Brückenwilli"], "tags": ["cvt"] }
+{ "qId": "syn040140", "qText": "Who played Lando Calrissian in Star Wars: Episode VI - Return of the Jedi?", "answers": ["Billy Dee Williams"], "tags": ["cvt"] }
+{ "qId": "syn040141", "qText": "Who did Billy Dee Williams play in Star Wars: Episode VI - Return of the Jedi?", "answers": ["Lando Calrissian"], "tags": ["cvt"] }
+{ "qId": "syn040140", "qText": "Who played Leia Organa in Star Wars: Episode VI - Return of the Jedi?", "answers": ["Carrie Fisher"], "tags": ["cvt"] }
+{ "qId": "syn040141", "qText": "Who did Carrie Fisher play in Star Wars: Episode VI - Return of the Jedi?", "answers": ["Leia Organa"], "tags": ["cvt"] }
+{ "qId": "syn040140", "qText": "Who played Nien Nunb in Star Wars: Episode VI - Return of the Jedi?", "answers": ["Mike Quinn"], "tags": ["cvt"] }
+{ "qId": "syn040141", "qText": "Who did Mike Quinn play in Star Wars: Episode VI - Return of the Jedi?", "answers": ["Nien Nunb"], "tags": ["cvt"] }
+{ "qId": "syn040140", "qText": "Who played Jabba the Hutt in Star Wars: Episode VI - Return of the Jedi?", "answers": ["Larry Ward"], "tags": ["cvt"] }
+{ "qId": "syn040141", "qText": "Who did Larry Ward play in Star Wars: Episode VI - Return of the Jedi?", "answers": ["Jabba the Hutt"], "tags": ["cvt"] }
+{ "qId": "syn040142", "qText": "Who played Irving Gold in Once Upon a Time in America?", "answers": ["Mike Gendel"], "tags": ["cvt"] }
+{ "qId": "syn040143", "qText": "Who did Mike Gendel play in Once Upon a Time in America?", "answers": ["Irving Gold"], "tags": ["cvt"] }
+{ "qId": "syn040142", "qText": "Who played Deborah Gelly in Once Upon a Time in America?", "answers": ["Jennifer Connelly"], "tags": ["cvt"] }
+{ "qId": "syn040143", "qText": "Who did Jennifer Connelly play in Once Upon a Time in America?", "answers": ["Deborah Gelly"], "tags": ["cvt"] }
+{ "qId": "syn040142", "qText": "Who played Bugsy in Once Upon a Time in America?", "answers": ["James Russo"], "tags": ["cvt"] }
+{ "qId": "syn040143", "qText": "Who did James Russo play in Once Upon a Time in America?", "answers": ["Bugsy"], "tags": ["cvt"] }
+{ "qId": "syn040142", "qText": "Who played Peggy's Mother in Once Upon a Time in America?", "answers": ["Estelle Harris"], "tags": ["cvt"] }
+{ "qId": "syn040143", "qText": "Who did Estelle Harris play in Once Upon a Time in America?", "answers": ["Peggy's Mother"], "tags": ["cvt"] }
+{ "qId": "syn040150", "qText": "Who played Joe Cabot in Reservoir Dogs?", "answers": ["Lawrence Tierney"], "tags": ["cvt"] }
+{ "qId": "syn040151", "qText": "Who did Lawrence Tierney play in Reservoir Dogs?", "answers": ["Joe Cabot"], "tags": ["cvt"] }
+{ "qId": "syn040150", "qText": "Who played Mr. Blonde in Reservoir Dogs?", "answers": ["Michael Madsen"], "tags": ["cvt"] }
+{ "qId": "syn040151", "qText": "Who did Michael Madsen play in Reservoir Dogs?", "answers": ["Mr. Blonde"], "tags": ["cvt"] }
+{ "qId": "syn040150", "qText": "Who played Mr. Blue in Reservoir Dogs?", "answers": ["Edward Bunker"], "tags": ["cvt"] }
+{ "qId": "syn040151", "qText": "Who did Edward Bunker play in Reservoir Dogs?", "answers": ["Mr. Blue"], "tags": ["cvt"] }
+{ "qId": "syn040150", "qText": "Who played Freddy Newandyke in Reservoir Dogs?", "answers": ["Tim Roth"], "tags": ["cvt"] }
+{ "qId": "syn040151", "qText": "Who did Tim Roth play in Reservoir Dogs?", "answers": ["Freddy Newandyke"], "tags": ["cvt"] }
+{ "qId": "syn040152", "qText": "Who played Robert the Bruce, Sr. in Braveheart?", "answers": ["Ian Bannen"], "tags": ["cvt"] }
+{ "qId": "syn040153", "qText": "Who did Ian Bannen play in Braveheart?", "answers": ["Robert the Bruce, Sr."], "tags": ["cvt"] }
+{ "qId": "syn040152", "qText": "Who played Elder Stewart in Braveheart?", "answers": ["Alan Tall"], "tags": ["cvt"] }
+{ "qId": "syn040153", "qText": "Who did Alan Tall play in Braveheart?", "answers": ["Elder Stewart"], "tags": ["cvt"] }
+{ "qId": "syn040152", "qText": "Who played Farmer in Braveheart?", "answers": ["Phil Kelly"], "tags": ["cvt"] }
+{ "qId": "syn040153", "qText": "Who did Phil Kelly play in Braveheart?", "answers": ["Farmer"], "tags": ["cvt"] }
+{ "qId": "syn040152", "qText": "Who played English Commander in Braveheart?", "answers": ["Paul Tucker"], "tags": ["cvt"] }
+{ "qId": "syn040153", "qText": "Who did Paul Tucker play in Braveheart?", "answers": ["English Commander"], "tags": ["cvt"] }
+{ "qId": "syn040154", "qText": "Who played Dolly in Toy Story 3?", "answers": ["Bonnie Hunt"], "tags": ["cvt"] }
+{ "qId": "syn040155", "qText": "Who did Bonnie Hunt play in Toy Story 3?", "answers": ["Dolly"], "tags": ["cvt"] }
+{ "qId": "syn040154", "qText": "Who played Mrs. Potato Head in Toy Story 3?", "answers": ["Estelle Harris"], "tags": ["cvt"] }
+{ "qId": "syn040155", "qText": "Who did Estelle Harris play in Toy Story 3?", "answers": ["Mrs. Potato Head"], "tags": ["cvt"] }
+{ "qId": "syn040154", "qText": "Who played Hamm in Toy Story 3?", "answers": ["John Ratzenberger"], "tags": ["cvt"] }
+{ "qId": "syn040155", "qText": "Who did John Ratzenberger play in Toy Story 3?", "answers": ["Hamm"], "tags": ["cvt"] }
+{ "qId": "syn040154", "qText": "Who played Lots-o'-Huggin' Bear in Toy Story 3?", "answers": ["Ned Beatty"], "tags": ["cvt"] }
+{ "qId": "syn040155", "qText": "Who did Ned Beatty play in Toy Story 3?", "answers": ["Lots-o'-Huggin' Bear"], "tags": ["cvt"] }
+{ "qId": "syn040156", "qText": "Who played Rape Victim in Film in A Clockwork Orange?", "answers": ["Cheryl Grunwald"], "tags": ["cvt"] }
+{ "qId": "syn040157", "qText": "Who did Cheryl Grunwald play in A Clockwork Orange?", "answers": ["Rape Victim in Film"], "tags": ["cvt"] }
+{ "qId": "syn040156", "qText": "Who played Biblio Oldie #4 in A Clockwork Orange?", "answers": ["Nat Pearn"], "tags": ["cvt"] }
+{ "qId": "syn040157", "qText": "Who did Nat Pearn play in A Clockwork Orange?", "answers": ["Biblio Oldie #4"], "tags": ["cvt"] }
+{ "qId": "syn040156", "qText": "Who played Old Lady at Duke of York #3 in A Clockwork Orange?", "answers": ["Winifred Sabine"], "tags": ["cvt"] }
+{ "qId": "syn040157", "qText": "Who did Winifred Sabine play in A Clockwork Orange?", "answers": ["Old Lady at Duke of York #3"], "tags": ["cvt"] }
+{ "qId": "syn040156", "qText": "Who played Stage Actor in A Clockwork Orange?", "answers": ["John Clive"], "tags": ["cvt"] }
+{ "qId": "syn040157", "qText": "Who did John Clive play in A Clockwork Orange?", "answers": ["Stage Actor"], "tags": ["cvt"] }
+{ "qId": "syn040158", "qText": "Who played Party Animal #2 in Requiem for a Dream?", "answers": ["Jim Centofanti"], "tags": ["cvt"] }
+{ "qId": "syn040159", "qText": "Who did Jim Centofanti play in Requiem for a Dream?", "answers": ["Party Animal #2"], "tags": ["cvt"] }
+{ "qId": "syn040158", "qText": "Who played Mrs. Ovadia in Requiem for a Dream?", "answers": ["Joanne Gordon"], "tags": ["cvt"] }
+{ "qId": "syn040159", "qText": "Who did Joanne Gordon play in Requiem for a Dream?", "answers": ["Mrs. Ovadia"], "tags": ["cvt"] }
+{ "qId": "syn040158", "qText": "Who played Party Animal #23 in Requiem for a Dream?", "answers": ["Jesse Weissberger"], "tags": ["cvt"] }
+{ "qId": "syn040159", "qText": "Who did Jesse Weissberger play in Requiem for a Dream?", "answers": ["Party Animal #23"], "tags": ["cvt"] }
+{ "qId": "syn040158", "qText": "Who played Young Tyrone in Requiem for a Dream?", "answers": ["Te'ron A. O'Neal"], "tags": ["cvt"] }
+{ "qId": "syn040159", "qText": "Who did Te'ron A. O'Neal play in Requiem for a Dream?", "answers": ["Young Tyrone"], "tags": ["cvt"] }
+{ "qId": "syn040160", "qText": "Who played Angry Black Man in Taxi Driver?", "answers": ["Frank Adu"], "tags": ["cvt"] }
+{ "qId": "syn040161", "qText": "Who did Frank Adu play in Taxi Driver?", "answers": ["Angry Black Man"], "tags": ["cvt"] }
+{ "qId": "syn040160", "qText": "Who played Cabbie in Bellmore in Taxi Driver?", "answers": ["Harry Cohn"], "tags": ["cvt"] }
+{ "qId": "syn040161", "qText": "Who did Harry Cohn play in Taxi Driver?", "answers": ["Cabbie in Bellmore"], "tags": ["cvt"] }
+{ "qId": "syn040160", "qText": "Who played Friend of Iris in Taxi Driver?", "answers": ["Billie Perkins"], "tags": ["cvt"] }
+{ "qId": "syn040161", "qText": "Who did Billie Perkins play in Taxi Driver?", "answers": ["Friend of Iris"], "tags": ["cvt"] }
+{ "qId": "syn040160", "qText": "Who played Boy on Sidewalk in Taxi Driver?", "answers": ["Tommy Ardolino"], "tags": ["cvt"] }
+{ "qId": "syn040161", "qText": "Who did Tommy Ardolino play in Taxi Driver?", "answers": ["Boy on Sidewalk"], "tags": ["cvt"] }
+{ "qId": "syn040162", "qText": "Who played Mr. Dietrichson in Double Indemnity?", "answers": ["Tom Powers"], "tags": ["cvt"] }
+{ "qId": "syn040163", "qText": "Who did Tom Powers play in Double Indemnity?", "answers": ["Mr. Dietrichson"], "tags": ["cvt"] }
+{ "qId": "syn040162", "qText": "Who played Sam Garlopis in Double Indemnity?", "answers": ["Fortunio Bonanova"], "tags": ["cvt"] }
+{ "qId": "syn040163", "qText": "Who did Fortunio Bonanova play in Double Indemnity?", "answers": ["Sam Garlopis"], "tags": ["cvt"] }
+{ "qId": "syn040162", "qText": "Who played Mr. Jackson in Double Indemnity?", "answers": ["Porter Hall"], "tags": ["cvt"] }
+{ "qId": "syn040163", "qText": "Who did Porter Hall play in Double Indemnity?", "answers": ["Mr. Jackson"], "tags": ["cvt"] }
+{ "qId": "syn040162", "qText": "Who played Phyllis Dietrichson in Double Indemnity?", "answers": ["Barbara Stanwyck"], "tags": ["cvt"] }
+{ "qId": "syn040163", "qText": "Who did Barbara Stanwyck play in Double Indemnity?", "answers": ["Phyllis Dietrichson"], "tags": ["cvt"] }
+{ "qId": "syn040166", "qText": "Who played Sherif Ali in Lawrence of Arabia?", "answers": ["Omar Sharif"], "tags": ["cvt"] }
+{ "qId": "syn040167", "qText": "Who did Omar Sharif play in Lawrence of Arabia?", "answers": ["Sherif Ali"], "tags": ["cvt"] }
+{ "qId": "syn040166", "qText": "Who played Majid in Lawrence of Arabia?", "answers": ["Gamil Ratib"], "tags": ["cvt"] }
+{ "qId": "syn040167", "qText": "Who did Gamil Ratib play in Lawrence of Arabia?", "answers": ["Majid"], "tags": ["cvt"] }
+{ "qId": "syn040166", "qText": "Who played General Murray in Lawrence of Arabia?", "answers": ["Donald Wolfit"], "tags": ["cvt"] }
+{ "qId": "syn040167", "qText": "Who did Donald Wolfit play in Lawrence of Arabia?", "answers": ["General Murray"], "tags": ["cvt"] }
+{ "qId": "syn040166", "qText": "Who played Daud in Lawrence of Arabia?", "answers": ["John Dimech"], "tags": ["cvt"] }
+{ "qId": "syn040167", "qText": "Who did John Dimech play in Lawrence of Arabia?", "answers": ["Daud"], "tags": ["cvt"] }
+{ "qId": "syn040168", "qText": "Who played Hollis in Eternal Sunshine of the Spotless Mind?", "answers": ["Deirdre O'Connell"], "tags": ["cvt"] }
+{ "qId": "syn040169", "qText": "Who did Deirdre O'Connell play in Eternal Sunshine of the Spotless Mind?", "answers": ["Hollis"], "tags": ["cvt"] }
+{ "qId": "syn040168", "qText": "Who played Young Bully #2 in Eternal Sunshine of the Spotless Mind?", "answers": ["Amir Ali Said"], "tags": ["cvt"] }
+{ "qId": "syn040169", "qText": "Who did Amir Ali Said play in Eternal Sunshine of the Spotless Mind?", "answers": ["Young Bully #2"], "tags": ["cvt"] }
+{ "qId": "syn040168", "qText": "Who played Rollerblader in Eternal Sunshine of the Spotless Mind?", "answers": ["Lauren Adler"], "tags": ["cvt"] }
+{ "qId": "syn040169", "qText": "Who did Lauren Adler play in Eternal Sunshine of the Spotless Mind?", "answers": ["Rollerblader"], "tags": ["cvt"] }
+{ "qId": "syn040168", "qText": "Who played Joel Barish in Eternal Sunshine of the Spotless Mind?", "answers": ["Ryan Whitney"], "tags": ["cvt"] }
+{ "qId": "syn040169", "qText": "Who did Ryan Whitney play in Eternal Sunshine of the Spotless Mind?", "answers": ["Joel Barish"], "tags": ["cvt"] }
+{ "qId": "syn040170", "qText": "Who played Poge Colonel in Full Metal Jacket?", "answers": ["Bruce Boa"], "tags": ["cvt"] }
+{ "qId": "syn040171", "qText": "Who did Bruce Boa play in Full Metal Jacket?", "answers": ["Poge Colonel"], "tags": ["cvt"] }
+{ "qId": "syn040170", "qText": "Who played Payback in Full Metal Jacket?", "answers": ["Kirk Taylor"], "tags": ["cvt"] }
+{ "qId": "syn040171", "qText": "Who did Kirk Taylor play in Full Metal Jacket?", "answers": ["Payback"], "tags": ["cvt"] }
+{ "qId": "syn040170", "qText": "Who played Pvt. 'Snowball' Brown in Full Metal Jacket?", "answers": ["Peter Edmund"], "tags": ["cvt"] }
+{ "qId": "syn040171", "qText": "Who did Peter Edmund play in Full Metal Jacket?", "answers": ["Pvt. 'Snowball' Brown"], "tags": ["cvt"] }
+{ "qId": "syn040170", "qText": "Who played TV Camera Operator in Full Metal Jacket?", "answers": ["John Ward"], "tags": ["cvt"] }
+{ "qId": "syn040171", "qText": "Who did John Ward play in Full Metal Jacket?", "answers": ["TV Camera Operator"], "tags": ["cvt"] }
+{ "qId": "syn040174", "qText": "Who played Archbishop Colloredo in Amadeus?", "answers": ["Nicholas Kepros"], "tags": ["cvt"] }
+{ "qId": "syn040175", "qText": "Who did Nicholas Kepros play in Amadeus?", "answers": ["Archbishop Colloredo"], "tags": ["cvt"] }
+{ "qId": "syn040174", "qText": "Who played Leopold Mozart in Amadeus?", "answers": ["Roy Dotrice"], "tags": ["cvt"] }
+{ "qId": "syn040175", "qText": "Who did Roy Dotrice play in Amadeus?", "answers": ["Leopold Mozart"], "tags": ["cvt"] }
+{ "qId": "syn040174", "qText": "Who played Papageno in Amadeus?", "answers": ["Simon Callow"], "tags": ["cvt"] }
+{ "qId": "syn040175", "qText": "Who did Simon Callow play in Amadeus?", "answers": ["Papageno"], "tags": ["cvt"] }
+{ "qId": "syn040174", "qText": "Who played Wolfgang Amadeus Mozart in Amadeus?", "answers": ["Tom Hulce"], "tags": ["cvt"] }
+{ "qId": "syn040175", "qText": "Who did Tom Hulce play in Amadeus?", "answers": ["Wolfgang Amadeus Mozart"], "tags": ["cvt"] }
+{ "qId": "syn040176", "qText": "Who played Eddie Niles in The Sting?", "answers": ["John Heffernan"], "tags": ["cvt"] }
+{ "qId": "syn040177", "qText": "Who did John Heffernan play in The Sting?", "answers": ["Eddie Niles"], "tags": ["cvt"] }
+{ "qId": "syn040176", "qText": "Who played Landlady in The Sting?", "answers": ["Susan French"], "tags": ["cvt"] }
+{ "qId": "syn040177", "qText": "Who did Susan French play in The Sting?", "answers": ["Landlady"], "tags": ["cvt"] }
+{ "qId": "syn040176", "qText": "Who played Floyd in The Sting?", "answers": ["Charles Dierkop"], "tags": ["cvt"] }
+{ "qId": "syn040177", "qText": "Who did Charles Dierkop play in The Sting?", "answers": ["Floyd"], "tags": ["cvt"] }
+{ "qId": "syn040176", "qText": "Who played Greer in The Sting?", "answers": ["Kenneth O'Brien"], "tags": ["cvt"] }
+{ "qId": "syn040177", "qText": "Who did Kenneth O'Brien play in The Sting?", "answers": ["Greer"], "tags": ["cvt"] }
+{ "qId": "syn040178", "qText": "Who played J. Cumberland Spendrill III in Singin' in the Rain?", "answers": ["Stuart Holmes"], "tags": ["cvt"] }
+{ "qId": "syn040179", "qText": "Who did Stuart Holmes play in Singin' in the Rain?", "answers": ["J. Cumberland Spendrill III"], "tags": ["cvt"] }
+{ "qId": "syn040178", "qText": "Who played Female Tango Dancer in Singin' in the Rain?", "answers": ["Sylvia Lewis"], "tags": ["cvt"] }
+{ "qId": "syn040179", "qText": "Who did Sylvia Lewis play in Singin' in the Rain?", "answers": ["Female Tango Dancer"], "tags": ["cvt"] }
+{ "qId": "syn040178", "qText": "Who played Fencer #2 in Singin' in the Rain?", "answers": ["Jean Heremans"], "tags": ["cvt"] }
+{ "qId": "syn040179", "qText": "Who did Jean Heremans play in Singin' in the Rain?", "answers": ["Fencer #2"], "tags": ["cvt"] }
+{ "qId": "syn040178", "qText": "Who played Chorus Boy #8 in Singin' in the Rain?", "answers": ["Jimmy Kelly"], "tags": ["cvt"] }
+{ "qId": "syn040179", "qText": "Who did Jimmy Kelly play in Singin' in the Rain?", "answers": ["Chorus Boy #8"], "tags": ["cvt"] }
+{ "qId": "syn040180", "qText": "Who played The Charitable Lady in Bicycle Thieves?", "answers": ["Elena Altieri"], "tags": ["cvt"] }
+{ "qId": "syn040181", "qText": "Who did Elena Altieri play in Bicycle Thieves?", "answers": ["The Charitable Lady"], "tags": ["cvt"] }
+{ "qId": "syn040180", "qText": "Who played The Thief in Bicycle Thieves?", "answers": ["Vittorio Antonucci"], "tags": ["cvt"] }
+{ "qId": "syn040181", "qText": "Who did Vittorio Antonucci play in Bicycle Thieves?", "answers": ["The Thief"], "tags": ["cvt"] }
+{ "qId": "syn040180", "qText": "Who played Antonio Ricci in Bicycle Thieves?", "answers": ["Lamberto Maggiorani"], "tags": ["cvt"] }
+{ "qId": "syn040181", "qText": "Who did Lamberto Maggiorani play in Bicycle Thieves?", "answers": ["Antonio Ricci"], "tags": ["cvt"] }
+{ "qId": "syn040180", "qText": "Who played Bruno Ricci in Bicycle Thieves?", "answers": ["Enzo Staiola"], "tags": ["cvt"] }
+{ "qId": "syn040181", "qText": "Who did Enzo Staiola play in Bicycle Thieves?", "answers": ["Bruno Ricci"], "tags": ["cvt"] }
+{ "qId": "syn040182", "qText": "Who played Ape #5 in 2001: A Space Odyssey?", "answers": ["Jonathan Daw"], "tags": ["cvt"] }
+{ "qId": "syn040183", "qText": "Who did Jonathan Daw play in 2001: A Space Odyssey?", "answers": ["Ape #5"], "tags": ["cvt"] }
+{ "qId": "syn040182", "qText": "Who played Ape #6 in 2001: A Space Odyssey?", "answers": ["Péter Delmár"], "tags": ["cvt"] }
+{ "qId": "syn040183", "qText": "Who did Péter Delmár play in 2001: A Space Odyssey?", "answers": ["Ape #6"], "tags": ["cvt"] }
+{ "qId": "syn040182", "qText": "Who played Ape #16 in 2001: A Space Odyssey?", "answers": ["Joe Refalo"], "tags": ["cvt"] }
+{ "qId": "syn040183", "qText": "Who did Joe Refalo play in 2001: A Space Odyssey?", "answers": ["Ape #16"], "tags": ["cvt"] }
+{ "qId": "syn040182", "qText": "Who played Ape #17 in 2001: A Space Odyssey?", "answers": ["Andy Wallace"], "tags": ["cvt"] }
+{ "qId": "syn040183", "qText": "Who did Andy Wallace play in 2001: A Space Odyssey?", "answers": ["Ape #17"], "tags": ["cvt"] }
+{ "qId": "syn040184", "qText": "Who played Avi's Colleague in Snatch.?", "answers": ["Eric Meyers"], "tags": ["cvt"] }
+{ "qId": "syn040185", "qText": "Who did Eric Meyers play in Snatch.?", "answers": ["Avi's Colleague"], "tags": ["cvt"] }
+{ "qId": "syn040184", "qText": "Who played Policeman #2 in Snatch.?", "answers": ["Andy Shield"], "tags": ["cvt"] }
+{ "qId": "syn040185", "qText": "Who did Andy Shield play in Snatch.?", "answers": ["Policeman #2"], "tags": ["cvt"] }
+{ "qId": "syn040184", "qText": "Who played Brick Top's Henchman #1 in Snatch.?", "answers": ["John Farnell"], "tags": ["cvt"] }
+{ "qId": "syn040185", "qText": "Who did John Farnell play in Snatch.?", "answers": ["Brick Top's Henchman #1"], "tags": ["cvt"] }
+{ "qId": "syn040184", "qText": "Who played Brick Top in Snatch.?", "answers": ["Alan Ford"], "tags": ["cvt"] }
+{ "qId": "syn040185", "qText": "Who did Alan Ford play in Snatch.?", "answers": ["Brick Top"], "tags": ["cvt"] }
+{ "qId": "syn040186", "qText": "Who played Girl in Castle Anthrax #13 in Monty Python and the Holy Grail?", "answers": ["Gloria Graham"], "tags": ["cvt"] }
+{ "qId": "syn040187", "qText": "Who did Gloria Graham play in Monty Python and the Holy Grail?", "answers": ["Girl in Castle Anthrax #13"], "tags": ["cvt"] }
+{ "qId": "syn040186", "qText": "Who played Sir Not-Appearing-in-this-Film in Monty Python and the Holy Grail?", "answers": ["William Palin"], "tags": ["cvt"] }
+{ "qId": "syn040187", "qText": "Who did William Palin play in Monty Python and the Holy Grail?", "answers": ["Sir Not-Appearing-in-this-Film"], "tags": ["cvt"] }
+{ "qId": "syn040186", "qText": "Who played Girl in Castle Anthrax #4 in Monty Python and the Holy Grail?", "answers": ["Joni Flynn"], "tags": ["cvt"] }
+{ "qId": "syn040187", "qText": "Who did Joni Flynn play in Monty Python and the Holy Grail?", "answers": ["Girl in Castle Anthrax #4"], "tags": ["cvt"] }
+{ "qId": "syn040186", "qText": "Who played God in Monty Python and the Holy Grail?", "answers": ["Graham Chapman"], "tags": ["cvt"] }
+{ "qId": "syn040187", "qText": "Who did Graham Chapman play in Monty Python and the Holy Grail?", "answers": ["God"], "tags": ["cvt"] }
+{ "qId": "syn040188", "qText": "Who played The Kid in The Kid?", "answers": ["Jackie Coogan"], "tags": ["cvt"] }
+{ "qId": "syn040189", "qText": "Who did Jackie Coogan play in The Kid?", "answers": ["The Kid"], "tags": ["cvt"] }
+{ "qId": "syn040188", "qText": "Who played The Tramp in The Kid?", "answers": ["Charlie Chaplin"], "tags": ["cvt"] }
+{ "qId": "syn040189", "qText": "Who did Charlie Chaplin play in The Kid?", "answers": ["The Tramp"], "tags": ["cvt"] }
+{ "qId": "syn040190", "qText": "Who played Hannah in Toy Story?", "answers": ["Sarah Freeman"], "tags": ["cvt"] }
+{ "qId": "syn040191", "qText": "Who did Sarah Freeman play in Toy Story?", "answers": ["Hannah"], "tags": ["cvt"] }
+{ "qId": "syn040190", "qText": "Who played Troll in Toy Story?", "answers": ["Debi Derryberry"], "tags": ["cvt"] }
+{ "qId": "syn040191", "qText": "Who did Debi Derryberry play in Toy Story?", "answers": ["Troll"], "tags": ["cvt"] }
+{ "qId": "syn040190", "qText": "Who played Hamm in Toy Story?", "answers": ["John Ratzenberger"], "tags": ["cvt"] }
+{ "qId": "syn040191", "qText": "Who did John Ratzenberger play in Toy Story?", "answers": ["Hamm"], "tags": ["cvt"] }
+{ "qId": "syn040190", "qText": "Who played Mr. Spell in Toy Story?", "answers": ["Jeff Pidgeon"], "tags": ["cvt"] }
+{ "qId": "syn040191", "qText": "Who did Jeff Pidgeon play in Toy Story?", "answers": ["Mr. Spell"], "tags": ["cvt"] }
+{ "qId": "syn040192", "qText": "Who played Stenographer in L.A. Confidential?", "answers": ["Noel Evangelisti"], "tags": ["cvt"] }
+{ "qId": "syn040193", "qText": "Who did Noel Evangelisti play in L.A. Confidential?", "answers": ["Stenographer"], "tags": ["cvt"] }
+{ "qId": "syn040192", "qText": "Who played Look-Alike Dancer #1 in L.A. Confidential?", "answers": ["April Breneman"], "tags": ["cvt"] }
+{ "qId": "syn040193", "qText": "Who did April Breneman play in L.A. Confidential?", "answers": ["Look-Alike Dancer #1"], "tags": ["cvt"] }
+{ "qId": "syn040192", "qText": "Who played Dick Stensland in L.A. Confidential?", "answers": ["Graham Beckel"], "tags": ["cvt"] }
+{ "qId": "syn040193", "qText": "Who did Graham Beckel play in L.A. Confidential?", "answers": ["Dick Stensland"], "tags": ["cvt"] }
+{ "qId": "syn040192", "qText": "Who played Officer at Detective Bureau in L.A. Confidential?", "answers": ["Jordan Marder"], "tags": ["cvt"] }
+{ "qId": "syn040193", "qText": "Who did Jordan Marder play in L.A. Confidential?", "answers": ["Officer at Detective Bureau"], "tags": ["cvt"] }
+{ "qId": "syn040194", "qText": "Who played Mary in For a Few Dollars More?", "answers": ["Mara Krup"], "tags": ["cvt"] }
+{ "qId": "syn040195", "qText": "Who did Mara Krup play in For a Few Dollars More?", "answers": ["Mary"], "tags": ["cvt"] }
+{ "qId": "syn040194", "qText": "Who played Manuel in For a Few Dollars More?", "answers": ["Luis Rodriguez"], "tags": ["cvt"] }
+{ "qId": "syn040195", "qText": "Who did Luis Rodriguez play in For a Few Dollars More?", "answers": ["Manuel"], "tags": ["cvt"] }
+{ "qId": "syn040194", "qText": "Who played Juan Wild in For a Few Dollars More?", "answers": ["Klaus Kinski"], "tags": ["cvt"] }
+{ "qId": "syn040195", "qText": "Who did Klaus Kinski play in For a Few Dollars More?", "answers": ["Juan Wild"], "tags": ["cvt"] }
+{ "qId": "syn040194", "qText": "Who played Calloway's beautiful girl in tub in For a Few Dollars More?", "answers": ["Diana Rabito"], "tags": ["cvt"] }
+{ "qId": "syn040195", "qText": "Who did Diana Rabito play in For a Few Dollars More?", "answers": ["Calloway's beautiful girl in tub"], "tags": ["cvt"] }
+{ "qId": "syn040196", "qText": "Who played Tajômaru in Rashomon?", "answers": ["Toshiro Mifune"], "tags": ["cvt"] }
+{ "qId": "syn040197", "qText": "Who did Toshiro Mifune play in Rashomon?", "answers": ["Tajômaru"], "tags": ["cvt"] }
+{ "qId": "syn040196", "qText": "Who played Woodcutter in Rashomon?", "answers": ["Takashi Shimura"], "tags": ["cvt"] }
+{ "qId": "syn040197", "qText": "Who did Takashi Shimura play in Rashomon?", "answers": ["Woodcutter"], "tags": ["cvt"] }
+{ "qId": "syn040196", "qText": "Who played Masako Kanazawa in Rashomon?", "answers": ["Machiko Kyō"], "tags": ["cvt"] }
+{ "qId": "syn040197", "qText": "Who did Machiko Kyō play in Rashomon?", "answers": ["Masako Kanazawa"], "tags": ["cvt"] }
+{ "qId": "syn040196", "qText": "Who played Takehiro Kanazawa in Rashomon?", "answers": ["Masayuki Mori"], "tags": ["cvt"] }
+{ "qId": "syn040197", "qText": "Who did Masayuki Mori play in Rashomon?", "answers": ["Takehiro Kanazawa"], "tags": ["cvt"] }
+{ "qId": "syn040198", "qText": "Who played Francesca Mondino in Inglourious Basterds?", "answers": ["Julie Dreyfus"], "tags": ["cvt"] }
+{ "qId": "syn040199", "qText": "Who did Julie Dreyfus play in Inglourious Basterds?", "answers": ["Francesca Mondino"], "tags": ["cvt"] }
+{ "qId": "syn040198", "qText": "Who played Adolf Hitler in Inglourious Basterds?", "answers": ["Martin Wuttke"], "tags": ["cvt"] }
+{ "qId": "syn040199", "qText": "Who did Martin Wuttke play in Inglourious Basterds?", "answers": ["Adolf Hitler"], "tags": ["cvt"] }
+{ "qId": "syn040198", "qText": "Who played German Company Sgt. in Inglourious Basterds?", "answers": ["Wilfried Hochholdinger"], "tags": ["cvt"] }
+{ "qId": "syn040199", "qText": "Who did Wilfried Hochholdinger play in Inglourious Basterds?", "answers": ["German Company Sgt."], "tags": ["cvt"] }
+{ "qId": "syn040198", "qText": "Who played Motorcycle Rider #2 in Inglourious Basterds?", "answers": ["Andreas Tietz"], "tags": ["cvt"] }
+{ "qId": "syn040199", "qText": "Who did Andreas Tietz play in Inglourious Basterds?", "answers": ["Motorcycle Rider #2"], "tags": ["cvt"] }

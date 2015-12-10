@@ -1,0 +1,1286 @@
+{ "qId": "syn010032", "qText": "When was Akira Kurosawa born?", "answers": ["1910-03-23"], "tags": ["#basic"] }
+{ "qId": "syn010033", "qText": "Where was Akira Kurosawa born?", "answers": ["Shinagawa"], "tags": ["#basic"] }
+{ "qId": "syn010034", "qText": "What is Akira Kurosawa's birth place?", "answers": ["Shinagawa"], "tags": ["#basic"] }
+{ "qId": "syn010035", "qText": "When did Akira Kurosawa die?", "answers": ["1998-09-06"], "tags": ["#basic"] }
+{ "qId": "syn010036", "qText": "Where did Akira Kurosawa die?", "answers": ["Setagaya"], "tags": ["#basic"] }
+{ "qId": "syn010037", "qText": "How did Akira Kurosawa die?", "answers": ["Stroke"], "tags": ["#basic"] }
+{ "qId": "syn010039", "qText": "What is Akira Kurosawa's nationality?", "answers": ["Japan"], "tags": ["#basic"] }
+{ "qId": "syn010040", "qText": "Where is Akira Kurosawa from?", "answers": ["Shinagawa"], "tags": ["#basic"] }
+{ "qId": "syn010044", "qText": "Who are the parents of Akira Kurosawa?", "answers": ["Shima Kurosawa", "Isamu Kurosawa"], "tags": ["#basic"] }
+{ "qId": "syn010045", "qText": "Who is Akira Kurosawa's father?", "answers": ["Isamu Kurosawa"], "tags": ["#cmplx"] }
+{ "qId": "syn010046", "qText": "Who is Akira Kurosawa's mother?", "answers": ["Shima Kurosawa"], "tags": ["#cmplx"] }
+{ "qId": "syn010047", "qText": "Who is Akira Kurosawa married to?", "answers": ["Yōko Yaguchi"], "tags": ["#cvt"] }
+{ "qId": "syn010048", "qText": "When was Al Ernest Garcia born?", "answers": ["1887-03-11"], "tags": ["#basic"] }
+{ "qId": "syn010049", "qText": "Where was Al Ernest Garcia born?", "answers": ["San Francisco"], "tags": ["#basic"] }
+{ "qId": "syn010050", "qText": "What is Al Ernest Garcia's birth place?", "answers": ["San Francisco"], "tags": ["#basic"] }
+{ "qId": "syn010051", "qText": "When did Al Ernest Garcia die?", "answers": ["1938-09-04"], "tags": ["#basic"] }
+{ "qId": "syn010052", "qText": "Where did Al Ernest Garcia die?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn010055", "qText": "What is Al Ernest Garcia's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010056", "qText": "Where is Al Ernest Garcia from?", "answers": ["San Francisco"], "tags": ["#basic"] }
+{ "qId": "syn010064", "qText": "When was Alain Sarde born?", "answers": ["1952-03-28"], "tags": ["#basic"] }
+{ "qId": "syn010065", "qText": "Where was Alain Sarde born?", "answers": ["Boulogne-Billancourt"], "tags": ["#basic"] }
+{ "qId": "syn010066", "qText": "What is Alain Sarde's birth place?", "answers": ["Boulogne-Billancourt"], "tags": ["#basic"] }
+{ "qId": "syn010071", "qText": "What is Alain Sarde's nationality?", "answers": ["France"], "tags": ["#basic"] }
+{ "qId": "syn010072", "qText": "Where is Alain Sarde from?", "answers": ["Boulogne-Billancourt"], "tags": ["#basic"] }
+{ "qId": "syn010076", "qText": "Who are the parents of Alain Sarde?", "answers": ["Andrée Gabriel"], "tags": ["#basic"] }
+{ "qId": "syn010078", "qText": "Who is Alain Sarde's mother?", "answers": ["Andrée Gabriel"], "tags": ["#cmplx"] }
+{ "qId": "syn010080", "qText": "When was Alan Ladd, Jr. born?", "answers": ["1937-10-22"], "tags": ["#basic"] }
+{ "qId": "syn010081", "qText": "Where was Alan Ladd, Jr. born?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn010082", "qText": "What is Alan Ladd, Jr.'s birth place?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn010087", "qText": "What is Alan Ladd, Jr.'s nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010088", "qText": "Where is Alan Ladd, Jr. from?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn010092", "qText": "Who are the parents of Alan Ladd, Jr.?", "answers": ["Alan Ladd", "Marjorie Jane Harrold"], "tags": ["#basic"] }
+{ "qId": "syn010093", "qText": "Who is Alan Ladd, Jr.'s father?", "answers": ["Alan Ladd"], "tags": ["#cmplx"] }
+{ "qId": "syn010094", "qText": "Who is Alan Ladd, Jr.'s mother?", "answers": ["Marjorie Jane Harrold"], "tags": ["#cmplx"] }
+{ "qId": "syn010095", "qText": "Who is Alan Ladd, Jr. married to?", "answers": ["Cindra Ladd", "Patricia Ann"], "tags": ["#cvt"] }
+{ "qId": "syn010096", "qText": "When was Albert S. Ruddy born?", "answers": ["1930-03-28"], "tags": ["#basic"] }
+{ "qId": "syn010097", "qText": "Where was Albert S. Ruddy born?", "answers": ["Montreal"], "tags": ["#basic"] }
+{ "qId": "syn010098", "qText": "What is Albert S. Ruddy's birth place?", "answers": ["Montreal"], "tags": ["#basic"] }
+{ "qId": "syn010103", "qText": "What is Albert S. Ruddy's nationality?", "answers": ["Canada"], "tags": ["#basic"] }
+{ "qId": "syn010104", "qText": "Where is Albert S. Ruddy from?", "answers": ["Montreal"], "tags": ["#basic"] }
+{ "qId": "syn010112", "qText": "When was Alberto Grimaldi born?", "answers": ["1925-03-28"], "tags": ["#basic"] }
+{ "qId": "syn010113", "qText": "Where was Alberto Grimaldi born?", "answers": ["Naples"], "tags": ["#basic"] }
+{ "qId": "syn010114", "qText": "What is Alberto Grimaldi's birth place?", "answers": ["Naples"], "tags": ["#basic"] }
+{ "qId": "syn010119", "qText": "What is Alberto Grimaldi's nationality?", "answers": ["Italy"], "tags": ["#basic"] }
+{ "qId": "syn010120", "qText": "Where is Alberto Grimaldi from?", "answers": ["Naples"], "tags": ["#basic"] }
+{ "qId": "syn010128", "qText": "When was Alfred Hitchcock born?", "answers": ["1899-08-13"], "tags": ["#basic"] }
+{ "qId": "syn010129", "qText": "Where was Alfred Hitchcock born?", "answers": ["Leytonstone"], "tags": ["#basic"] }
+{ "qId": "syn010130", "qText": "What is Alfred Hitchcock's birth place?", "answers": ["Leytonstone"], "tags": ["#basic"] }
+{ "qId": "syn010131", "qText": "When did Alfred Hitchcock die?", "answers": ["1980-04-29"], "tags": ["#basic"] }
+{ "qId": "syn010132", "qText": "Where did Alfred Hitchcock die?", "answers": ["Bel-Air"], "tags": ["#basic"] }
+{ "qId": "syn010133", "qText": "How did Alfred Hitchcock die?", "answers": ["Renal failure"], "tags": ["#basic"] }
+{ "qId": "syn010135", "qText": "What is Alfred Hitchcock's nationality?", "answers": ["United Kingdom", "United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010136", "qText": "Where is Alfred Hitchcock from?", "answers": ["Leytonstone"], "tags": ["#basic"] }
+{ "qId": "syn010137", "qText": "How high is Alfred Hitchcock?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn010138", "qText": "How tall is Alfred Hitchcock?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn010139", "qText": "What's the Alfred Hitchcock's height?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn010140", "qText": "Who are the parents of Alfred Hitchcock?", "answers": ["Emma Jane Hitchcock", "William Hitchcock"], "tags": ["#basic"] }
+{ "qId": "syn010141", "qText": "Who is Alfred Hitchcock's father?", "answers": ["William Hitchcock"], "tags": ["#cmplx"] }
+{ "qId": "syn010142", "qText": "Who is Alfred Hitchcock's mother?", "answers": ["Emma Jane Hitchcock"], "tags": ["#cmplx"] }
+{ "qId": "syn010143", "qText": "Who is Alfred Hitchcock married to?", "answers": ["Alma Reville"], "tags": ["#cvt"] }
+{ "qId": "syn010144", "qText": "When was Amanda Plummer born?", "answers": ["1957-03-23"], "tags": ["#basic"] }
+{ "qId": "syn010145", "qText": "Where was Amanda Plummer born?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn010146", "qText": "What is Amanda Plummer's birth place?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn010151", "qText": "What is Amanda Plummer's nationality?", "answers": ["United States of America", "Canada"], "tags": ["#basic"] }
+{ "qId": "syn010152", "qText": "Where is Amanda Plummer from?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn010153", "qText": "How high is Amanda Plummer?", "answers": ["1.63"], "tags": ["#basic"] }
+{ "qId": "syn010154", "qText": "How tall is Amanda Plummer?", "answers": ["1.63"], "tags": ["#basic"] }
+{ "qId": "syn010155", "qText": "What's the Amanda Plummer's height?", "answers": ["1.63"], "tags": ["#basic"] }
+{ "qId": "syn010156", "qText": "Who are the parents of Amanda Plummer?", "answers": ["Christopher Plummer", "Tammy Grimes"], "tags": ["#basic"] }
+{ "qId": "syn010157", "qText": "Who is Amanda Plummer's father?", "answers": ["Christopher Plummer"], "tags": ["#cmplx"] }
+{ "qId": "syn010158", "qText": "Who is Amanda Plummer's mother?", "answers": ["Tammy Grimes"], "tags": ["#cmplx"] }
+{ "qId": "syn010159", "qText": "Who is Amanda Plummer married to?", "answers": ["Paul Chart"], "tags": ["#cvt"] }
+{ "qId": "syn010160", "qText": "When was Andrew Stanton born?", "answers": ["1965-12-03"], "tags": ["#basic"] }
+{ "qId": "syn010161", "qText": "Where was Andrew Stanton born?", "answers": ["Rockport"], "tags": ["#basic"] }
+{ "qId": "syn010162", "qText": "What is Andrew Stanton's birth place?", "answers": ["Rockport"], "tags": ["#basic"] }
+{ "qId": "syn010167", "qText": "What is Andrew Stanton's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010168", "qText": "Where is Andrew Stanton from?", "answers": ["Rockport"], "tags": ["#basic"] }
+{ "qId": "syn010175", "qText": "Who is Andrew Stanton married to?", "answers": ["Julie Stanton"], "tags": ["#cvt"] }
+{ "qId": "syn010192", "qText": "When was Arnold Kopelson born?", "answers": ["1935-02-14"], "tags": ["#basic"] }
+{ "qId": "syn010193", "qText": "Where was Arnold Kopelson born?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn010194", "qText": "What is Arnold Kopelson's birth place?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn010199", "qText": "What is Arnold Kopelson's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010200", "qText": "Where is Arnold Kopelson from?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn010207", "qText": "Who is Arnold Kopelson married to?", "answers": ["Anne Kopelson"], "tags": ["#cvt"] }
+{ "qId": "syn010208", "qText": "When was Arnon Milchan born?", "answers": ["1944-12-06"], "tags": ["#basic"] }
+{ "qId": "syn010209", "qText": "Where was Arnon Milchan born?", "answers": ["Rehovot"], "tags": ["#basic"] }
+{ "qId": "syn010210", "qText": "What is Arnon Milchan's birth place?", "answers": ["Rehovot"], "tags": ["#basic"] }
+{ "qId": "syn010215", "qText": "What is Arnon Milchan's nationality?", "answers": ["Israel"], "tags": ["#basic"] }
+{ "qId": "syn010216", "qText": "Where is Arnon Milchan from?", "answers": ["Rehovot"], "tags": ["#basic"] }
+{ "qId": "syn010223", "qText": "Who is Arnon Milchan married to?", "answers": ["Brigitte Genmaire", "Amanda Coetzer"], "tags": ["#cvt"] }
+{ "qId": "syn010224", "qText": "When was Art Linson born?", "answers": ["1942"], "tags": ["#basic"] }
+{ "qId": "syn010225", "qText": "Where was Art Linson born?", "answers": ["Chicago"], "tags": ["#basic"] }
+{ "qId": "syn010226", "qText": "What is Art Linson's birth place?", "answers": ["Chicago"], "tags": ["#basic"] }
+{ "qId": "syn010231", "qText": "What is Art Linson's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010232", "qText": "Where is Art Linson from?", "answers": ["Chicago"], "tags": ["#basic"] }
+{ "qId": "syn010239", "qText": "Who is Art Linson married to?", "answers": ["Fiona Lewis"], "tags": ["#cvt"] }
+{ "qId": "syn010240", "qText": "When was Arthur Freed born?", "answers": ["1894-09-09"], "tags": ["#basic"] }
+{ "qId": "syn010241", "qText": "Where was Arthur Freed born?", "answers": ["Charleston"], "tags": ["#basic"] }
+{ "qId": "syn010242", "qText": "What is Arthur Freed's birth place?", "answers": ["Charleston"], "tags": ["#basic"] }
+{ "qId": "syn010243", "qText": "When did Arthur Freed die?", "answers": ["1973-04-12"], "tags": ["#basic"] }
+{ "qId": "syn010244", "qText": "Where did Arthur Freed die?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn010245", "qText": "How did Arthur Freed die?", "answers": ["Myocardial infarction"], "tags": ["#basic"] }
+{ "qId": "syn010247", "qText": "What is Arthur Freed's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010248", "qText": "Where is Arthur Freed from?", "answers": ["Charleston"], "tags": ["#basic"] }
+{ "qId": "syn010255", "qText": "Who is Arthur Freed married to?", "answers": ["Renée Klein"], "tags": ["#cvt"] }
+{ "qId": "syn010272", "qText": "When was Bill Gratton born?", "answers": ["1948-02-29"], "tags": ["#basic"] }
+{ "qId": "syn010273", "qText": "Where was Bill Gratton born?", "answers": ["Brantford"], "tags": ["#basic"] }
+{ "qId": "syn010274", "qText": "What is Bill Gratton's birth place?", "answers": ["Brantford"], "tags": ["#basic"] }
+{ "qId": "syn010280", "qText": "Where is Bill Gratton from?", "answers": ["Brantford"], "tags": ["#basic"] }
+{ "qId": "syn010288", "qText": "When was Billy Dee Williams born?", "answers": ["1937-04-06"], "tags": ["#basic"] }
+{ "qId": "syn010289", "qText": "Where was Billy Dee Williams born?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn010290", "qText": "What is Billy Dee Williams's birth place?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn010295", "qText": "What is Billy Dee Williams's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010296", "qText": "Where is Billy Dee Williams from?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn010297", "qText": "How high is Billy Dee Williams?", "answers": ["1.83"], "tags": ["#basic"] }
+{ "qId": "syn010298", "qText": "How tall is Billy Dee Williams?", "answers": ["1.83"], "tags": ["#basic"] }
+{ "qId": "syn010299", "qText": "What's the Billy Dee Williams's height?", "answers": ["1.83"], "tags": ["#basic"] }
+{ "qId": "syn010300", "qText": "Who are the parents of Billy Dee Williams?", "answers": ["Loretta Anne Williams", "William December Williams, Sr."], "tags": ["#basic"] }
+{ "qId": "syn010301", "qText": "Who is Billy Dee Williams's father?", "answers": ["William December Williams, Sr."], "tags": ["#cmplx"] }
+{ "qId": "syn010302", "qText": "Who is Billy Dee Williams's mother?", "answers": ["Loretta Anne Williams"], "tags": ["#cmplx"] }
+{ "qId": "syn010303", "qText": "Who is Billy Dee Williams married to?", "answers": ["Audrey Sellers", "Teruko Nakagami", "Marlene Clark"], "tags": ["#cvt"] }
+{ "qId": "syn010304", "qText": "When was Billy Wilder born?", "answers": ["1906-06-22"], "tags": ["#basic"] }
+{ "qId": "syn010305", "qText": "Where was Billy Wilder born?", "answers": ["Sucha Beskidzka"], "tags": ["#basic"] }
+{ "qId": "syn010306", "qText": "What is Billy Wilder's birth place?", "answers": ["Sucha Beskidzka"], "tags": ["#basic"] }
+{ "qId": "syn010307", "qText": "When did Billy Wilder die?", "answers": ["2002-03-27"], "tags": ["#basic"] }
+{ "qId": "syn010308", "qText": "Where did Billy Wilder die?", "answers": ["Beverly Hills"], "tags": ["#basic"] }
+{ "qId": "syn010309", "qText": "How did Billy Wilder die?", "answers": ["Pneumonia"], "tags": ["#basic"] }
+{ "qId": "syn010310", "qText": "Where is Billy Wilder buried?", "answers": ["Westwood Village Memorial Park Cemetery"], "tags": ["#basic"] }
+{ "qId": "syn010311", "qText": "What is Billy Wilder's nationality?", "answers": ["Austria", "Poland", "United States of America", "Austria-Hungary"], "tags": ["#basic"] }
+{ "qId": "syn010312", "qText": "Where is Billy Wilder from?", "answers": ["Sucha Beskidzka"], "tags": ["#basic"] }
+{ "qId": "syn010313", "qText": "How high is Billy Wilder?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn010314", "qText": "How tall is Billy Wilder?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn010315", "qText": "What's the Billy Wilder's height?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn010316", "qText": "Who are the parents of Billy Wilder?", "answers": ["Eugenia Wilder", "Max Wilder"], "tags": ["#basic"] }
+{ "qId": "syn010317", "qText": "Who is Billy Wilder's father?", "answers": ["Max Wilder"], "tags": ["#cmplx"] }
+{ "qId": "syn010318", "qText": "Who is Billy Wilder's mother?", "answers": ["Eugenia Wilder"], "tags": ["#cmplx"] }
+{ "qId": "syn010319", "qText": "Who is Billy Wilder married to?", "answers": ["Audrey Young", "Judith Coppicus"], "tags": ["#cvt"] }
+{ "qId": "syn010320", "qText": "When was Bob Gale born?", "answers": ["1951-05-21"], "tags": ["#basic"] }
+{ "qId": "syn010321", "qText": "Where was Bob Gale born?", "answers": ["University City"], "tags": ["#basic"] }
+{ "qId": "syn010322", "qText": "What is Bob Gale's birth place?", "answers": ["University City"], "tags": ["#basic"] }
+{ "qId": "syn010327", "qText": "What is Bob Gale's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010328", "qText": "Where is Bob Gale from?", "answers": ["University City"], "tags": ["#basic"] }
+{ "qId": "syn010332", "qText": "Who are the parents of Bob Gale?", "answers": ["Mark R. Gale", "Maxine Gale"], "tags": ["#basic"] }
+{ "qId": "syn010333", "qText": "Who is Bob Gale's father?", "answers": ["Mark R. Gale"], "tags": ["#cmplx"] }
+{ "qId": "syn010334", "qText": "Who is Bob Gale's mother?", "answers": ["Maxine Gale"], "tags": ["#cmplx"] }
+{ "qId": "syn010335", "qText": "Who is Bob Gale married to?", "answers": ["Tina Gale"], "tags": ["#cvt"] }
+{ "qId": "syn010336", "qText": "When was Brad Grey born?", "answers": ["1957-12-29"], "tags": ["#basic"] }
+{ "qId": "syn010337", "qText": "Where was Brad Grey born?", "answers": ["The Bronx"], "tags": ["#basic"] }
+{ "qId": "syn010338", "qText": "What is Brad Grey's birth place?", "answers": ["The Bronx"], "tags": ["#basic"] }
+{ "qId": "syn010343", "qText": "What is Brad Grey's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010344", "qText": "Where is Brad Grey from?", "answers": ["The Bronx"], "tags": ["#basic"] }
+{ "qId": "syn010345", "qText": "How high is Brad Grey?", "answers": ["1.65"], "tags": ["#basic"] }
+{ "qId": "syn010346", "qText": "How tall is Brad Grey?", "answers": ["1.65"], "tags": ["#basic"] }
+{ "qId": "syn010347", "qText": "What's the Brad Grey's height?", "answers": ["1.65"], "tags": ["#basic"] }
+{ "qId": "syn010351", "qText": "Who is Brad Grey married to?", "answers": ["Jill Gutterson", "Cassandra Huysentuyt"], "tags": ["#cvt"] }
+{ "qId": "syn010352", "qText": "When was Brad Pitt born?", "answers": ["1963-12-18"], "tags": ["#basic"] }
+{ "qId": "syn010353", "qText": "Where was Brad Pitt born?", "answers": ["Shawnee"], "tags": ["#basic"] }
+{ "qId": "syn010354", "qText": "What is Brad Pitt's birth place?", "answers": ["Shawnee"], "tags": ["#basic"] }
+{ "qId": "syn010359", "qText": "What is Brad Pitt's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010360", "qText": "Where is Brad Pitt from?", "answers": ["Shawnee"], "tags": ["#basic"] }
+{ "qId": "syn010361", "qText": "How high is Brad Pitt?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn010362", "qText": "How tall is Brad Pitt?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn010363", "qText": "What's the Brad Pitt's height?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn010364", "qText": "Who are the parents of Brad Pitt?", "answers": ["William Alvin Pitt", "Jane Etta Pitt"], "tags": ["#basic"] }
+{ "qId": "syn010365", "qText": "Who is Brad Pitt's father?", "answers": ["William Alvin Pitt"], "tags": ["#cmplx"] }
+{ "qId": "syn010366", "qText": "Who is Brad Pitt's mother?", "answers": ["Jane Etta Pitt"], "tags": ["#cmplx"] }
+{ "qId": "syn010367", "qText": "Who is Brad Pitt married to?", "answers": ["Jennifer Aniston", "Angelina Jolie"], "tags": ["#cvt"] }
+{ "qId": "syn010368", "qText": "When was Bret McKenzie born?", "answers": ["1976-06-29"], "tags": ["#basic"] }
+{ "qId": "syn010369", "qText": "Where was Bret McKenzie born?", "answers": ["Wellington"], "tags": ["#basic"] }
+{ "qId": "syn010370", "qText": "What is Bret McKenzie's birth place?", "answers": ["Wellington"], "tags": ["#basic"] }
+{ "qId": "syn010375", "qText": "What is Bret McKenzie's nationality?", "answers": ["New Zealand"], "tags": ["#basic"] }
+{ "qId": "syn010376", "qText": "Where is Bret McKenzie from?", "answers": ["Wellington"], "tags": ["#basic"] }
+{ "qId": "syn010377", "qText": "How high is Bret McKenzie?", "answers": ["1.83"], "tags": ["#basic"] }
+{ "qId": "syn010378", "qText": "How tall is Bret McKenzie?", "answers": ["1.83"], "tags": ["#basic"] }
+{ "qId": "syn010379", "qText": "What's the Bret McKenzie's height?", "answers": ["1.83"], "tags": ["#basic"] }
+{ "qId": "syn010380", "qText": "Who are the parents of Bret McKenzie?", "answers": ["Peter McKenzie"], "tags": ["#basic"] }
+{ "qId": "syn010381", "qText": "Who is Bret McKenzie's father?", "answers": ["Peter McKenzie"], "tags": ["#cmplx"] }
+{ "qId": "syn010383", "qText": "Who is Bret McKenzie married to?", "answers": ["Hannah Clarke"], "tags": ["#cvt"] }
+{ "qId": "syn010384", "qText": "When was Bruce Boa born?", "answers": ["1930-07-10"], "tags": ["#basic"] }
+{ "qId": "syn010385", "qText": "Where was Bruce Boa born?", "answers": ["Calgary"], "tags": ["#basic"] }
+{ "qId": "syn010386", "qText": "What is Bruce Boa's birth place?", "answers": ["Calgary"], "tags": ["#basic"] }
+{ "qId": "syn010387", "qText": "When did Bruce Boa die?", "answers": ["2004-04-17"], "tags": ["#basic"] }
+{ "qId": "syn010388", "qText": "Where did Bruce Boa die?", "answers": ["Surrey"], "tags": ["#basic"] }
+{ "qId": "syn010389", "qText": "How did Bruce Boa die?", "answers": ["Cancer"], "tags": ["#basic"] }
+{ "qId": "syn010391", "qText": "What is Bruce Boa's nationality?", "answers": ["Canada"], "tags": ["#basic"] }
+{ "qId": "syn010392", "qText": "Where is Bruce Boa from?", "answers": ["Calgary"], "tags": ["#basic"] }
+{ "qId": "syn010399", "qText": "Who is Bruce Boa married to?", "answers": ["Cherry Boa"], "tags": ["#cvt"] }
+{ "qId": "syn010400", "qText": "When was Bruce Cohen born?", "answers": ["1961-09-23"], "tags": ["#basic"] }
+{ "qId": "syn010401", "qText": "Where was Bruce Cohen born?", "answers": ["Falls Church"], "tags": ["#basic"] }
+{ "qId": "syn010402", "qText": "What is Bruce Cohen's birth place?", "answers": ["Falls Church"], "tags": ["#basic"] }
+{ "qId": "syn010407", "qText": "What is Bruce Cohen's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010408", "qText": "Where is Bruce Cohen from?", "answers": ["Falls Church"], "tags": ["#basic"] }
+{ "qId": "syn010412", "qText": "Who are the parents of Bruce Cohen?", "answers": ["George H. Cohen"], "tags": ["#basic"] }
+{ "qId": "syn010413", "qText": "Who is Bruce Cohen's father?", "answers": ["George H. Cohen"], "tags": ["#cmplx"] }
+{ "qId": "syn010415", "qText": "Who is Bruce Cohen married to?", "answers": ["Gabriel Catone"], "tags": ["#cvt"] }
+{ "qId": "syn010416", "qText": "When was Bryan Singer born?", "answers": ["1965-09-17"], "tags": ["#basic"] }
+{ "qId": "syn010417", "qText": "Where was Bryan Singer born?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn010418", "qText": "What is Bryan Singer's birth place?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn010423", "qText": "What is Bryan Singer's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010424", "qText": "Where is Bryan Singer from?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn010425", "qText": "How high is Bryan Singer?", "answers": ["1.78"], "tags": ["#basic"] }
+{ "qId": "syn010426", "qText": "How tall is Bryan Singer?", "answers": ["1.78"], "tags": ["#basic"] }
+{ "qId": "syn010427", "qText": "What's the Bryan Singer's height?", "answers": ["1.78"], "tags": ["#basic"] }
+{ "qId": "syn010428", "qText": "Who are the parents of Bryan Singer?", "answers": ["Grace Sinden", "Norbert Dave Singer"], "tags": ["#basic"] }
+{ "qId": "syn010429", "qText": "Who is Bryan Singer's father?", "answers": ["Norbert Dave Singer"], "tags": ["#cmplx"] }
+{ "qId": "syn010430", "qText": "Who is Bryan Singer's mother?", "answers": ["Grace Sinden"], "tags": ["#cmplx"] }
+{ "qId": "syn010432", "qText": "When was Charles Roven born?", "answers": ["1949-08-02"], "tags": ["#basic"] }
+{ "qId": "syn010439", "qText": "What is Charles Roven's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010447", "qText": "Who is Charles Roven married to?", "answers": ["Dawn Steel", "Stephanie Haymes Roven"], "tags": ["#cvt"] }
+{ "qId": "syn010448", "qText": "When was Charlie Chaplin born?", "answers": ["1889-04-16"], "tags": ["#basic"] }
+{ "qId": "syn010449", "qText": "Where was Charlie Chaplin born?", "answers": ["Walworth"], "tags": ["#basic"] }
+{ "qId": "syn010450", "qText": "What is Charlie Chaplin's birth place?", "answers": ["Walworth"], "tags": ["#basic"] }
+{ "qId": "syn010451", "qText": "When did Charlie Chaplin die?", "answers": ["1977-12-25"], "tags": ["#basic"] }
+{ "qId": "syn010452", "qText": "Where did Charlie Chaplin die?", "answers": ["Corsier-sur-Vevey"], "tags": ["#basic"] }
+{ "qId": "syn010453", "qText": "How did Charlie Chaplin die?", "answers": ["Stroke"], "tags": ["#basic"] }
+{ "qId": "syn010455", "qText": "What is Charlie Chaplin's nationality?", "answers": ["United Kingdom"], "tags": ["#basic"] }
+{ "qId": "syn010456", "qText": "Where is Charlie Chaplin from?", "answers": ["Walworth"], "tags": ["#basic"] }
+{ "qId": "syn010457", "qText": "How high is Charlie Chaplin?", "answers": ["1.65"], "tags": ["#basic"] }
+{ "qId": "syn010458", "qText": "How tall is Charlie Chaplin?", "answers": ["1.65"], "tags": ["#basic"] }
+{ "qId": "syn010459", "qText": "What's the Charlie Chaplin's height?", "answers": ["1.65"], "tags": ["#basic"] }
+{ "qId": "syn010460", "qText": "Who are the parents of Charlie Chaplin?", "answers": ["Hannah Chaplin", "Charles Chaplin, Sr."], "tags": ["#basic"] }
+{ "qId": "syn010461", "qText": "Who is Charlie Chaplin's father?", "answers": ["Charles Chaplin, Sr."], "tags": ["#cmplx"] }
+{ "qId": "syn010462", "qText": "Who is Charlie Chaplin's mother?", "answers": ["Hannah Chaplin"], "tags": ["#cmplx"] }
+{ "qId": "syn010463", "qText": "Who is Charlie Chaplin married to?", "answers": ["Lita Grey", "Paulette Goddard", "Oona O'Neill", "Mildred Harris"], "tags": ["#cvt"] }
+{ "qId": "syn010480", "qText": "When was Christopher Nolan born?", "answers": ["1970-07-30"], "tags": ["#basic"] }
+{ "qId": "syn010481", "qText": "Where was Christopher Nolan born?", "answers": ["London"], "tags": ["#basic"] }
+{ "qId": "syn010482", "qText": "What is Christopher Nolan's birth place?", "answers": ["London"], "tags": ["#basic"] }
+{ "qId": "syn010487", "qText": "What is Christopher Nolan's nationality?", "answers": ["United Kingdom", "United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010488", "qText": "Where is Christopher Nolan from?", "answers": ["London"], "tags": ["#basic"] }
+{ "qId": "syn010489", "qText": "How high is Christopher Nolan?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn010490", "qText": "How tall is Christopher Nolan?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn010491", "qText": "What's the Christopher Nolan's height?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn010492", "qText": "Who are the parents of Christopher Nolan?", "answers": ["Brendan Nolan", "Christina Nolan"], "tags": ["#basic"] }
+{ "qId": "syn010493", "qText": "Who is Christopher Nolan's father?", "answers": ["Brendan Nolan"], "tags": ["#cmplx"] }
+{ "qId": "syn010494", "qText": "Who is Christopher Nolan's mother?", "answers": ["Christina Nolan"], "tags": ["#cmplx"] }
+{ "qId": "syn010495", "qText": "Who is Christopher Nolan married to?", "answers": ["Emma Thomas"], "tags": ["#cvt"] }
+{ "qId": "syn010528", "qText": "When was Curtis Hanson born?", "answers": ["1945-03-24"], "tags": ["#basic"] }
+{ "qId": "syn010529", "qText": "Where was Curtis Hanson born?", "answers": ["Reno"], "tags": ["#basic"] }
+{ "qId": "syn010530", "qText": "What is Curtis Hanson's birth place?", "answers": ["Reno"], "tags": ["#basic"] }
+{ "qId": "syn010535", "qText": "What is Curtis Hanson's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010536", "qText": "Where is Curtis Hanson from?", "answers": ["Reno"], "tags": ["#basic"] }
+{ "qId": "syn010537", "qText": "How high is Curtis Hanson?", "answers": ["1.85"], "tags": ["#basic"] }
+{ "qId": "syn010538", "qText": "How tall is Curtis Hanson?", "answers": ["1.85"], "tags": ["#basic"] }
+{ "qId": "syn010539", "qText": "What's the Curtis Hanson's height?", "answers": ["1.85"], "tags": ["#basic"] }
+{ "qId": "syn010540", "qText": "Who are the parents of Curtis Hanson?", "answers": ["Wilbur Hale Hanson", "Beverly June Curtis"], "tags": ["#basic"] }
+{ "qId": "syn010541", "qText": "Who is Curtis Hanson's father?", "answers": ["Wilbur Hale Hanson"], "tags": ["#cmplx"] }
+{ "qId": "syn010542", "qText": "Who is Curtis Hanson's mother?", "answers": ["Beverly June Curtis"], "tags": ["#cmplx"] }
+{ "qId": "syn010543", "qText": "Who is Curtis Hanson married to?", "answers": ["Rebecca Yeldham"], "tags": ["#cvt"] }
+{ "qId": "syn010544", "qText": "When was Dan Butler born?", "answers": ["1954-12-02"], "tags": ["#basic"] }
+{ "qId": "syn010545", "qText": "Where was Dan Butler born?", "answers": ["Huntington"], "tags": ["#basic"] }
+{ "qId": "syn010546", "qText": "What is Dan Butler's birth place?", "answers": ["Huntington"], "tags": ["#basic"] }
+{ "qId": "syn010551", "qText": "What is Dan Butler's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010552", "qText": "Where is Dan Butler from?", "answers": ["Huntington"], "tags": ["#basic"] }
+{ "qId": "syn010556", "qText": "Who are the parents of Dan Butler?", "answers": ["Shirley Butler", "Andrew Butler"], "tags": ["#basic"] }
+{ "qId": "syn010557", "qText": "Who is Dan Butler's father?", "answers": ["Andrew Butler"], "tags": ["#cmplx"] }
+{ "qId": "syn010558", "qText": "Who is Dan Butler's mother?", "answers": ["Shirley Butler"], "tags": ["#cmplx"] }
+{ "qId": "syn010559", "qText": "Who is Dan Butler married to?", "answers": ["Richard Waterhouse"], "tags": ["#cvt"] }
+{ "qId": "syn010561", "qText": "Where was Darla K. Anderson born?", "answers": ["Glendale"], "tags": ["#basic"] }
+{ "qId": "syn010562", "qText": "What is Darla K. Anderson's birth place?", "answers": ["Glendale"], "tags": ["#basic"] }
+{ "qId": "syn010567", "qText": "What is Darla K. Anderson's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010568", "qText": "Where is Darla K. Anderson from?", "answers": ["Glendale"], "tags": ["#basic"] }
+{ "qId": "syn010575", "qText": "Who is Darla K. Anderson married to?", "answers": ["Kori Rae"], "tags": ["#cvt"] }
+{ "qId": "syn010576", "qText": "When was Darren Aronofsky born?", "answers": ["1969-02-12"], "tags": ["#basic"] }
+{ "qId": "syn010577", "qText": "Where was Darren Aronofsky born?", "answers": ["Brooklyn"], "tags": ["#basic"] }
+{ "qId": "syn010578", "qText": "What is Darren Aronofsky's birth place?", "answers": ["Brooklyn"], "tags": ["#basic"] }
+{ "qId": "syn010583", "qText": "What is Darren Aronofsky's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010584", "qText": "Where is Darren Aronofsky from?", "answers": ["Brooklyn"], "tags": ["#basic"] }
+{ "qId": "syn010585", "qText": "How high is Darren Aronofsky?", "answers": ["1.83"], "tags": ["#basic"] }
+{ "qId": "syn010586", "qText": "How tall is Darren Aronofsky?", "answers": ["1.83"], "tags": ["#basic"] }
+{ "qId": "syn010587", "qText": "What's the Darren Aronofsky's height?", "answers": ["1.83"], "tags": ["#basic"] }
+{ "qId": "syn010588", "qText": "Who are the parents of Darren Aronofsky?", "answers": ["Abraham Aronofsky", "Charlotte Aronofsky"], "tags": ["#basic"] }
+{ "qId": "syn010589", "qText": "Who is Darren Aronofsky's father?", "answers": ["Abraham Aronofsky"], "tags": ["#cmplx"] }
+{ "qId": "syn010590", "qText": "Who is Darren Aronofsky's mother?", "answers": ["Charlotte Aronofsky"], "tags": ["#cmplx"] }
+{ "qId": "syn010591", "qText": "Who is Darren Aronofsky married to?", "answers": ["Rachel Weisz", "Brandi Milbradt"], "tags": ["#cvt"] }
+{ "qId": "syn010592", "qText": "When was David Fincher born?", "answers": ["1962-08-28"], "tags": ["#basic"] }
+{ "qId": "syn010593", "qText": "Where was David Fincher born?", "answers": ["Denver"], "tags": ["#basic"] }
+{ "qId": "syn010594", "qText": "What is David Fincher's birth place?", "answers": ["Denver"], "tags": ["#basic"] }
+{ "qId": "syn010599", "qText": "What is David Fincher's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010600", "qText": "Where is David Fincher from?", "answers": ["Denver"], "tags": ["#basic"] }
+{ "qId": "syn010601", "qText": "How high is David Fincher?", "answers": ["1.84"], "tags": ["#basic"] }
+{ "qId": "syn010602", "qText": "How tall is David Fincher?", "answers": ["1.84"], "tags": ["#basic"] }
+{ "qId": "syn010603", "qText": "What's the David Fincher's height?", "answers": ["1.84"], "tags": ["#basic"] }
+{ "qId": "syn010604", "qText": "Who are the parents of David Fincher?", "answers": ["Claire Mae Fincher", "Jack Fincher"], "tags": ["#basic"] }
+{ "qId": "syn010605", "qText": "Who is David Fincher's father?", "answers": ["Jack Fincher"], "tags": ["#cmplx"] }
+{ "qId": "syn010606", "qText": "Who is David Fincher's mother?", "answers": ["Claire Mae Fincher"], "tags": ["#cmplx"] }
+{ "qId": "syn010607", "qText": "Who is David Fincher married to?", "answers": ["Donya Fiorentino"], "tags": ["#cvt"] }
+{ "qId": "syn010608", "qText": "When was David Lean born?", "answers": ["1908-03-25"], "tags": ["#basic"] }
+{ "qId": "syn010609", "qText": "Where was David Lean born?", "answers": ["Croydon"], "tags": ["#basic"] }
+{ "qId": "syn010610", "qText": "What is David Lean's birth place?", "answers": ["Croydon"], "tags": ["#basic"] }
+{ "qId": "syn010611", "qText": "When did David Lean die?", "answers": ["1991-04-16"], "tags": ["#basic"] }
+{ "qId": "syn010612", "qText": "Where did David Lean die?", "answers": ["Limehouse"], "tags": ["#basic"] }
+{ "qId": "syn010613", "qText": "How did David Lean die?", "answers": ["Cancer", "Laryngeal cancer"], "tags": ["#basic"] }
+{ "qId": "syn010615", "qText": "What is David Lean's nationality?", "answers": ["United Kingdom", "England"], "tags": ["#basic"] }
+{ "qId": "syn010616", "qText": "Where is David Lean from?", "answers": ["Croydon"], "tags": ["#basic"] }
+{ "qId": "syn010617", "qText": "How high is David Lean?", "answers": ["1.85"], "tags": ["#basic"] }
+{ "qId": "syn010618", "qText": "How tall is David Lean?", "answers": ["1.85"], "tags": ["#basic"] }
+{ "qId": "syn010619", "qText": "What's the David Lean's height?", "answers": ["1.85"], "tags": ["#basic"] }
+{ "qId": "syn010620", "qText": "Who are the parents of David Lean?", "answers": ["Helena Tangye", "Francis William le Blount Lean"], "tags": ["#basic"] }
+{ "qId": "syn010621", "qText": "Who is David Lean's father?", "answers": ["Francis William le Blount Lean"], "tags": ["#cmplx"] }
+{ "qId": "syn010622", "qText": "Who is David Lean's mother?", "answers": ["Helena Tangye"], "tags": ["#cmplx"] }
+{ "qId": "syn010623", "qText": "Who is David Lean married to?", "answers": ["Kay Walsh", "Isabel Lean", "Sandra Hotz", "Leila Matkar", "Sandra Lean", "Ann Todd"], "tags": ["#cvt"] }
+{ "qId": "syn010624", "qText": "When was Deirdre O'Connell born?", "answers": ["1939-06-16"], "tags": ["#basic"] }
+{ "qId": "syn010625", "qText": "Where was Deirdre O'Connell born?", "answers": ["South Bronx"], "tags": ["#basic"] }
+{ "qId": "syn010626", "qText": "What is Deirdre O'Connell's birth place?", "answers": ["South Bronx"], "tags": ["#basic"] }
+{ "qId": "syn010627", "qText": "When did Deirdre O'Connell die?", "answers": ["2001-06-09"], "tags": ["#basic"] }
+{ "qId": "syn010628", "qText": "Where did Deirdre O'Connell die?", "answers": ["Dublin"], "tags": ["#basic"] }
+{ "qId": "syn010630", "qText": "Where is Deirdre O'Connell buried?", "answers": ["Glasnevin Cemetery"], "tags": ["#basic"] }
+{ "qId": "syn010632", "qText": "Where is Deirdre O'Connell from?", "answers": ["South Bronx"], "tags": ["#basic"] }
+{ "qId": "syn010639", "qText": "Who is Deirdre O'Connell married to?", "answers": ["Luke Kelly"], "tags": ["#cvt"] }
+{ "qId": "syn010640", "qText": "When was Derek Jacobi born?", "answers": ["1938-10-22"], "tags": ["#basic"] }
+{ "qId": "syn010641", "qText": "Where was Derek Jacobi born?", "answers": ["Leytonstone"], "tags": ["#basic"] }
+{ "qId": "syn010642", "qText": "What is Derek Jacobi's birth place?", "answers": ["Leytonstone"], "tags": ["#basic"] }
+{ "qId": "syn010647", "qText": "What is Derek Jacobi's nationality?", "answers": ["United Kingdom", "England"], "tags": ["#basic"] }
+{ "qId": "syn010648", "qText": "Where is Derek Jacobi from?", "answers": ["Leytonstone"], "tags": ["#basic"] }
+{ "qId": "syn010649", "qText": "How high is Derek Jacobi?", "answers": ["1.778"], "tags": ["#basic"] }
+{ "qId": "syn010650", "qText": "How tall is Derek Jacobi?", "answers": ["1.778"], "tags": ["#basic"] }
+{ "qId": "syn010651", "qText": "What's the Derek Jacobi's height?", "answers": ["1.778"], "tags": ["#basic"] }
+{ "qId": "syn010652", "qText": "Who are the parents of Derek Jacobi?", "answers": ["Alfred George Jacobi", "Daisy Gertrude Jacobi"], "tags": ["#basic"] }
+{ "qId": "syn010653", "qText": "Who is Derek Jacobi's father?", "answers": ["Alfred George Jacobi"], "tags": ["#cmplx"] }
+{ "qId": "syn010654", "qText": "Who is Derek Jacobi's mother?", "answers": ["Daisy Gertrude Jacobi"], "tags": ["#cmplx"] }
+{ "qId": "syn010655", "qText": "Who is Derek Jacobi married to?", "answers": ["Richard Clifford"], "tags": ["#cvt"] }
+{ "qId": "syn010656", "qText": "When was Don Hahn born?", "answers": ["1955-11-25"], "tags": ["#basic"] }
+{ "qId": "syn010657", "qText": "Where was Don Hahn born?", "answers": ["Chicago"], "tags": ["#basic"] }
+{ "qId": "syn010658", "qText": "What is Don Hahn's birth place?", "answers": ["Chicago"], "tags": ["#basic"] }
+{ "qId": "syn010663", "qText": "What is Don Hahn's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010664", "qText": "Where is Don Hahn from?", "answers": ["Chicago"], "tags": ["#basic"] }
+{ "qId": "syn010671", "qText": "Who is Don Hahn married to?", "answers": ["Denise Meara-Hahn"], "tags": ["#cvt"] }
+{ "qId": "syn010688", "qText": "When was Douglas Wick born?", "answers": ["1954-11-30"], "tags": ["#basic"] }
+{ "qId": "syn010689", "qText": "Where was Douglas Wick born?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010690", "qText": "What is Douglas Wick's birth place?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010695", "qText": "What is Douglas Wick's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010696", "qText": "Where is Douglas Wick from?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010700", "qText": "Who are the parents of Douglas Wick?", "answers": ["Charles Z. Wick", "Mary Jane Woods"], "tags": ["#basic"] }
+{ "qId": "syn010701", "qText": "Who is Douglas Wick's father?", "answers": ["Charles Z. Wick"], "tags": ["#cmplx"] }
+{ "qId": "syn010702", "qText": "Who is Douglas Wick's mother?", "answers": ["Mary Jane Woods"], "tags": ["#cmplx"] }
+{ "qId": "syn010703", "qText": "Who is Douglas Wick married to?", "answers": ["Lucy Fisher"], "tags": ["#cvt"] }
+{ "qId": "syn010720", "qText": "When was Eddie Powell born?", "answers": ["1927-03-09"], "tags": ["#basic"] }
+{ "qId": "syn010721", "qText": "Where was Eddie Powell born?", "answers": ["London"], "tags": ["#basic"] }
+{ "qId": "syn010722", "qText": "What is Eddie Powell's birth place?", "answers": ["London"], "tags": ["#basic"] }
+{ "qId": "syn010723", "qText": "When did Eddie Powell die?", "answers": ["2000-08-11"], "tags": ["#basic"] }
+{ "qId": "syn010724", "qText": "Where did Eddie Powell die?", "answers": ["Berkshire"], "tags": ["#basic"] }
+{ "qId": "syn010727", "qText": "What is Eddie Powell's nationality?", "answers": ["United Kingdom"], "tags": ["#basic"] }
+{ "qId": "syn010728", "qText": "Where is Eddie Powell from?", "answers": ["London"], "tags": ["#basic"] }
+{ "qId": "syn010735", "qText": "Who is Eddie Powell married to?", "answers": ["Rosemary Burrows"], "tags": ["#cvt"] }
+{ "qId": "syn010743", "qText": "What is Elda Ferri's nationality?", "answers": ["Italy"], "tags": ["#basic"] }
+{ "qId": "syn010752", "qText": "When was Elena Altieri born?", "answers": ["1910-07-07"], "tags": ["#basic"] }
+{ "qId": "syn010753", "qText": "Where was Elena Altieri born?", "answers": ["Stresa"], "tags": ["#basic"] }
+{ "qId": "syn010754", "qText": "What is Elena Altieri's birth place?", "answers": ["Stresa"], "tags": ["#basic"] }
+{ "qId": "syn010755", "qText": "When did Elena Altieri die?", "answers": ["1997-05-01"], "tags": ["#basic"] }
+{ "qId": "syn010756", "qText": "Where did Elena Altieri die?", "answers": ["Nice"], "tags": ["#basic"] }
+{ "qId": "syn010759", "qText": "What is Elena Altieri's nationality?", "answers": ["Italy", "Kingdom of Italy"], "tags": ["#basic"] }
+{ "qId": "syn010760", "qText": "Where is Elena Altieri from?", "answers": ["Stresa"], "tags": ["#basic"] }
+{ "qId": "syn010768", "qText": "When was Eli Wallach born?", "answers": ["1915-12-07"], "tags": ["#basic"] }
+{ "qId": "syn010769", "qText": "Where was Eli Wallach born?", "answers": ["Red Hook"], "tags": ["#basic"] }
+{ "qId": "syn010770", "qText": "What is Eli Wallach's birth place?", "answers": ["Red Hook"], "tags": ["#basic"] }
+{ "qId": "syn010771", "qText": "When did Eli Wallach die?", "answers": ["2014-06-24"], "tags": ["#basic"] }
+{ "qId": "syn010772", "qText": "Where did Eli Wallach die?", "answers": ["Manhattan"], "tags": ["#basic"] }
+{ "qId": "syn010773", "qText": "How did Eli Wallach die?", "answers": ["Natural causes"], "tags": ["#basic"] }
+{ "qId": "syn010775", "qText": "What is Eli Wallach's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010776", "qText": "Where is Eli Wallach from?", "answers": ["Red Hook"], "tags": ["#basic"] }
+{ "qId": "syn010777", "qText": "How high is Eli Wallach?", "answers": ["1.78"], "tags": ["#basic"] }
+{ "qId": "syn010778", "qText": "How tall is Eli Wallach?", "answers": ["1.78"], "tags": ["#basic"] }
+{ "qId": "syn010779", "qText": "What's the Eli Wallach's height?", "answers": ["1.78"], "tags": ["#basic"] }
+{ "qId": "syn010780", "qText": "Who are the parents of Eli Wallach?", "answers": ["Abraham Wallach", "Bertha Wallach"], "tags": ["#basic"] }
+{ "qId": "syn010781", "qText": "Who is Eli Wallach's father?", "answers": ["Abraham Wallach"], "tags": ["#cmplx"] }
+{ "qId": "syn010782", "qText": "Who is Eli Wallach's mother?", "answers": ["Bertha Wallach"], "tags": ["#cmplx"] }
+{ "qId": "syn010783", "qText": "Who is Eli Wallach married to?", "answers": ["Anne Jackson"], "tags": ["#cvt"] }
+{ "qId": "syn010785", "qText": "Where was Emma Thomas born?", "answers": ["London"], "tags": ["#basic"] }
+{ "qId": "syn010786", "qText": "What is Emma Thomas's birth place?", "answers": ["London"], "tags": ["#basic"] }
+{ "qId": "syn010791", "qText": "What is Emma Thomas's nationality?", "answers": ["United Kingdom", "United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010792", "qText": "Where is Emma Thomas from?", "answers": ["London"], "tags": ["#basic"] }
+{ "qId": "syn010799", "qText": "Who is Emma Thomas married to?", "answers": ["Christopher Nolan"], "tags": ["#cvt"] }
+{ "qId": "syn010816", "qText": "When was Ethan Suplee born?", "answers": ["1976-05-25"], "tags": ["#basic"] }
+{ "qId": "syn010817", "qText": "Where was Ethan Suplee born?", "answers": ["Manhattan"], "tags": ["#basic"] }
+{ "qId": "syn010818", "qText": "What is Ethan Suplee's birth place?", "answers": ["Manhattan"], "tags": ["#basic"] }
+{ "qId": "syn010823", "qText": "What is Ethan Suplee's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010824", "qText": "Where is Ethan Suplee from?", "answers": ["Manhattan"], "tags": ["#basic"] }
+{ "qId": "syn010825", "qText": "How high is Ethan Suplee?", "answers": ["1.854"], "tags": ["#basic"] }
+{ "qId": "syn010826", "qText": "How tall is Ethan Suplee?", "answers": ["1.854"], "tags": ["#basic"] }
+{ "qId": "syn010827", "qText": "What's the Ethan Suplee's height?", "answers": ["1.854"], "tags": ["#basic"] }
+{ "qId": "syn010828", "qText": "Who are the parents of Ethan Suplee?", "answers": ["Bill Suplee", "Debbie Suplee"], "tags": ["#basic"] }
+{ "qId": "syn010829", "qText": "Who is Ethan Suplee's father?", "answers": ["Bill Suplee"], "tags": ["#cmplx"] }
+{ "qId": "syn010830", "qText": "Who is Ethan Suplee's mother?", "answers": ["Debbie Suplee"], "tags": ["#cmplx"] }
+{ "qId": "syn010831", "qText": "Who is Ethan Suplee married to?", "answers": ["Brandy Lewis"], "tags": ["#cvt"] }
+{ "qId": "syn010848", "qText": "When was Florian Henckel von Donnersmarck born?", "answers": ["1973-05-02"], "tags": ["#basic"] }
+{ "qId": "syn010849", "qText": "Where was Florian Henckel von Donnersmarck born?", "answers": ["Cologne"], "tags": ["#basic"] }
+{ "qId": "syn010850", "qText": "What is Florian Henckel von Donnersmarck's birth place?", "answers": ["Cologne"], "tags": ["#basic"] }
+{ "qId": "syn010855", "qText": "What is Florian Henckel von Donnersmarck's nationality?", "answers": ["Austria", "Germany"], "tags": ["#basic"] }
+{ "qId": "syn010856", "qText": "Where is Florian Henckel von Donnersmarck from?", "answers": ["Cologne"], "tags": ["#basic"] }
+{ "qId": "syn010860", "qText": "Who are the parents of Florian Henckel von Donnersmarck?", "answers": ["Leo-Ferdinand Henckel von Donnersmarck", "Anna Maria von Berg"], "tags": ["#basic"] }
+{ "qId": "syn010861", "qText": "Who is Florian Henckel von Donnersmarck's father?", "answers": ["Leo-Ferdinand Henckel von Donnersmarck"], "tags": ["#cmplx"] }
+{ "qId": "syn010862", "qText": "Who is Florian Henckel von Donnersmarck's mother?", "answers": ["Anna Maria von Berg"], "tags": ["#cmplx"] }
+{ "qId": "syn010863", "qText": "Who is Florian Henckel von Donnersmarck married to?", "answers": ["Christiane Asschenfeldt"], "tags": ["#cvt"] }
+{ "qId": "syn010864", "qText": "When was Fran Walsh born?", "answers": ["1959-01-10"], "tags": ["#basic"] }
+{ "qId": "syn010865", "qText": "Where was Fran Walsh born?", "answers": ["Wellington"], "tags": ["#basic"] }
+{ "qId": "syn010866", "qText": "What is Fran Walsh's birth place?", "answers": ["Wellington"], "tags": ["#basic"] }
+{ "qId": "syn010871", "qText": "What is Fran Walsh's nationality?", "answers": ["New Zealand"], "tags": ["#basic"] }
+{ "qId": "syn010872", "qText": "Where is Fran Walsh from?", "answers": ["Wellington"], "tags": ["#basic"] }
+{ "qId": "syn010879", "qText": "Who is Fran Walsh married to?", "answers": ["Peter Jackson"], "tags": ["#cvt"] }
+{ "qId": "syn010880", "qText": "When was Francis Ford Coppola born?", "answers": ["1939-04-07"], "tags": ["#basic"] }
+{ "qId": "syn010881", "qText": "Where was Francis Ford Coppola born?", "answers": ["Detroit"], "tags": ["#basic"] }
+{ "qId": "syn010882", "qText": "What is Francis Ford Coppola's birth place?", "answers": ["Detroit"], "tags": ["#basic"] }
+{ "qId": "syn010887", "qText": "What is Francis Ford Coppola's nationality?", "answers": ["United States of America", "Italy"], "tags": ["#basic"] }
+{ "qId": "syn010888", "qText": "Where is Francis Ford Coppola from?", "answers": ["Detroit"], "tags": ["#basic"] }
+{ "qId": "syn010889", "qText": "How high is Francis Ford Coppola?", "answers": ["1.82"], "tags": ["#basic"] }
+{ "qId": "syn010890", "qText": "How tall is Francis Ford Coppola?", "answers": ["1.82"], "tags": ["#basic"] }
+{ "qId": "syn010891", "qText": "What's the Francis Ford Coppola's height?", "answers": ["1.82"], "tags": ["#basic"] }
+{ "qId": "syn010892", "qText": "Who are the parents of Francis Ford Coppola?", "answers": ["Carmine Coppola", "Italia Coppola"], "tags": ["#basic"] }
+{ "qId": "syn010893", "qText": "Who is Francis Ford Coppola's father?", "answers": ["Carmine Coppola"], "tags": ["#cmplx"] }
+{ "qId": "syn010894", "qText": "Who is Francis Ford Coppola's mother?", "answers": ["Italia Coppola"], "tags": ["#cmplx"] }
+{ "qId": "syn010895", "qText": "Who is Francis Ford Coppola married to?", "answers": ["Eleanor Coppola"], "tags": ["#cvt"] }
+{ "qId": "syn010896", "qText": "When was Franco Cristaldi born?", "answers": ["1924-10-03"], "tags": ["#basic"] }
+{ "qId": "syn010897", "qText": "Where was Franco Cristaldi born?", "answers": ["Turin"], "tags": ["#basic"] }
+{ "qId": "syn010898", "qText": "What is Franco Cristaldi's birth place?", "answers": ["Turin"], "tags": ["#basic"] }
+{ "qId": "syn010899", "qText": "When did Franco Cristaldi die?", "answers": ["1992-07-01"], "tags": ["#basic"] }
+{ "qId": "syn010900", "qText": "Where did Franco Cristaldi die?", "answers": ["Monte Carlo"], "tags": ["#basic"] }
+{ "qId": "syn010903", "qText": "What is Franco Cristaldi's nationality?", "answers": ["Italy"], "tags": ["#basic"] }
+{ "qId": "syn010904", "qText": "Where is Franco Cristaldi from?", "answers": ["Turin"], "tags": ["#basic"] }
+{ "qId": "syn010911", "qText": "Who is Franco Cristaldi married to?", "answers": ["Claudia Cardinale", "Zeudi Araya", "Carla Simonetti"], "tags": ["#cvt"] }
+{ "qId": "syn010928", "qText": "When was Frank Capra born?", "answers": ["1897-05-18"], "tags": ["#basic"] }
+{ "qId": "syn010929", "qText": "Where was Frank Capra born?", "answers": ["Bisacquino"], "tags": ["#basic"] }
+{ "qId": "syn010930", "qText": "What is Frank Capra's birth place?", "answers": ["Bisacquino"], "tags": ["#basic"] }
+{ "qId": "syn010931", "qText": "When did Frank Capra die?", "answers": ["1991-09-03"], "tags": ["#basic"] }
+{ "qId": "syn010932", "qText": "Where did Frank Capra die?", "answers": ["La Quinta"], "tags": ["#basic"] }
+{ "qId": "syn010933", "qText": "How did Frank Capra die?", "answers": ["Myocardial infarction", "Heart failure"], "tags": ["#basic"] }
+{ "qId": "syn010934", "qText": "Where is Frank Capra buried?", "answers": ["Coachella Valley Public Cemetery"], "tags": ["#basic"] }
+{ "qId": "syn010935", "qText": "What is Frank Capra's nationality?", "answers": ["United States of America", "Italy"], "tags": ["#basic"] }
+{ "qId": "syn010936", "qText": "Where is Frank Capra from?", "answers": ["Bisacquino"], "tags": ["#basic"] }
+{ "qId": "syn010937", "qText": "How high is Frank Capra?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn010938", "qText": "How tall is Frank Capra?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn010939", "qText": "What's the Frank Capra's height?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn010940", "qText": "Who are the parents of Frank Capra?", "answers": ["Sarah Nicolas", "Salvatore Capra"], "tags": ["#basic"] }
+{ "qId": "syn010941", "qText": "Who is Frank Capra's father?", "answers": ["Salvatore Capra"], "tags": ["#cmplx"] }
+{ "qId": "syn010942", "qText": "Who is Frank Capra's mother?", "answers": ["Sarah Nicolas"], "tags": ["#cmplx"] }
+{ "qId": "syn010943", "qText": "Who is Frank Capra married to?", "answers": ["Lou Capra", "Helen Howell"], "tags": ["#cvt"] }
+{ "qId": "syn010944", "qText": "When was Frank Darabont born?", "answers": ["1959-01-28"], "tags": ["#basic"] }
+{ "qId": "syn010945", "qText": "Where was Frank Darabont born?", "answers": ["Montbéliard"], "tags": ["#basic"] }
+{ "qId": "syn010946", "qText": "What is Frank Darabont's birth place?", "answers": ["Montbéliard"], "tags": ["#basic"] }
+{ "qId": "syn010951", "qText": "What is Frank Darabont's nationality?", "answers": ["France", "United States of America", "Hungary"], "tags": ["#basic"] }
+{ "qId": "syn010952", "qText": "Where is Frank Darabont from?", "answers": ["Montbéliard"], "tags": ["#basic"] }
+{ "qId": "syn010959", "qText": "Who is Frank Darabont married to?", "answers": ["Karyn Wagner"], "tags": ["#cvt"] }
+{ "qId": "syn010960", "qText": "When was Frank Marshall born?", "answers": ["1946-09-13"], "tags": ["#basic"] }
+{ "qId": "syn010961", "qText": "Where was Frank Marshall born?", "answers": ["Glendale"], "tags": ["#basic"] }
+{ "qId": "syn010962", "qText": "What is Frank Marshall's birth place?", "answers": ["Glendale"], "tags": ["#basic"] }
+{ "qId": "syn010967", "qText": "What is Frank Marshall's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn010968", "qText": "Where is Frank Marshall from?", "answers": ["Glendale"], "tags": ["#basic"] }
+{ "qId": "syn010972", "qText": "Who are the parents of Frank Marshall?", "answers": ["Jack Marshall"], "tags": ["#basic"] }
+{ "qId": "syn010973", "qText": "Who is Frank Marshall's father?", "answers": ["Jack Marshall"], "tags": ["#cmplx"] }
+{ "qId": "syn010975", "qText": "Who is Frank Marshall married to?", "answers": ["Kathleen Kennedy"], "tags": ["#cvt"] }
+{ "qId": "syn010992", "qText": "When was Fred Roos born?", "answers": ["1934-05-22"], "tags": ["#basic"] }
+{ "qId": "syn010993", "qText": "Where was Fred Roos born?", "answers": ["Santa Monica"], "tags": ["#basic"] }
+{ "qId": "syn010994", "qText": "What is Fred Roos's birth place?", "answers": ["Santa Monica"], "tags": ["#basic"] }
+{ "qId": "syn010999", "qText": "What is Fred Roos's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011000", "qText": "Where is Fred Roos from?", "answers": ["Santa Monica"], "tags": ["#basic"] }
+{ "qId": "syn011004", "qText": "Who are the parents of Fred Roos?", "answers": ["Florence Mary Roos", "Victor Otto Roos"], "tags": ["#basic"] }
+{ "qId": "syn011005", "qText": "Who is Fred Roos's father?", "answers": ["Victor Otto Roos"], "tags": ["#cmplx"] }
+{ "qId": "syn011006", "qText": "Who is Fred Roos's mother?", "answers": ["Florence Mary Roos"], "tags": ["#cmplx"] }
+{ "qId": "syn011040", "qText": "When was Gale Anne Hurd born?", "answers": ["1955-10-25"], "tags": ["#basic"] }
+{ "qId": "syn011041", "qText": "Where was Gale Anne Hurd born?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn011042", "qText": "What is Gale Anne Hurd's birth place?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn011047", "qText": "What is Gale Anne Hurd's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011048", "qText": "Where is Gale Anne Hurd from?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn011049", "qText": "How high is Gale Anne Hurd?", "answers": ["1.63"], "tags": ["#basic"] }
+{ "qId": "syn011050", "qText": "How tall is Gale Anne Hurd?", "answers": ["1.63"], "tags": ["#basic"] }
+{ "qId": "syn011051", "qText": "What's the Gale Anne Hurd's height?", "answers": ["1.63"], "tags": ["#basic"] }
+{ "qId": "syn011052", "qText": "Who are the parents of Gale Anne Hurd?", "answers": ["Frank E. Hurd", "Lolita Hurd"], "tags": ["#basic"] }
+{ "qId": "syn011053", "qText": "Who is Gale Anne Hurd's father?", "answers": ["Frank E. Hurd"], "tags": ["#cmplx"] }
+{ "qId": "syn011054", "qText": "Who is Gale Anne Hurd's mother?", "answers": ["Lolita Hurd"], "tags": ["#cmplx"] }
+{ "qId": "syn011055", "qText": "Who is Gale Anne Hurd married to?", "answers": ["Jonathan Hensleigh", "James Cameron", "Brian De Palma"], "tags": ["#cvt"] }
+{ "qId": "syn011056", "qText": "When was Gary Kurtz born?", "answers": ["1940-07-27"], "tags": ["#basic"] }
+{ "qId": "syn011057", "qText": "Where was Gary Kurtz born?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn011058", "qText": "What is Gary Kurtz's birth place?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn011063", "qText": "What is Gary Kurtz's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011064", "qText": "Where is Gary Kurtz from?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn011068", "qText": "Who are the parents of Gary Kurtz?", "answers": ["Eldo M. Kurtz", "Sarah H. Kurtz"], "tags": ["#basic"] }
+{ "qId": "syn011069", "qText": "Who is Gary Kurtz's father?", "answers": ["Eldo M. Kurtz"], "tags": ["#cmplx"] }
+{ "qId": "syn011070", "qText": "Who is Gary Kurtz's mother?", "answers": ["Sarah H. Kurtz"], "tags": ["#cmplx"] }
+{ "qId": "syn011071", "qText": "Who is Gary Kurtz married to?", "answers": ["Clare Gabriel", "Meredith Alsup Kurtz", "Roberta Kurtz"], "tags": ["#cvt"] }
+{ "qId": "syn011072", "qText": "When was Gene Kelly born?", "answers": ["1912-08-23"], "tags": ["#basic"] }
+{ "qId": "syn011073", "qText": "Where was Gene Kelly born?", "answers": ["Highland Park"], "tags": ["#basic"] }
+{ "qId": "syn011074", "qText": "What is Gene Kelly's birth place?", "answers": ["Highland Park"], "tags": ["#basic"] }
+{ "qId": "syn011075", "qText": "When did Gene Kelly die?", "answers": ["1996-02-02"], "tags": ["#basic"] }
+{ "qId": "syn011076", "qText": "Where did Gene Kelly die?", "answers": ["Beverly Hills"], "tags": ["#basic"] }
+{ "qId": "syn011077", "qText": "How did Gene Kelly die?", "answers": ["Stroke"], "tags": ["#basic"] }
+{ "qId": "syn011079", "qText": "What is Gene Kelly's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011080", "qText": "Where is Gene Kelly from?", "answers": ["Highland Park"], "tags": ["#basic"] }
+{ "qId": "syn011081", "qText": "How high is Gene Kelly?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn011082", "qText": "How tall is Gene Kelly?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn011083", "qText": "What's the Gene Kelly's height?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn011084", "qText": "Who are the parents of Gene Kelly?", "answers": ["James Kelly", "Harriet Curran"], "tags": ["#basic"] }
+{ "qId": "syn011085", "qText": "Who is Gene Kelly's father?", "answers": ["James Kelly"], "tags": ["#cmplx"] }
+{ "qId": "syn011086", "qText": "Who is Gene Kelly's mother?", "answers": ["Harriet Curran"], "tags": ["#cmplx"] }
+{ "qId": "syn011087", "qText": "Who is Gene Kelly married to?", "answers": ["Patricia Ward", "Betsy Blair", "Jeanne Coyne"], "tags": ["#cvt"] }
+{ "qId": "syn011088", "qText": "When was George Lucas born?", "answers": ["1944-05-14"], "tags": ["#basic"] }
+{ "qId": "syn011089", "qText": "Where was George Lucas born?", "answers": ["Modesto"], "tags": ["#basic"] }
+{ "qId": "syn011090", "qText": "What is George Lucas's birth place?", "answers": ["Modesto"], "tags": ["#basic"] }
+{ "qId": "syn011095", "qText": "What is George Lucas's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011096", "qText": "Where is George Lucas from?", "answers": ["Modesto"], "tags": ["#basic"] }
+{ "qId": "syn011097", "qText": "How high is George Lucas?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn011098", "qText": "How tall is George Lucas?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn011099", "qText": "What's the George Lucas's height?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn011100", "qText": "Who are the parents of George Lucas?", "answers": ["Dorothy Ellinore Bomberger", "George Walton Lucas Sr."], "tags": ["#basic"] }
+{ "qId": "syn011101", "qText": "Who is George Lucas's father?", "answers": ["George Walton Lucas Sr."], "tags": ["#cmplx"] }
+{ "qId": "syn011102", "qText": "Who is George Lucas's mother?", "answers": ["Dorothy Ellinore Bomberger"], "tags": ["#cmplx"] }
+{ "qId": "syn011103", "qText": "Who is George Lucas married to?", "answers": ["Marcia Lucas", "Mellody Hobson"], "tags": ["#cvt"] }
+{ "qId": "syn011104", "qText": "When was George Macready born?", "answers": ["1899-08-29"], "tags": ["#basic"] }
+{ "qId": "syn011105", "qText": "Where was George Macready born?", "answers": ["Providence"], "tags": ["#basic"] }
+{ "qId": "syn011106", "qText": "What is George Macready's birth place?", "answers": ["Providence"], "tags": ["#basic"] }
+{ "qId": "syn011107", "qText": "When did George Macready die?", "answers": ["1973-07-02"], "tags": ["#basic"] }
+{ "qId": "syn011108", "qText": "Where did George Macready die?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn011109", "qText": "How did George Macready die?", "answers": ["Emphysema"], "tags": ["#basic"] }
+{ "qId": "syn011111", "qText": "What is George Macready's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011112", "qText": "Where is George Macready from?", "answers": ["Providence"], "tags": ["#basic"] }
+{ "qId": "syn011119", "qText": "Who is George Macready married to?", "answers": ["Elizabeth Dana Patterson"], "tags": ["#cvt"] }
+{ "qId": "syn011120", "qText": "When was George Roy Hill born?", "answers": ["1921-12-20"], "tags": ["#basic"] }
+{ "qId": "syn011121", "qText": "Where was George Roy Hill born?", "answers": ["Minneapolis"], "tags": ["#basic"] }
+{ "qId": "syn011122", "qText": "What is George Roy Hill's birth place?", "answers": ["Minneapolis"], "tags": ["#basic"] }
+{ "qId": "syn011123", "qText": "When did George Roy Hill die?", "answers": ["2002-12-27"], "tags": ["#basic"] }
+{ "qId": "syn011124", "qText": "Where did George Roy Hill die?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn011125", "qText": "How did George Roy Hill die?", "answers": ["Parkinson's disease"], "tags": ["#basic"] }
+{ "qId": "syn011127", "qText": "What is George Roy Hill's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011128", "qText": "Where is George Roy Hill from?", "answers": ["Minneapolis"], "tags": ["#basic"] }
+{ "qId": "syn011132", "qText": "Who are the parents of George Roy Hill?", "answers": ["Helen Frances Hill", "George Roy Hill"], "tags": ["#basic"] }
+{ "qId": "syn011133", "qText": "Who is George Roy Hill's father?", "answers": ["George Roy Hill"], "tags": ["#cmplx"] }
+{ "qId": "syn011134", "qText": "Who is George Roy Hill's mother?", "answers": ["Helen Frances Hill"], "tags": ["#cmplx"] }
+{ "qId": "syn011135", "qText": "Who is George Roy Hill married to?", "answers": ["Louisa Horton Hill"], "tags": ["#cvt"] }
+{ "qId": "syn011136", "qText": "When was Giuseppe Amato born?", "answers": ["1899-08-24"], "tags": ["#basic"] }
+{ "qId": "syn011137", "qText": "Where was Giuseppe Amato born?", "answers": ["Naples"], "tags": ["#basic"] }
+{ "qId": "syn011138", "qText": "What is Giuseppe Amato's birth place?", "answers": ["Naples"], "tags": ["#basic"] }
+{ "qId": "syn011139", "qText": "When did Giuseppe Amato die?", "answers": ["1964-02-03"], "tags": ["#basic"] }
+{ "qId": "syn011140", "qText": "Where did Giuseppe Amato die?", "answers": ["Rome"], "tags": ["#basic"] }
+{ "qId": "syn011141", "qText": "How did Giuseppe Amato die?", "answers": ["Myocardial infarction"], "tags": ["#basic"] }
+{ "qId": "syn011143", "qText": "What is Giuseppe Amato's nationality?", "answers": ["Italy"], "tags": ["#basic"] }
+{ "qId": "syn011144", "qText": "Where is Giuseppe Amato from?", "answers": ["Naples"], "tags": ["#basic"] }
+{ "qId": "syn011152", "qText": "When was Giuseppe Tornatore born?", "answers": ["1956-05-27"], "tags": ["#basic"] }
+{ "qId": "syn011153", "qText": "Where was Giuseppe Tornatore born?", "answers": ["Bagheria"], "tags": ["#basic"] }
+{ "qId": "syn011154", "qText": "What is Giuseppe Tornatore's birth place?", "answers": ["Bagheria"], "tags": ["#basic"] }
+{ "qId": "syn011159", "qText": "What is Giuseppe Tornatore's nationality?", "answers": ["Italy"], "tags": ["#basic"] }
+{ "qId": "syn011160", "qText": "Where is Giuseppe Tornatore from?", "answers": ["Bagheria"], "tags": ["#basic"] }
+{ "qId": "syn011164", "qText": "Who are the parents of Giuseppe Tornatore?", "answers": ["Peppino Tornatore"], "tags": ["#basic"] }
+{ "qId": "syn011165", "qText": "Who is Giuseppe Tornatore's father?", "answers": ["Peppino Tornatore"], "tags": ["#cmplx"] }
+{ "qId": "syn011168", "qText": "When was Gloria Graham born?", "answers": ["1940"], "tags": ["#basic"] }
+{ "qId": "syn011169", "qText": "Where was Gloria Graham born?", "answers": ["Texas"], "tags": ["#basic"] }
+{ "qId": "syn011170", "qText": "What is Gloria Graham's birth place?", "answers": ["Texas"], "tags": ["#basic"] }
+{ "qId": "syn011176", "qText": "Where is Gloria Graham from?", "answers": ["Texas"], "tags": ["#basic"] }
+{ "qId": "syn011184", "qText": "When was Guy Ritchie born?", "answers": ["1968-09-10"], "tags": ["#basic"] }
+{ "qId": "syn011185", "qText": "Where was Guy Ritchie born?", "answers": ["Hatfield, Hertfordshire"], "tags": ["#basic"] }
+{ "qId": "syn011186", "qText": "What is Guy Ritchie's birth place?", "answers": ["Hatfield, Hertfordshire"], "tags": ["#basic"] }
+{ "qId": "syn011191", "qText": "What is Guy Ritchie's nationality?", "answers": ["United Kingdom"], "tags": ["#basic"] }
+{ "qId": "syn011192", "qText": "Where is Guy Ritchie from?", "answers": ["Hatfield, Hertfordshire"], "tags": ["#basic"] }
+{ "qId": "syn011193", "qText": "How high is Guy Ritchie?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn011194", "qText": "How tall is Guy Ritchie?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn011195", "qText": "What's the Guy Ritchie's height?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn011196", "qText": "Who are the parents of Guy Ritchie?", "answers": ["John Vivian Ritchie", "Amber Parkinson"], "tags": ["#basic"] }
+{ "qId": "syn011197", "qText": "Who is Guy Ritchie's father?", "answers": ["John Vivian Ritchie"], "tags": ["#cmplx"] }
+{ "qId": "syn011198", "qText": "Who is Guy Ritchie's mother?", "answers": ["Amber Parkinson"], "tags": ["#cmplx"] }
+{ "qId": "syn011199", "qText": "Who is Guy Ritchie married to?", "answers": ["Madonna", "Jacqui Ainsley"], "tags": ["#cvt"] }
+{ "qId": "syn011216", "qText": "When was Hayao Miyazaki born?", "answers": ["1941-01-05"], "tags": ["#basic"] }
+{ "qId": "syn011217", "qText": "Where was Hayao Miyazaki born?", "answers": ["Bunkyō"], "tags": ["#basic"] }
+{ "qId": "syn011218", "qText": "What is Hayao Miyazaki's birth place?", "answers": ["Bunkyō"], "tags": ["#basic"] }
+{ "qId": "syn011223", "qText": "What is Hayao Miyazaki's nationality?", "answers": ["Japan"], "tags": ["#basic"] }
+{ "qId": "syn011224", "qText": "Where is Hayao Miyazaki from?", "answers": ["Bunkyō"], "tags": ["#basic"] }
+{ "qId": "syn011225", "qText": "How high is Hayao Miyazaki?", "answers": ["1.64"], "tags": ["#basic"] }
+{ "qId": "syn011226", "qText": "How tall is Hayao Miyazaki?", "answers": ["1.64"], "tags": ["#basic"] }
+{ "qId": "syn011227", "qText": "What's the Hayao Miyazaki's height?", "answers": ["1.64"], "tags": ["#basic"] }
+{ "qId": "syn011228", "qText": "Who are the parents of Hayao Miyazaki?", "answers": ["Katsuji Miyazaki", "Dola Miyazaki"], "tags": ["#basic"] }
+{ "qId": "syn011229", "qText": "Who is Hayao Miyazaki's father?", "answers": ["Katsuji Miyazaki"], "tags": ["#cmplx"] }
+{ "qId": "syn011230", "qText": "Who is Hayao Miyazaki's mother?", "answers": ["Dola Miyazaki"], "tags": ["#cmplx"] }
+{ "qId": "syn011231", "qText": "Who is Hayao Miyazaki married to?", "answers": ["Akemi Ôta"], "tags": ["#cvt"] }
+{ "qId": "syn011232", "qText": "When was Henry Bergman born?", "answers": ["1868-02-23"], "tags": ["#basic"] }
+{ "qId": "syn011233", "qText": "Where was Henry Bergman born?", "answers": ["San Francisco"], "tags": ["#basic"] }
+{ "qId": "syn011234", "qText": "What is Henry Bergman's birth place?", "answers": ["San Francisco"], "tags": ["#basic"] }
+{ "qId": "syn011235", "qText": "When did Henry Bergman die?", "answers": ["1946-10-22"], "tags": ["#basic"] }
+{ "qId": "syn011236", "qText": "Where did Henry Bergman die?", "answers": ["Hollywood"], "tags": ["#basic"] }
+{ "qId": "syn011237", "qText": "How did Henry Bergman die?", "answers": ["Myocardial infarction"], "tags": ["#basic"] }
+{ "qId": "syn011238", "qText": "Where is Henry Bergman buried?", "answers": ["Hillside Memorial Park Cemetery"], "tags": ["#basic"] }
+{ "qId": "syn011239", "qText": "What is Henry Bergman's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011240", "qText": "Where is Henry Bergman from?", "answers": ["San Francisco"], "tags": ["#basic"] }
+{ "qId": "syn011248", "qText": "When was Howard Kazanjian born?", "answers": ["1942"], "tags": ["#basic"] }
+{ "qId": "syn011249", "qText": "Where was Howard Kazanjian born?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011250", "qText": "What is Howard Kazanjian's birth place?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011255", "qText": "What is Howard Kazanjian's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011256", "qText": "Where is Howard Kazanjian from?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011263", "qText": "Who is Howard Kazanjian married to?", "answers": ["Carol Kazanjian"], "tags": ["#cvt"] }
+{ "qId": "syn011264", "qText": "When was Ian Bannen born?", "answers": ["1928-06-29"], "tags": ["#basic"] }
+{ "qId": "syn011265", "qText": "Where was Ian Bannen born?", "answers": ["Airdrie"], "tags": ["#basic"] }
+{ "qId": "syn011266", "qText": "What is Ian Bannen's birth place?", "answers": ["Airdrie"], "tags": ["#basic"] }
+{ "qId": "syn011267", "qText": "When did Ian Bannen die?", "answers": ["1999-11-03"], "tags": ["#basic"] }
+{ "qId": "syn011268", "qText": "Where did Ian Bannen die?", "answers": ["Loch Ness"], "tags": ["#basic"] }
+{ "qId": "syn011269", "qText": "How did Ian Bannen die?", "answers": ["Traffic collision"], "tags": ["#basic"] }
+{ "qId": "syn011271", "qText": "What is Ian Bannen's nationality?", "answers": ["United Kingdom"], "tags": ["#basic"] }
+{ "qId": "syn011272", "qText": "Where is Ian Bannen from?", "answers": ["Airdrie"], "tags": ["#basic"] }
+{ "qId": "syn011276", "qText": "Who are the parents of Ian Bannen?", "answers": ["John James Bannen", "Clare Bannen"], "tags": ["#basic"] }
+{ "qId": "syn011277", "qText": "Who is Ian Bannen's father?", "answers": ["John James Bannen"], "tags": ["#cmplx"] }
+{ "qId": "syn011278", "qText": "Who is Ian Bannen's mother?", "answers": ["Clare Bannen"], "tags": ["#cmplx"] }
+{ "qId": "syn011279", "qText": "Who is Ian Bannen married to?", "answers": ["Marilyn Salisbury"], "tags": ["#cvt"] }
+{ "qId": "syn011296", "qText": "When was Irvin Kershner born?", "answers": ["1923-04-29"], "tags": ["#basic"] }
+{ "qId": "syn011297", "qText": "Where was Irvin Kershner born?", "answers": ["Philadelphia"], "tags": ["#basic"] }
+{ "qId": "syn011298", "qText": "What is Irvin Kershner's birth place?", "answers": ["Philadelphia"], "tags": ["#basic"] }
+{ "qId": "syn011299", "qText": "When did Irvin Kershner die?", "answers": ["2010-11-27"], "tags": ["#basic"] }
+{ "qId": "syn011300", "qText": "Where did Irvin Kershner die?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn011301", "qText": "How did Irvin Kershner die?", "answers": ["Lung cancer"], "tags": ["#basic"] }
+{ "qId": "syn011303", "qText": "What is Irvin Kershner's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011304", "qText": "Where is Irvin Kershner from?", "answers": ["Philadelphia"], "tags": ["#basic"] }
+{ "qId": "syn011312", "qText": "When was Irwin Winkler born?", "answers": ["1931-05-25"], "tags": ["#basic"] }
+{ "qId": "syn011313", "qText": "Where was Irwin Winkler born?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn011314", "qText": "What is Irwin Winkler's birth place?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn011319", "qText": "What is Irwin Winkler's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011320", "qText": "Where is Irwin Winkler from?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn011324", "qText": "Who are the parents of Irwin Winkler?", "answers": ["Anna Winkler", "Sol Winkler"], "tags": ["#basic"] }
+{ "qId": "syn011325", "qText": "Who is Irwin Winkler's father?", "answers": ["Sol Winkler"], "tags": ["#cmplx"] }
+{ "qId": "syn011326", "qText": "Who is Irwin Winkler's mother?", "answers": ["Anna Winkler"], "tags": ["#cmplx"] }
+{ "qId": "syn011327", "qText": "Who is Irwin Winkler married to?", "answers": ["Margo Winkler"], "tags": ["#cvt"] }
+{ "qId": "syn011328", "qText": "When was Isao Takahata born?", "answers": ["1935-10-29"], "tags": ["#basic"] }
+{ "qId": "syn011329", "qText": "Where was Isao Takahata born?", "answers": ["Ise"], "tags": ["#basic"] }
+{ "qId": "syn011330", "qText": "What is Isao Takahata's birth place?", "answers": ["Ise"], "tags": ["#basic"] }
+{ "qId": "syn011335", "qText": "What is Isao Takahata's nationality?", "answers": ["Japan"], "tags": ["#basic"] }
+{ "qId": "syn011336", "qText": "Where is Isao Takahata from?", "answers": ["Ise"], "tags": ["#basic"] }
+{ "qId": "syn011340", "qText": "Who are the parents of Isao Takahata?", "answers": ["Asajiro Takahata"], "tags": ["#basic"] }
+{ "qId": "syn011341", "qText": "Who is Isao Takahata's father?", "answers": ["Asajiro Takahata"], "tags": ["#cmplx"] }
+{ "qId": "syn011344", "qText": "When was James Cameron born?", "answers": ["1954-08-16"], "tags": ["#basic"] }
+{ "qId": "syn011345", "qText": "Where was James Cameron born?", "answers": ["Kapuskasing"], "tags": ["#basic"] }
+{ "qId": "syn011346", "qText": "What is James Cameron's birth place?", "answers": ["Kapuskasing"], "tags": ["#basic"] }
+{ "qId": "syn011351", "qText": "What is James Cameron's nationality?", "answers": ["Canada"], "tags": ["#basic"] }
+{ "qId": "syn011352", "qText": "Where is James Cameron from?", "answers": ["Kapuskasing"], "tags": ["#basic"] }
+{ "qId": "syn011353", "qText": "How high is James Cameron?", "answers": ["1.87"], "tags": ["#basic"] }
+{ "qId": "syn011354", "qText": "How tall is James Cameron?", "answers": ["1.87"], "tags": ["#basic"] }
+{ "qId": "syn011355", "qText": "What's the James Cameron's height?", "answers": ["1.87"], "tags": ["#basic"] }
+{ "qId": "syn011356", "qText": "Who are the parents of James Cameron?", "answers": ["Shirley Cameron", "Phillip Cameron"], "tags": ["#basic"] }
+{ "qId": "syn011357", "qText": "Who is James Cameron's father?", "answers": ["Phillip Cameron"], "tags": ["#cmplx"] }
+{ "qId": "syn011358", "qText": "Who is James Cameron's mother?", "answers": ["Shirley Cameron"], "tags": ["#cmplx"] }
+{ "qId": "syn011359", "qText": "Who is James Cameron married to?", "answers": ["Kathryn Bigelow", "Sharon Williams", "Linda Hamilton", "Gale Anne Hurd", "Suzy Amis"], "tags": ["#cvt"] }
+{ "qId": "syn011360", "qText": "When was Jane Russell born?", "answers": ["1921-06-21"], "tags": ["#basic"] }
+{ "qId": "syn011361", "qText": "Where was Jane Russell born?", "answers": ["Bemidji"], "tags": ["#basic"] }
+{ "qId": "syn011362", "qText": "What is Jane Russell's birth place?", "answers": ["Bemidji"], "tags": ["#basic"] }
+{ "qId": "syn011363", "qText": "When did Jane Russell die?", "answers": ["2011-02-28"], "tags": ["#basic"] }
+{ "qId": "syn011364", "qText": "Where did Jane Russell die?", "answers": ["Santa Maria"], "tags": ["#basic"] }
+{ "qId": "syn011365", "qText": "How did Jane Russell die?", "answers": ["Respiratory failure"], "tags": ["#basic"] }
+{ "qId": "syn011367", "qText": "What is Jane Russell's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011368", "qText": "Where is Jane Russell from?", "answers": ["Bemidji"], "tags": ["#basic"] }
+{ "qId": "syn011369", "qText": "How high is Jane Russell?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn011370", "qText": "How tall is Jane Russell?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn011371", "qText": "What's the Jane Russell's height?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn011372", "qText": "Who are the parents of Jane Russell?", "answers": ["Roy William Russell", "Geraldine Jacobi"], "tags": ["#basic"] }
+{ "qId": "syn011373", "qText": "Who is Jane Russell's father?", "answers": ["Roy William Russell"], "tags": ["#cmplx"] }
+{ "qId": "syn011374", "qText": "Who is Jane Russell's mother?", "answers": ["Geraldine Jacobi"], "tags": ["#cmplx"] }
+{ "qId": "syn011375", "qText": "Who is Jane Russell married to?", "answers": ["Bob Waterfield", "Roger Barrett", "John Calvin Peoples"], "tags": ["#cvt"] }
+{ "qId": "syn011392", "qText": "When was Jim Morris born?", "answers": ["1964-01-19"], "tags": ["#basic"] }
+{ "qId": "syn011393", "qText": "Where was Jim Morris born?", "answers": ["Brownwood"], "tags": ["#basic"] }
+{ "qId": "syn011394", "qText": "What is Jim Morris's birth place?", "answers": ["Brownwood"], "tags": ["#basic"] }
+{ "qId": "syn011399", "qText": "What is Jim Morris's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011400", "qText": "Where is Jim Morris from?", "answers": ["Brownwood"], "tags": ["#basic"] }
+{ "qId": "syn011404", "qText": "Who are the parents of Jim Morris?", "answers": ["Jim Morris Sr."], "tags": ["#basic"] }
+{ "qId": "syn011405", "qText": "Who is Jim Morris's father?", "answers": ["Jim Morris Sr."], "tags": ["#cmplx"] }
+{ "qId": "syn011407", "qText": "Who is Jim Morris married to?", "answers": ["Lorri Morris", "Shawna Morris"], "tags": ["#cvt"] }
+{ "qId": "syn011424", "qText": "When was Joel Silver born?", "answers": ["1952-07-14"], "tags": ["#basic"] }
+{ "qId": "syn011425", "qText": "Where was Joel Silver born?", "answers": ["South Orange"], "tags": ["#basic"] }
+{ "qId": "syn011426", "qText": "What is Joel Silver's birth place?", "answers": ["South Orange"], "tags": ["#basic"] }
+{ "qId": "syn011431", "qText": "What is Joel Silver's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011432", "qText": "Where is Joel Silver from?", "answers": ["South Orange"], "tags": ["#basic"] }
+{ "qId": "syn011439", "qText": "Who is Joel Silver married to?", "answers": ["Karyn Fields"], "tags": ["#cvt"] }
+{ "qId": "syn011457", "qText": "Where was John Heffernan born?", "answers": ["Nenagh"], "tags": ["#basic"] }
+{ "qId": "syn011458", "qText": "What is John Heffernan's birth place?", "answers": ["Nenagh"], "tags": ["#basic"] }
+{ "qId": "syn011464", "qText": "Where is John Heffernan from?", "answers": ["Nenagh"], "tags": ["#basic"] }
+{ "qId": "syn011472", "qText": "When was John Lasseter born?", "answers": ["1957-01-12"], "tags": ["#basic"] }
+{ "qId": "syn011473", "qText": "Where was John Lasseter born?", "answers": ["Hollywood"], "tags": ["#basic"] }
+{ "qId": "syn011474", "qText": "What is John Lasseter's birth place?", "answers": ["Hollywood"], "tags": ["#basic"] }
+{ "qId": "syn011479", "qText": "What is John Lasseter's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011480", "qText": "Where is John Lasseter from?", "answers": ["Hollywood"], "tags": ["#basic"] }
+{ "qId": "syn011484", "qText": "Who are the parents of John Lasseter?", "answers": ["Paul Eual Lasseter", "Jewell Mae Risley"], "tags": ["#basic"] }
+{ "qId": "syn011485", "qText": "Who is John Lasseter's father?", "answers": ["Paul Eual Lasseter"], "tags": ["#cmplx"] }
+{ "qId": "syn011486", "qText": "Who is John Lasseter's mother?", "answers": ["Jewell Mae Risley"], "tags": ["#cmplx"] }
+{ "qId": "syn011487", "qText": "Who is John Lasseter married to?", "answers": ["Nancy Lasseter"], "tags": ["#cvt"] }
+{ "qId": "syn011488", "qText": "When was John Morrissey born?", "answers": ["1831-02-12"], "tags": ["#basic"] }
+{ "qId": "syn011489", "qText": "Where was John Morrissey born?", "answers": ["Templemore"], "tags": ["#basic"] }
+{ "qId": "syn011490", "qText": "What is John Morrissey's birth place?", "answers": ["Templemore"], "tags": ["#basic"] }
+{ "qId": "syn011491", "qText": "When did John Morrissey die?", "answers": ["1878-05-01"], "tags": ["#basic"] }
+{ "qId": "syn011492", "qText": "Where did John Morrissey die?", "answers": ["Troy"], "tags": ["#basic"] }
+{ "qId": "syn011495", "qText": "What is John Morrissey's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011496", "qText": "Where is John Morrissey from?", "answers": ["Templemore"], "tags": ["#basic"] }
+{ "qId": "syn011504", "qText": "When was John Rhys-Davies born?", "answers": ["1944-05-05"], "tags": ["#basic"] }
+{ "qId": "syn011505", "qText": "Where was John Rhys-Davies born?", "answers": ["Ammanford"], "tags": ["#basic"] }
+{ "qId": "syn011506", "qText": "What is John Rhys-Davies's birth place?", "answers": ["Ammanford"], "tags": ["#basic"] }
+{ "qId": "syn011511", "qText": "What is John Rhys-Davies's nationality?", "answers": ["United Kingdom"], "tags": ["#basic"] }
+{ "qId": "syn011512", "qText": "Where is John Rhys-Davies from?", "answers": ["Ammanford"], "tags": ["#basic"] }
+{ "qId": "syn011513", "qText": "How high is John Rhys-Davies?", "answers": ["1.85"], "tags": ["#basic"] }
+{ "qId": "syn011514", "qText": "How tall is John Rhys-Davies?", "answers": ["1.85"], "tags": ["#basic"] }
+{ "qId": "syn011515", "qText": "What's the John Rhys-Davies's height?", "answers": ["1.85"], "tags": ["#basic"] }
+{ "qId": "syn011516", "qText": "Who are the parents of John Rhys-Davies?", "answers": ["Rhys Davies", "Mary Margaretta Phyllis Jones"], "tags": ["#basic"] }
+{ "qId": "syn011517", "qText": "Who is John Rhys-Davies's father?", "answers": ["Rhys Davies"], "tags": ["#cmplx"] }
+{ "qId": "syn011518", "qText": "Who is John Rhys-Davies's mother?", "answers": ["Mary Margaretta Phyllis Jones"], "tags": ["#cmplx"] }
+{ "qId": "syn011519", "qText": "Who is John Rhys-Davies married to?", "answers": ["Lisa Manning", "Suzanne A.D. Wilkinson"], "tags": ["#cvt"] }
+{ "qId": "syn011536", "qText": "When was Jonathan Demme born?", "answers": ["1944-02-22"], "tags": ["#basic"] }
+{ "qId": "syn011537", "qText": "Where was Jonathan Demme born?", "answers": ["Baldwin"], "tags": ["#basic"] }
+{ "qId": "syn011538", "qText": "What is Jonathan Demme's birth place?", "answers": ["Baldwin"], "tags": ["#basic"] }
+{ "qId": "syn011543", "qText": "What is Jonathan Demme's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011544", "qText": "Where is Jonathan Demme from?", "answers": ["Baldwin"], "tags": ["#basic"] }
+{ "qId": "syn011545", "qText": "How high is Jonathan Demme?", "answers": ["1.77"], "tags": ["#basic"] }
+{ "qId": "syn011546", "qText": "How tall is Jonathan Demme?", "answers": ["1.77"], "tags": ["#basic"] }
+{ "qId": "syn011547", "qText": "What's the Jonathan Demme's height?", "answers": ["1.77"], "tags": ["#basic"] }
+{ "qId": "syn011551", "qText": "Who is Jonathan Demme married to?", "answers": ["Joanne Howard", "Evelyn Purcell"], "tags": ["#cvt"] }
+{ "qId": "syn011568", "qText": "When was Julia Phillips born?", "answers": ["1944-04-07"], "tags": ["#basic"] }
+{ "qId": "syn011569", "qText": "Where was Julia Phillips born?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn011570", "qText": "What is Julia Phillips's birth place?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn011571", "qText": "When did Julia Phillips die?", "answers": ["2002-01-01"], "tags": ["#basic"] }
+{ "qId": "syn011572", "qText": "Where did Julia Phillips die?", "answers": ["West Hollywood"], "tags": ["#basic"] }
+{ "qId": "syn011573", "qText": "How did Julia Phillips die?", "answers": ["Cancer"], "tags": ["#basic"] }
+{ "qId": "syn011574", "qText": "Where is Julia Phillips buried?", "answers": ["Hillside Memorial Park Cemetery"], "tags": ["#basic"] }
+{ "qId": "syn011575", "qText": "What is Julia Phillips's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011576", "qText": "Where is Julia Phillips from?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn011583", "qText": "Who is Julia Phillips married to?", "answers": ["Michael Phillips"], "tags": ["#cvt"] }
+{ "qId": "syn011584", "qText": "When was Julie Dreyfus born?", "answers": ["1966-01-24"], "tags": ["#basic"] }
+{ "qId": "syn011585", "qText": "Where was Julie Dreyfus born?", "answers": ["Paris"], "tags": ["#basic"] }
+{ "qId": "syn011586", "qText": "What is Julie Dreyfus's birth place?", "answers": ["Paris"], "tags": ["#basic"] }
+{ "qId": "syn011591", "qText": "What is Julie Dreyfus's nationality?", "answers": ["France"], "tags": ["#basic"] }
+{ "qId": "syn011592", "qText": "Where is Julie Dreyfus from?", "answers": ["Paris"], "tags": ["#basic"] }
+{ "qId": "syn011596", "qText": "Who are the parents of Julie Dreyfus?", "answers": ["Francis Dreyfus", "Pascale Audret"], "tags": ["#basic"] }
+{ "qId": "syn011597", "qText": "Who is Julie Dreyfus's father?", "answers": ["Francis Dreyfus"], "tags": ["#cmplx"] }
+{ "qId": "syn011598", "qText": "Who is Julie Dreyfus's mother?", "answers": ["Pascale Audret"], "tags": ["#cmplx"] }
+{ "qId": "syn011600", "qText": "When was Keenan Wynn born?", "answers": ["1916-07-27"], "tags": ["#basic"] }
+{ "qId": "syn011601", "qText": "Where was Keenan Wynn born?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn011602", "qText": "What is Keenan Wynn's birth place?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn011603", "qText": "When did Keenan Wynn die?", "answers": ["1986-10-14"], "tags": ["#basic"] }
+{ "qId": "syn011604", "qText": "Where did Keenan Wynn die?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn011605", "qText": "How did Keenan Wynn die?", "answers": ["Pancreatic cancer"], "tags": ["#basic"] }
+{ "qId": "syn011606", "qText": "Where is Keenan Wynn buried?", "answers": ["Forest Lawn Memorial Park"], "tags": ["#basic"] }
+{ "qId": "syn011607", "qText": "What is Keenan Wynn's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011608", "qText": "Where is Keenan Wynn from?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn011609", "qText": "How high is Keenan Wynn?", "answers": ["1.77"], "tags": ["#basic"] }
+{ "qId": "syn011610", "qText": "How tall is Keenan Wynn?", "answers": ["1.77"], "tags": ["#basic"] }
+{ "qId": "syn011611", "qText": "What's the Keenan Wynn's height?", "answers": ["1.77"], "tags": ["#basic"] }
+{ "qId": "syn011612", "qText": "Who are the parents of Keenan Wynn?", "answers": ["Ed Wynn", "Hilda Keenan"], "tags": ["#basic"] }
+{ "qId": "syn011613", "qText": "Who is Keenan Wynn's father?", "answers": ["Ed Wynn"], "tags": ["#cmplx"] }
+{ "qId": "syn011614", "qText": "Who is Keenan Wynn's mother?", "answers": ["Hilda Keenan"], "tags": ["#cmplx"] }
+{ "qId": "syn011615", "qText": "Who is Keenan Wynn married to?", "answers": ["Evie Wynn Johnson", "Betty Jane Butler", "Sharley Hudson"], "tags": ["#cvt"] }
+{ "qId": "syn011632", "qText": "When was Kirk Douglas born?", "answers": ["1916-12-09"], "tags": ["#basic"] }
+{ "qId": "syn011633", "qText": "Where was Kirk Douglas born?", "answers": ["Amsterdam"], "tags": ["#basic"] }
+{ "qId": "syn011634", "qText": "What is Kirk Douglas's birth place?", "answers": ["Amsterdam"], "tags": ["#basic"] }
+{ "qId": "syn011639", "qText": "What is Kirk Douglas's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011640", "qText": "Where is Kirk Douglas from?", "answers": ["Amsterdam"], "tags": ["#basic"] }
+{ "qId": "syn011641", "qText": "How high is Kirk Douglas?", "answers": ["1.75"], "tags": ["#basic"] }
+{ "qId": "syn011642", "qText": "How tall is Kirk Douglas?", "answers": ["1.75"], "tags": ["#basic"] }
+{ "qId": "syn011643", "qText": "What's the Kirk Douglas's height?", "answers": ["1.75"], "tags": ["#basic"] }
+{ "qId": "syn011644", "qText": "Who are the parents of Kirk Douglas?", "answers": ["Herschel Danielovitch", "Bryna Sanglel"], "tags": ["#basic"] }
+{ "qId": "syn011645", "qText": "Who is Kirk Douglas's father?", "answers": ["Herschel Danielovitch"], "tags": ["#cmplx"] }
+{ "qId": "syn011646", "qText": "Who is Kirk Douglas's mother?", "answers": ["Bryna Sanglel"], "tags": ["#cmplx"] }
+{ "qId": "syn011647", "qText": "Who is Kirk Douglas married to?", "answers": ["Anne Buydens", "Diana Dill"], "tags": ["#cvt"] }
+{ "qId": "syn011680", "qText": "When was Lawrence Bender born?", "answers": ["1957-10-17"], "tags": ["#basic"] }
+{ "qId": "syn011681", "qText": "Where was Lawrence Bender born?", "answers": ["The Bronx"], "tags": ["#basic"] }
+{ "qId": "syn011682", "qText": "What is Lawrence Bender's birth place?", "answers": ["The Bronx"], "tags": ["#basic"] }
+{ "qId": "syn011687", "qText": "What is Lawrence Bender's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011688", "qText": "Where is Lawrence Bender from?", "answers": ["The Bronx"], "tags": ["#basic"] }
+{ "qId": "syn011689", "qText": "How high is Lawrence Bender?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn011690", "qText": "How tall is Lawrence Bender?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn011691", "qText": "What's the Lawrence Bender's height?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn011696", "qText": "When was Lawrence Tierney born?", "answers": ["1919-03-15"], "tags": ["#basic"] }
+{ "qId": "syn011697", "qText": "Where was Lawrence Tierney born?", "answers": ["Brooklyn"], "tags": ["#basic"] }
+{ "qId": "syn011698", "qText": "What is Lawrence Tierney's birth place?", "answers": ["Brooklyn"], "tags": ["#basic"] }
+{ "qId": "syn011699", "qText": "When did Lawrence Tierney die?", "answers": ["2002-02-26"], "tags": ["#basic"] }
+{ "qId": "syn011700", "qText": "Where did Lawrence Tierney die?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn011701", "qText": "How did Lawrence Tierney die?", "answers": ["Pneumonia"], "tags": ["#basic"] }
+{ "qId": "syn011703", "qText": "What is Lawrence Tierney's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011704", "qText": "Where is Lawrence Tierney from?", "answers": ["Brooklyn"], "tags": ["#basic"] }
+{ "qId": "syn011708", "qText": "Who are the parents of Lawrence Tierney?", "answers": ["Lawrence Tierney", "Maria Tierney"], "tags": ["#basic"] }
+{ "qId": "syn011709", "qText": "Who is Lawrence Tierney's father?", "answers": ["Lawrence Tierney"], "tags": ["#cmplx"] }
+{ "qId": "syn011710", "qText": "Who is Lawrence Tierney's mother?", "answers": ["Maria Tierney"], "tags": ["#cmplx"] }
+{ "qId": "syn011712", "qText": "When was Lee Unkrich born?", "answers": ["1967-08-08"], "tags": ["#basic"] }
+{ "qId": "syn011713", "qText": "Where was Lee Unkrich born?", "answers": ["Cleveland"], "tags": ["#basic"] }
+{ "qId": "syn011714", "qText": "What is Lee Unkrich's birth place?", "answers": ["Cleveland"], "tags": ["#basic"] }
+{ "qId": "syn011719", "qText": "What is Lee Unkrich's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011720", "qText": "Where is Lee Unkrich from?", "answers": ["Cleveland"], "tags": ["#basic"] }
+{ "qId": "syn011727", "qText": "Who is Lee Unkrich married to?", "answers": ["Laura Unkrich"], "tags": ["#cvt"] }
+{ "qId": "syn011760", "qText": "When was Louis Lombardi born?", "answers": ["1968"], "tags": ["#basic"] }
+{ "qId": "syn011761", "qText": "Where was Louis Lombardi born?", "answers": ["The Bronx"], "tags": ["#basic"] }
+{ "qId": "syn011762", "qText": "What is Louis Lombardi's birth place?", "answers": ["The Bronx"], "tags": ["#basic"] }
+{ "qId": "syn011767", "qText": "What is Louis Lombardi's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011768", "qText": "Where is Louis Lombardi from?", "answers": ["The Bronx"], "tags": ["#basic"] }
+{ "qId": "syn011769", "qText": "How high is Louis Lombardi?", "answers": ["1.727"], "tags": ["#basic"] }
+{ "qId": "syn011770", "qText": "How tall is Louis Lombardi?", "answers": ["1.727"], "tags": ["#basic"] }
+{ "qId": "syn011771", "qText": "What's the Louis Lombardi's height?", "answers": ["1.727"], "tags": ["#basic"] }
+{ "qId": "syn011772", "qText": "Who are the parents of Louis Lombardi?", "answers": ["Louis Lombardi, Sr."], "tags": ["#basic"] }
+{ "qId": "syn011773", "qText": "Who is Louis Lombardi's father?", "answers": ["Louis Lombardi, Sr."], "tags": ["#cmplx"] }
+{ "qId": "syn011775", "qText": "Who is Louis Lombardi married to?", "answers": ["Miranda Allgood"], "tags": ["#cvt"] }
+{ "qId": "syn011777", "qText": "Where was Lucie Skeaping born?", "answers": ["London"], "tags": ["#basic"] }
+{ "qId": "syn011778", "qText": "What is Lucie Skeaping's birth place?", "answers": ["London"], "tags": ["#basic"] }
+{ "qId": "syn011783", "qText": "What is Lucie Skeaping's nationality?", "answers": ["United Kingdom"], "tags": ["#basic"] }
+{ "qId": "syn011784", "qText": "Where is Lucie Skeaping from?", "answers": ["London"], "tags": ["#basic"] }
+{ "qId": "syn011788", "qText": "Who are the parents of Lucie Skeaping?", "answers": ["Patricia Finch", "Bernard Finch"], "tags": ["#basic"] }
+{ "qId": "syn011789", "qText": "Who is Lucie Skeaping's father?", "answers": ["Bernard Finch"], "tags": ["#cmplx"] }
+{ "qId": "syn011790", "qText": "Who is Lucie Skeaping's mother?", "answers": ["Patricia Finch"], "tags": ["#cmplx"] }
+{ "qId": "syn011791", "qText": "Who is Lucie Skeaping married to?", "answers": ["Roddy Skeaping"], "tags": ["#cvt"] }
+{ "qId": "syn011824", "qText": "When was Marian Glinka born?", "answers": ["1943-06-01"], "tags": ["#basic"] }
+{ "qId": "syn011825", "qText": "Where was Marian Glinka born?", "answers": ["Warsaw"], "tags": ["#basic"] }
+{ "qId": "syn011826", "qText": "What is Marian Glinka's birth place?", "answers": ["Warsaw"], "tags": ["#basic"] }
+{ "qId": "syn011827", "qText": "When did Marian Glinka die?", "answers": ["2008-06-23"], "tags": ["#basic"] }
+{ "qId": "syn011828", "qText": "Where did Marian Glinka die?", "answers": ["Warsaw"], "tags": ["#basic"] }
+{ "qId": "syn011829", "qText": "How did Marian Glinka die?", "answers": ["Pancreatic cancer"], "tags": ["#basic"] }
+{ "qId": "syn011831", "qText": "What is Marian Glinka's nationality?", "answers": ["Poland"], "tags": ["#basic"] }
+{ "qId": "syn011832", "qText": "Where is Marian Glinka from?", "answers": ["Warsaw"], "tags": ["#basic"] }
+{ "qId": "syn011840", "qText": "When was Marianne Muellerleile born?", "answers": ["1948-11-26"], "tags": ["#basic"] }
+{ "qId": "syn011841", "qText": "Where was Marianne Muellerleile born?", "answers": ["St. Louis"], "tags": ["#basic"] }
+{ "qId": "syn011842", "qText": "What is Marianne Muellerleile's birth place?", "answers": ["St. Louis"], "tags": ["#basic"] }
+{ "qId": "syn011847", "qText": "What is Marianne Muellerleile's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011848", "qText": "Where is Marianne Muellerleile from?", "answers": ["St. Louis"], "tags": ["#basic"] }
+{ "qId": "syn011852", "qText": "Who are the parents of Marianne Muellerleile?", "answers": ["Cecil Muellerleile", "Margaret Muellerleile"], "tags": ["#basic"] }
+{ "qId": "syn011853", "qText": "Who is Marianne Muellerleile's father?", "answers": ["Cecil Muellerleile"], "tags": ["#cmplx"] }
+{ "qId": "syn011854", "qText": "Who is Marianne Muellerleile's mother?", "answers": ["Margaret Muellerleile"], "tags": ["#cmplx"] }
+{ "qId": "syn011855", "qText": "Who is Marianne Muellerleile married to?", "answers": ["Tom Norris"], "tags": ["#cvt"] }
+{ "qId": "syn011856", "qText": "When was Marissa Jaret Winokur born?", "answers": ["1973-02-02"], "tags": ["#basic"] }
+{ "qId": "syn011857", "qText": "Where was Marissa Jaret Winokur born?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn011858", "qText": "What is Marissa Jaret Winokur's birth place?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn011863", "qText": "What is Marissa Jaret Winokur's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011864", "qText": "Where is Marissa Jaret Winokur from?", "answers": ["New York City"], "tags": ["#basic"] }
+{ "qId": "syn011865", "qText": "How high is Marissa Jaret Winokur?", "answers": ["1.511"], "tags": ["#basic"] }
+{ "qId": "syn011866", "qText": "How tall is Marissa Jaret Winokur?", "answers": ["1.511"], "tags": ["#basic"] }
+{ "qId": "syn011867", "qText": "What's the Marissa Jaret Winokur's height?", "answers": ["1.511"], "tags": ["#basic"] }
+{ "qId": "syn011868", "qText": "Who are the parents of Marissa Jaret Winokur?", "answers": ["Maxine Winokur", "Michael Winokur"], "tags": ["#basic"] }
+{ "qId": "syn011869", "qText": "Who is Marissa Jaret Winokur's father?", "answers": ["Michael Winokur"], "tags": ["#cmplx"] }
+{ "qId": "syn011870", "qText": "Who is Marissa Jaret Winokur's mother?", "answers": ["Maxine Winokur"], "tags": ["#cmplx"] }
+{ "qId": "syn011871", "qText": "Who is Marissa Jaret Winokur married to?", "answers": ["Judah Miller"], "tags": ["#cvt"] }
+{ "qId": "syn011872", "qText": "When was Martin Scorsese born?", "answers": ["1942-11-17"], "tags": ["#basic"] }
+{ "qId": "syn011873", "qText": "Where was Martin Scorsese born?", "answers": ["Queens"], "tags": ["#basic"] }
+{ "qId": "syn011874", "qText": "What is Martin Scorsese's birth place?", "answers": ["Queens"], "tags": ["#basic"] }
+{ "qId": "syn011879", "qText": "What is Martin Scorsese's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011880", "qText": "Where is Martin Scorsese from?", "answers": ["Queens"], "tags": ["#basic"] }
+{ "qId": "syn011881", "qText": "How high is Martin Scorsese?", "answers": ["1.63"], "tags": ["#basic"] }
+{ "qId": "syn011882", "qText": "How tall is Martin Scorsese?", "answers": ["1.63"], "tags": ["#basic"] }
+{ "qId": "syn011883", "qText": "What's the Martin Scorsese's height?", "answers": ["1.63"], "tags": ["#basic"] }
+{ "qId": "syn011884", "qText": "Who are the parents of Martin Scorsese?", "answers": ["Charles Scorsese", "Catherine Scorsese"], "tags": ["#basic"] }
+{ "qId": "syn011885", "qText": "Who is Martin Scorsese's father?", "answers": ["Charles Scorsese"], "tags": ["#cmplx"] }
+{ "qId": "syn011886", "qText": "Who is Martin Scorsese's mother?", "answers": ["Catherine Scorsese"], "tags": ["#cmplx"] }
+{ "qId": "syn011887", "qText": "Who is Martin Scorsese married to?", "answers": ["Barbara De Fina", "Julia Cameron", "Isabella Rossellini", "Illeana Douglas", "Helen Morris", "Laraine Marie Brennan"], "tags": ["#cvt"] }
+{ "qId": "syn011888", "qText": "When was Martin Sheen born?", "answers": ["1940-08-03"], "tags": ["#basic"] }
+{ "qId": "syn011889", "qText": "Where was Martin Sheen born?", "answers": ["Dayton"], "tags": ["#basic"] }
+{ "qId": "syn011890", "qText": "What is Martin Sheen's birth place?", "answers": ["Dayton"], "tags": ["#basic"] }
+{ "qId": "syn011895", "qText": "What is Martin Sheen's nationality?", "answers": ["United States of America", "Republic of Ireland", "Spain"], "tags": ["#basic"] }
+{ "qId": "syn011896", "qText": "Where is Martin Sheen from?", "answers": ["Dayton"], "tags": ["#basic"] }
+{ "qId": "syn011897", "qText": "How high is Martin Sheen?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn011898", "qText": "How tall is Martin Sheen?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn011899", "qText": "What's the Martin Sheen's height?", "answers": ["1.7"], "tags": ["#basic"] }
+{ "qId": "syn011900", "qText": "Who are the parents of Martin Sheen?", "answers": ["Francisco Estévez", "Mary Ann Phelan"], "tags": ["#basic"] }
+{ "qId": "syn011901", "qText": "Who is Martin Sheen's father?", "answers": ["Francisco Estévez"], "tags": ["#cmplx"] }
+{ "qId": "syn011902", "qText": "Who is Martin Sheen's mother?", "answers": ["Mary Ann Phelan"], "tags": ["#cmplx"] }
+{ "qId": "syn011903", "qText": "Who is Martin Sheen married to?", "answers": ["Janet Sheen"], "tags": ["#cvt"] }
+{ "qId": "syn011904", "qText": "When was Masahiko Nishimura born?", "answers": ["1960-12-12"], "tags": ["#basic"] }
+{ "qId": "syn011905", "qText": "Where was Masahiko Nishimura born?", "answers": ["Toyama"], "tags": ["#basic"] }
+{ "qId": "syn011906", "qText": "What is Masahiko Nishimura's birth place?", "answers": ["Toyama"], "tags": ["#basic"] }
+{ "qId": "syn011911", "qText": "What is Masahiko Nishimura's nationality?", "answers": ["Japan"], "tags": ["#basic"] }
+{ "qId": "syn011912", "qText": "Where is Masahiko Nishimura from?", "answers": ["Toyama"], "tags": ["#basic"] }
+{ "qId": "syn011920", "qText": "When was Matthew Broderick born?", "answers": ["1962-03-21"], "tags": ["#basic"] }
+{ "qId": "syn011921", "qText": "Where was Matthew Broderick born?", "answers": ["Manhattan"], "tags": ["#basic"] }
+{ "qId": "syn011922", "qText": "What is Matthew Broderick's birth place?", "answers": ["Manhattan"], "tags": ["#basic"] }
+{ "qId": "syn011927", "qText": "What is Matthew Broderick's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011928", "qText": "Where is Matthew Broderick from?", "answers": ["Manhattan"], "tags": ["#basic"] }
+{ "qId": "syn011929", "qText": "How high is Matthew Broderick?", "answers": ["1.73"], "tags": ["#basic"] }
+{ "qId": "syn011930", "qText": "How tall is Matthew Broderick?", "answers": ["1.73"], "tags": ["#basic"] }
+{ "qId": "syn011931", "qText": "What's the Matthew Broderick's height?", "answers": ["1.73"], "tags": ["#basic"] }
+{ "qId": "syn011932", "qText": "Who are the parents of Matthew Broderick?", "answers": ["James Broderick", "Patricia Broderick"], "tags": ["#basic"] }
+{ "qId": "syn011933", "qText": "Who is Matthew Broderick's father?", "answers": ["James Broderick"], "tags": ["#cmplx"] }
+{ "qId": "syn011934", "qText": "Who is Matthew Broderick's mother?", "answers": ["Patricia Broderick"], "tags": ["#cmplx"] }
+{ "qId": "syn011935", "qText": "Who is Matthew Broderick married to?", "answers": ["Sarah Jessica Parker"], "tags": ["#cvt"] }
+{ "qId": "syn011936", "qText": "When was Matthew Vaughn born?", "answers": ["1971-03-07"], "tags": ["#basic"] }
+{ "qId": "syn011937", "qText": "Where was Matthew Vaughn born?", "answers": ["London"], "tags": ["#basic"] }
+{ "qId": "syn011938", "qText": "What is Matthew Vaughn's birth place?", "answers": ["London"], "tags": ["#basic"] }
+{ "qId": "syn011943", "qText": "What is Matthew Vaughn's nationality?", "answers": ["United Kingdom"], "tags": ["#basic"] }
+{ "qId": "syn011944", "qText": "Where is Matthew Vaughn from?", "answers": ["London"], "tags": ["#basic"] }
+{ "qId": "syn011945", "qText": "How high is Matthew Vaughn?", "answers": ["1.83"], "tags": ["#basic"] }
+{ "qId": "syn011946", "qText": "How tall is Matthew Vaughn?", "answers": ["1.83"], "tags": ["#basic"] }
+{ "qId": "syn011947", "qText": "What's the Matthew Vaughn's height?", "answers": ["1.83"], "tags": ["#basic"] }
+{ "qId": "syn011948", "qText": "Who are the parents of Matthew Vaughn?", "answers": ["Kathy Ceaton", "George De Vere Drummond"], "tags": ["#basic"] }
+{ "qId": "syn011949", "qText": "Who is Matthew Vaughn's father?", "answers": ["George De Vere Drummond"], "tags": ["#cmplx"] }
+{ "qId": "syn011950", "qText": "Who is Matthew Vaughn's mother?", "answers": ["Kathy Ceaton"], "tags": ["#cmplx"] }
+{ "qId": "syn011951", "qText": "Who is Matthew Vaughn married to?", "answers": ["Claudia Schiffer"], "tags": ["#cvt"] }
+{ "qId": "syn011952", "qText": "When was Mel Gibson born?", "answers": ["1956-01-03"], "tags": ["#basic"] }
+{ "qId": "syn011953", "qText": "Where was Mel Gibson born?", "answers": ["Peekskill"], "tags": ["#basic"] }
+{ "qId": "syn011954", "qText": "What is Mel Gibson's birth place?", "answers": ["Peekskill"], "tags": ["#basic"] }
+{ "qId": "syn011959", "qText": "What is Mel Gibson's nationality?", "answers": ["United States of America", "Australia", "Republic of Ireland"], "tags": ["#basic"] }
+{ "qId": "syn011960", "qText": "Where is Mel Gibson from?", "answers": ["Peekskill"], "tags": ["#basic"] }
+{ "qId": "syn011961", "qText": "How high is Mel Gibson?", "answers": ["1.77"], "tags": ["#basic"] }
+{ "qId": "syn011962", "qText": "How tall is Mel Gibson?", "answers": ["1.77"], "tags": ["#basic"] }
+{ "qId": "syn011963", "qText": "What's the Mel Gibson's height?", "answers": ["1.77"], "tags": ["#basic"] }
+{ "qId": "syn011964", "qText": "Who are the parents of Mel Gibson?", "answers": ["Hutton Gibson", "Anne Reilly"], "tags": ["#basic"] }
+{ "qId": "syn011965", "qText": "Who is Mel Gibson's father?", "answers": ["Hutton Gibson"], "tags": ["#cmplx"] }
+{ "qId": "syn011966", "qText": "Who is Mel Gibson's mother?", "answers": ["Anne Reilly"], "tags": ["#cmplx"] }
+{ "qId": "syn011967", "qText": "Who is Mel Gibson married to?", "answers": ["Robyn Moore Gibson", "Oksana Grigorieva"], "tags": ["#cvt"] }
+{ "qId": "syn011968", "qText": "When was Michael Douglas born?", "answers": ["1944-09-25"], "tags": ["#basic"] }
+{ "qId": "syn011969", "qText": "Where was Michael Douglas born?", "answers": ["New Brunswick"], "tags": ["#basic"] }
+{ "qId": "syn011970", "qText": "What is Michael Douglas's birth place?", "answers": ["New Brunswick"], "tags": ["#basic"] }
+{ "qId": "syn011975", "qText": "What is Michael Douglas's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn011976", "qText": "Where is Michael Douglas from?", "answers": ["New Brunswick"], "tags": ["#basic"] }
+{ "qId": "syn011977", "qText": "How high is Michael Douglas?", "answers": ["1.78"], "tags": ["#basic"] }
+{ "qId": "syn011978", "qText": "How tall is Michael Douglas?", "answers": ["1.78"], "tags": ["#basic"] }
+{ "qId": "syn011979", "qText": "What's the Michael Douglas's height?", "answers": ["1.78"], "tags": ["#basic"] }
+{ "qId": "syn011980", "qText": "Who are the parents of Michael Douglas?", "answers": ["Kirk Douglas", "Diana Dill"], "tags": ["#basic"] }
+{ "qId": "syn011981", "qText": "Who is Michael Douglas's father?", "answers": ["Kirk Douglas"], "tags": ["#cmplx"] }
+{ "qId": "syn011982", "qText": "Who is Michael Douglas's mother?", "answers": ["Diana Dill"], "tags": ["#cmplx"] }
+{ "qId": "syn011983", "qText": "Who is Michael Douglas married to?", "answers": ["Brenda Vaccaro", "Diandra Luker", "Catherine Zeta-Jones"], "tags": ["#cvt"] }
+{ "qId": "syn012016", "qText": "When was Michael White born?", "answers": ["1948-12-29"], "tags": ["#basic"] }
+{ "qId": "syn012017", "qText": "Where was Michael White born?", "answers": ["Adelaide"], "tags": ["#basic"] }
+{ "qId": "syn012018", "qText": "What is Michael White's birth place?", "answers": ["Adelaide"], "tags": ["#basic"] }
+{ "qId": "syn012019", "qText": "When did Michael White die?", "answers": ["2008-04-04"], "tags": ["#basic"] }
+{ "qId": "syn012020", "qText": "Where did Michael White die?", "answers": ["San Diego"], "tags": ["#basic"] }
+{ "qId": "syn012023", "qText": "What is Michael White's nationality?", "answers": ["Australia"], "tags": ["#basic"] }
+{ "qId": "syn012024", "qText": "Where is Michael White from?", "answers": ["Adelaide"], "tags": ["#basic"] }
+{ "qId": "syn012032", "qText": "When was Michel Gondry born?", "answers": ["1963-05-08"], "tags": ["#basic"] }
+{ "qId": "syn012033", "qText": "Where was Michel Gondry born?", "answers": ["Versailles"], "tags": ["#basic"] }
+{ "qId": "syn012034", "qText": "What is Michel Gondry's birth place?", "answers": ["Versailles"], "tags": ["#basic"] }
+{ "qId": "syn012039", "qText": "What is Michel Gondry's nationality?", "answers": ["France"], "tags": ["#basic"] }
+{ "qId": "syn012040", "qText": "Where is Michel Gondry from?", "answers": ["Versailles"], "tags": ["#basic"] }
+{ "qId": "syn012041", "qText": "How high is Michel Gondry?", "answers": ["1.77"], "tags": ["#basic"] }
+{ "qId": "syn012042", "qText": "How tall is Michel Gondry?", "answers": ["1.77"], "tags": ["#basic"] }
+{ "qId": "syn012043", "qText": "What's the Michel Gondry's height?", "answers": ["1.77"], "tags": ["#basic"] }
+{ "qId": "syn012112", "qText": "When was Natalie Hallam born?", "answers": ["1972-04-07"], "tags": ["#basic"] }
+{ "qId": "syn012113", "qText": "Where was Natalie Hallam born?", "answers": ["Nottingham"], "tags": ["#basic"] }
+{ "qId": "syn012114", "qText": "What is Natalie Hallam's birth place?", "answers": ["Nottingham"], "tags": ["#basic"] }
+{ "qId": "syn012119", "qText": "What is Natalie Hallam's nationality?", "answers": ["United Kingdom"], "tags": ["#basic"] }
+{ "qId": "syn012120", "qText": "Where is Natalie Hallam from?", "answers": ["Nottingham"], "tags": ["#basic"] }
+{ "qId": "syn012124", "qText": "Who are the parents of Natalie Hallam?", "answers": ["Paul Hallam", "Glynis Cook"], "tags": ["#basic"] }
+{ "qId": "syn012125", "qText": "Who is Natalie Hallam's father?", "answers": ["Paul Hallam"], "tags": ["#cmplx"] }
+{ "qId": "syn012126", "qText": "Who is Natalie Hallam's mother?", "answers": ["Glynis Cook"], "tags": ["#cmplx"] }
+{ "qId": "syn012192", "qText": "When was Omar Sharif born?", "answers": ["1932-04-10"], "tags": ["#basic"] }
+{ "qId": "syn012193", "qText": "Where was Omar Sharif born?", "answers": ["Alexandria"], "tags": ["#basic"] }
+{ "qId": "syn012194", "qText": "What is Omar Sharif's birth place?", "answers": ["Alexandria"], "tags": ["#basic"] }
+{ "qId": "syn012199", "qText": "What is Omar Sharif's nationality?", "answers": ["France", "Egypt"], "tags": ["#basic"] }
+{ "qId": "syn012200", "qText": "Where is Omar Sharif from?", "answers": ["Alexandria"], "tags": ["#basic"] }
+{ "qId": "syn012201", "qText": "How high is Omar Sharif?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn012202", "qText": "How tall is Omar Sharif?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn012203", "qText": "What's the Omar Sharif's height?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn012204", "qText": "Who are the parents of Omar Sharif?", "answers": ["Joseph Shalhoub", "Claire Shalhoub"], "tags": ["#basic"] }
+{ "qId": "syn012205", "qText": "Who is Omar Sharif's father?", "answers": ["Joseph Shalhoub"], "tags": ["#cmplx"] }
+{ "qId": "syn012206", "qText": "Who is Omar Sharif's mother?", "answers": ["Claire Shalhoub"], "tags": ["#cmplx"] }
+{ "qId": "syn012207", "qText": "Who is Omar Sharif married to?", "answers": ["Faten Hamama"], "tags": ["#cvt"] }
+{ "qId": "syn012208", "qText": "When was Orson Welles born?", "answers": ["1915-05-06"], "tags": ["#basic"] }
+{ "qId": "syn012209", "qText": "Where was Orson Welles born?", "answers": ["Kenosha"], "tags": ["#basic"] }
+{ "qId": "syn012210", "qText": "What is Orson Welles's birth place?", "answers": ["Kenosha"], "tags": ["#basic"] }
+{ "qId": "syn012211", "qText": "When did Orson Welles die?", "answers": ["1985-10-10"], "tags": ["#basic"] }
+{ "qId": "syn012212", "qText": "Where did Orson Welles die?", "answers": ["Hollywood"], "tags": ["#basic"] }
+{ "qId": "syn012213", "qText": "How did Orson Welles die?", "answers": ["Myocardial infarction"], "tags": ["#basic"] }
+{ "qId": "syn012215", "qText": "What is Orson Welles's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012216", "qText": "Where is Orson Welles from?", "answers": ["Kenosha"], "tags": ["#basic"] }
+{ "qId": "syn012217", "qText": "How high is Orson Welles?", "answers": ["1.854"], "tags": ["#basic"] }
+{ "qId": "syn012218", "qText": "How tall is Orson Welles?", "answers": ["1.854"], "tags": ["#basic"] }
+{ "qId": "syn012219", "qText": "What's the Orson Welles's height?", "answers": ["1.854"], "tags": ["#basic"] }
+{ "qId": "syn012220", "qText": "Who are the parents of Orson Welles?", "answers": ["Beatrice Ives", "Richard Head Welles"], "tags": ["#basic"] }
+{ "qId": "syn012221", "qText": "Who is Orson Welles's father?", "answers": ["Richard Head Welles"], "tags": ["#cmplx"] }
+{ "qId": "syn012222", "qText": "Who is Orson Welles's mother?", "answers": ["Beatrice Ives"], "tags": ["#cmplx"] }
+{ "qId": "syn012223", "qText": "Who is Orson Welles married to?", "answers": ["Oja Kodar", "Virginia Nicholson", "Paola Mori", "Dolores del Río", "Rita Hayworth"], "tags": ["#cvt"] }
+{ "qId": "syn012272", "qText": "When was Paul Stewart born?", "answers": ["1908-03-13"], "tags": ["#basic"] }
+{ "qId": "syn012273", "qText": "Where was Paul Stewart born?", "answers": ["Manhattan"], "tags": ["#basic"] }
+{ "qId": "syn012274", "qText": "What is Paul Stewart's birth place?", "answers": ["Manhattan"], "tags": ["#basic"] }
+{ "qId": "syn012275", "qText": "When did Paul Stewart die?", "answers": ["1986-02-17"], "tags": ["#basic"] }
+{ "qId": "syn012276", "qText": "Where did Paul Stewart die?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn012277", "qText": "How did Paul Stewart die?", "answers": ["Myocardial infarction", "Heart failure"], "tags": ["#basic"] }
+{ "qId": "syn012279", "qText": "What is Paul Stewart's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012280", "qText": "Where is Paul Stewart from?", "answers": ["Manhattan"], "tags": ["#basic"] }
+{ "qId": "syn012287", "qText": "Who is Paul Stewart married to?", "answers": ["Peg La Centra"], "tags": ["#cvt"] }
+{ "qId": "syn012288", "qText": "When was Paul Weigel born?", "answers": ["1867-02-18"], "tags": ["#basic"] }
+{ "qId": "syn012289", "qText": "Where was Paul Weigel born?", "answers": ["Halle"], "tags": ["#basic"] }
+{ "qId": "syn012290", "qText": "What is Paul Weigel's birth place?", "answers": ["Halle"], "tags": ["#basic"] }
+{ "qId": "syn012291", "qText": "When did Paul Weigel die?", "answers": ["1951-05-25"], "tags": ["#basic"] }
+{ "qId": "syn012292", "qText": "Where did Paul Weigel die?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn012295", "qText": "What is Paul Weigel's nationality?", "answers": ["Germany", "United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012296", "qText": "Where is Paul Weigel from?", "answers": ["Halle"], "tags": ["#basic"] }
+{ "qId": "syn012304", "qText": "When was Peter Jackson born?", "answers": ["1961-10-31"], "tags": ["#basic"] }
+{ "qId": "syn012305", "qText": "Where was Peter Jackson born?", "answers": ["Wellington"], "tags": ["#basic"] }
+{ "qId": "syn012306", "qText": "What is Peter Jackson's birth place?", "answers": ["Wellington"], "tags": ["#basic"] }
+{ "qId": "syn012311", "qText": "What is Peter Jackson's nationality?", "answers": ["New Zealand"], "tags": ["#basic"] }
+{ "qId": "syn012312", "qText": "Where is Peter Jackson from?", "answers": ["Wellington"], "tags": ["#basic"] }
+{ "qId": "syn012313", "qText": "How high is Peter Jackson?", "answers": ["1.69"], "tags": ["#basic"] }
+{ "qId": "syn012314", "qText": "How tall is Peter Jackson?", "answers": ["1.69"], "tags": ["#basic"] }
+{ "qId": "syn012315", "qText": "What's the Peter Jackson's height?", "answers": ["1.69"], "tags": ["#basic"] }
+{ "qId": "syn012316", "qText": "Who are the parents of Peter Jackson?", "answers": ["Joan Ruck", "William Jackson"], "tags": ["#basic"] }
+{ "qId": "syn012317", "qText": "Who is Peter Jackson's father?", "answers": ["William Jackson"], "tags": ["#cmplx"] }
+{ "qId": "syn012318", "qText": "Who is Peter Jackson's mother?", "answers": ["Joan Ruck"], "tags": ["#cmplx"] }
+{ "qId": "syn012319", "qText": "Who is Peter Jackson married to?", "answers": ["Fran Walsh"], "tags": ["#cvt"] }
+{ "qId": "syn012320", "qText": "When was Quentin Tarantino born?", "answers": ["1963-03-27"], "tags": ["#basic"] }
+{ "qId": "syn012321", "qText": "Where was Quentin Tarantino born?", "answers": ["Knoxville"], "tags": ["#basic"] }
+{ "qId": "syn012322", "qText": "What is Quentin Tarantino's birth place?", "answers": ["Knoxville"], "tags": ["#basic"] }
+{ "qId": "syn012327", "qText": "What is Quentin Tarantino's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012328", "qText": "Where is Quentin Tarantino from?", "answers": ["Knoxville"], "tags": ["#basic"] }
+{ "qId": "syn012329", "qText": "How high is Quentin Tarantino?", "answers": ["1.85"], "tags": ["#basic"] }
+{ "qId": "syn012330", "qText": "How tall is Quentin Tarantino?", "answers": ["1.85"], "tags": ["#basic"] }
+{ "qId": "syn012331", "qText": "What's the Quentin Tarantino's height?", "answers": ["1.85"], "tags": ["#basic"] }
+{ "qId": "syn012332", "qText": "Who are the parents of Quentin Tarantino?", "answers": ["Tony Tarantino", "Connie Zastoupil"], "tags": ["#basic"] }
+{ "qId": "syn012333", "qText": "Who is Quentin Tarantino's father?", "answers": ["Tony Tarantino"], "tags": ["#cmplx"] }
+{ "qId": "syn012334", "qText": "Who is Quentin Tarantino's mother?", "answers": ["Connie Zastoupil"], "tags": ["#cmplx"] }
+{ "qId": "syn012352", "qText": "When was Ralph Guggenheim born?", "answers": ["1951-06-06"], "tags": ["#basic"] }
+{ "qId": "syn012353", "qText": "Where was Ralph Guggenheim born?", "answers": ["New Rochelle"], "tags": ["#basic"] }
+{ "qId": "syn012354", "qText": "What is Ralph Guggenheim's birth place?", "answers": ["New Rochelle"], "tags": ["#basic"] }
+{ "qId": "syn012359", "qText": "What is Ralph Guggenheim's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012360", "qText": "Where is Ralph Guggenheim from?", "answers": ["New Rochelle"], "tags": ["#basic"] }
+{ "qId": "syn012364", "qText": "Who are the parents of Ralph Guggenheim?", "answers": ["Jules Guggenheim", "Hanneleis Feibelmann"], "tags": ["#basic"] }
+{ "qId": "syn012365", "qText": "Who is Ralph Guggenheim's father?", "answers": ["Jules Guggenheim"], "tags": ["#cmplx"] }
+{ "qId": "syn012366", "qText": "Who is Ralph Guggenheim's mother?", "answers": ["Hanneleis Feibelmann"], "tags": ["#cmplx"] }
+{ "qId": "syn012367", "qText": "Who is Ralph Guggenheim married to?", "answers": ["Marsha Guggenheim"], "tags": ["#cvt"] }
+{ "qId": "syn012384", "qText": "When was Richard Marquand born?", "answers": ["1937-09-22"], "tags": ["#basic"] }
+{ "qId": "syn012385", "qText": "Where was Richard Marquand born?", "answers": ["Llanishen"], "tags": ["#basic"] }
+{ "qId": "syn012386", "qText": "What is Richard Marquand's birth place?", "answers": ["Llanishen"], "tags": ["#basic"] }
+{ "qId": "syn012387", "qText": "When did Richard Marquand die?", "answers": ["1987-09-04"], "tags": ["#basic"] }
+{ "qId": "syn012388", "qText": "Where did Richard Marquand die?", "answers": ["Royal Tunbridge Wells"], "tags": ["#basic"] }
+{ "qId": "syn012389", "qText": "How did Richard Marquand die?", "answers": ["Stroke"], "tags": ["#basic"] }
+{ "qId": "syn012391", "qText": "What is Richard Marquand's nationality?", "answers": ["United Kingdom"], "tags": ["#basic"] }
+{ "qId": "syn012392", "qText": "Where is Richard Marquand from?", "answers": ["Llanishen"], "tags": ["#basic"] }
+{ "qId": "syn012396", "qText": "Who are the parents of Richard Marquand?", "answers": ["Rachel E.  Rees", "Hilary Marquand"], "tags": ["#basic"] }
+{ "qId": "syn012397", "qText": "Who is Richard Marquand's father?", "answers": ["Hilary Marquand"], "tags": ["#cmplx"] }
+{ "qId": "syn012398", "qText": "Who is Richard Marquand's mother?", "answers": ["Rachel E.  Rees"], "tags": ["#cmplx"] }
+{ "qId": "syn012400", "qText": "When was Ridley Scott born?", "answers": ["1937-11-30"], "tags": ["#basic"] }
+{ "qId": "syn012401", "qText": "Where was Ridley Scott born?", "answers": ["South Shields"], "tags": ["#basic"] }
+{ "qId": "syn012402", "qText": "What is Ridley Scott's birth place?", "answers": ["South Shields"], "tags": ["#basic"] }
+{ "qId": "syn012407", "qText": "What is Ridley Scott's nationality?", "answers": ["United Kingdom"], "tags": ["#basic"] }
+{ "qId": "syn012408", "qText": "Where is Ridley Scott from?", "answers": ["South Shields"], "tags": ["#basic"] }
+{ "qId": "syn012409", "qText": "How high is Ridley Scott?", "answers": ["1.74"], "tags": ["#basic"] }
+{ "qId": "syn012410", "qText": "How tall is Ridley Scott?", "answers": ["1.74"], "tags": ["#basic"] }
+{ "qId": "syn012411", "qText": "What's the Ridley Scott's height?", "answers": ["1.74"], "tags": ["#basic"] }
+{ "qId": "syn012412", "qText": "Who are the parents of Ridley Scott?", "answers": ["Francis Percy Scott", "Elizabeth Jean Scott"], "tags": ["#basic"] }
+{ "qId": "syn012413", "qText": "Who is Ridley Scott's father?", "answers": ["Francis Percy Scott"], "tags": ["#cmplx"] }
+{ "qId": "syn012414", "qText": "Who is Ridley Scott's mother?", "answers": ["Elizabeth Jean Scott"], "tags": ["#cmplx"] }
+{ "qId": "syn012415", "qText": "Who is Ridley Scott married to?", "answers": ["Giannina Facio", "Felicity Heywood", "Sandy Watson"], "tags": ["#cvt"] }
+{ "qId": "syn012416", "qText": "When was Robert Zemeckis born?", "answers": ["1952-05-14"], "tags": ["#basic"] }
+{ "qId": "syn012417", "qText": "Where was Robert Zemeckis born?", "answers": ["Chicago"], "tags": ["#basic"] }
+{ "qId": "syn012418", "qText": "What is Robert Zemeckis's birth place?", "answers": ["Chicago"], "tags": ["#basic"] }
+{ "qId": "syn012423", "qText": "What is Robert Zemeckis's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012424", "qText": "Where is Robert Zemeckis from?", "answers": ["Chicago"], "tags": ["#basic"] }
+{ "qId": "syn012425", "qText": "How high is Robert Zemeckis?", "answers": ["1.83"], "tags": ["#basic"] }
+{ "qId": "syn012426", "qText": "How tall is Robert Zemeckis?", "answers": ["1.83"], "tags": ["#basic"] }
+{ "qId": "syn012427", "qText": "What's the Robert Zemeckis's height?", "answers": ["1.83"], "tags": ["#basic"] }
+{ "qId": "syn012428", "qText": "Who are the parents of Robert Zemeckis?", "answers": ["Rose Zemeckis", "Alphonse Zemeckis"], "tags": ["#basic"] }
+{ "qId": "syn012429", "qText": "Who is Robert Zemeckis's father?", "answers": ["Alphonse Zemeckis"], "tags": ["#cmplx"] }
+{ "qId": "syn012430", "qText": "Who is Robert Zemeckis's mother?", "answers": ["Rose Zemeckis"], "tags": ["#cmplx"] }
+{ "qId": "syn012431", "qText": "Who is Robert Zemeckis married to?", "answers": ["Mary Ellen Trainor", "Leslie Harter Zemeckis"], "tags": ["#cvt"] }
+{ "qId": "syn012432", "qText": "When was Roberto Benigni born?", "answers": ["1952-10-27"], "tags": ["#basic"] }
+{ "qId": "syn012433", "qText": "Where was Roberto Benigni born?", "answers": ["Castiglion Fiorentino"], "tags": ["#basic"] }
+{ "qId": "syn012434", "qText": "What is Roberto Benigni's birth place?", "answers": ["Castiglion Fiorentino"], "tags": ["#basic"] }
+{ "qId": "syn012439", "qText": "What is Roberto Benigni's nationality?", "answers": ["Italy"], "tags": ["#basic"] }
+{ "qId": "syn012440", "qText": "Where is Roberto Benigni from?", "answers": ["Castiglion Fiorentino"], "tags": ["#basic"] }
+{ "qId": "syn012441", "qText": "How high is Roberto Benigni?", "answers": ["1.689"], "tags": ["#basic"] }
+{ "qId": "syn012442", "qText": "How tall is Roberto Benigni?", "answers": ["1.689"], "tags": ["#basic"] }
+{ "qId": "syn012443", "qText": "What's the Roberto Benigni's height?", "answers": ["1.689"], "tags": ["#basic"] }
+{ "qId": "syn012444", "qText": "Who are the parents of Roberto Benigni?", "answers": ["Isolina Papini", "Remigio Benigni"], "tags": ["#basic"] }
+{ "qId": "syn012445", "qText": "Who is Roberto Benigni's father?", "answers": ["Remigio Benigni"], "tags": ["#cmplx"] }
+{ "qId": "syn012446", "qText": "Who is Roberto Benigni's mother?", "answers": ["Isolina Papini"], "tags": ["#cmplx"] }
+{ "qId": "syn012447", "qText": "Who is Roberto Benigni married to?", "answers": ["Nicoletta Braschi"], "tags": ["#cvt"] }
+{ "qId": "syn012448", "qText": "When was Roger Allers born?", "answers": ["1949"], "tags": ["#basic"] }
+{ "qId": "syn012449", "qText": "Where was Roger Allers born?", "answers": ["Rye"], "tags": ["#basic"] }
+{ "qId": "syn012450", "qText": "What is Roger Allers's birth place?", "answers": ["Rye"], "tags": ["#basic"] }
+{ "qId": "syn012455", "qText": "What is Roger Allers's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012456", "qText": "Where is Roger Allers from?", "answers": ["Rye"], "tags": ["#basic"] }
+{ "qId": "syn012463", "qText": "Who is Roger Allers married to?", "answers": ["Leslee Allers"], "tags": ["#cvt"] }
+{ "qId": "syn012464", "qText": "When was Roman Polanski born?", "answers": ["1933-08-18"], "tags": ["#basic"] }
+{ "qId": "syn012465", "qText": "Where was Roman Polanski born?", "answers": ["Paris"], "tags": ["#basic"] }
+{ "qId": "syn012466", "qText": "What is Roman Polanski's birth place?", "answers": ["Paris"], "tags": ["#basic"] }
+{ "qId": "syn012471", "qText": "What is Roman Polanski's nationality?", "answers": ["Poland", "France"], "tags": ["#basic"] }
+{ "qId": "syn012472", "qText": "Where is Roman Polanski from?", "answers": ["Paris"], "tags": ["#basic"] }
+{ "qId": "syn012473", "qText": "How high is Roman Polanski?", "answers": ["1.651"], "tags": ["#basic"] }
+{ "qId": "syn012474", "qText": "How tall is Roman Polanski?", "answers": ["1.651"], "tags": ["#basic"] }
+{ "qId": "syn012475", "qText": "What's the Roman Polanski's height?", "answers": ["1.651"], "tags": ["#basic"] }
+{ "qId": "syn012476", "qText": "Who are the parents of Roman Polanski?", "answers": ["Ryszard Liebling", "Bula Liebling"], "tags": ["#basic"] }
+{ "qId": "syn012477", "qText": "Who is Roman Polanski's father?", "answers": ["Ryszard Liebling"], "tags": ["#cmplx"] }
+{ "qId": "syn012478", "qText": "Who is Roman Polanski's mother?", "answers": ["Bula Liebling"], "tags": ["#cmplx"] }
+{ "qId": "syn012479", "qText": "Who is Roman Polanski married to?", "answers": ["Nastassja Kinski", "Barbara Kwiatkowska-Lass", "Emmanuelle Seigner", "Sharon Tate"], "tags": ["#cvt"] }
+{ "qId": "syn012481", "qText": "Where was Ron Bozman born?", "answers": ["Dallas"], "tags": ["#basic"] }
+{ "qId": "syn012482", "qText": "What is Ron Bozman's birth place?", "answers": ["Dallas"], "tags": ["#basic"] }
+{ "qId": "syn012487", "qText": "What is Ron Bozman's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012488", "qText": "Where is Ron Bozman from?", "answers": ["Dallas"], "tags": ["#basic"] }
+{ "qId": "syn012495", "qText": "Who is Ron Bozman married to?", "answers": ["Kyle McCarthy"], "tags": ["#cvt"] }
+{ "qId": "syn012496", "qText": "When was Sally Field born?", "answers": ["1946-11-06"], "tags": ["#basic"] }
+{ "qId": "syn012497", "qText": "Where was Sally Field born?", "answers": ["Pasadena"], "tags": ["#basic"] }
+{ "qId": "syn012498", "qText": "What is Sally Field's birth place?", "answers": ["Pasadena"], "tags": ["#basic"] }
+{ "qId": "syn012503", "qText": "What is Sally Field's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012504", "qText": "Where is Sally Field from?", "answers": ["Pasadena"], "tags": ["#basic"] }
+{ "qId": "syn012505", "qText": "How high is Sally Field?", "answers": ["1.59"], "tags": ["#basic"] }
+{ "qId": "syn012506", "qText": "How tall is Sally Field?", "answers": ["1.59"], "tags": ["#basic"] }
+{ "qId": "syn012507", "qText": "What's the Sally Field's height?", "answers": ["1.59"], "tags": ["#basic"] }
+{ "qId": "syn012508", "qText": "Who are the parents of Sally Field?", "answers": ["Margaret Field", "Richard Dryden Field"], "tags": ["#basic"] }
+{ "qId": "syn012509", "qText": "Who is Sally Field's father?", "answers": ["Richard Dryden Field"], "tags": ["#cmplx"] }
+{ "qId": "syn012510", "qText": "Who is Sally Field's mother?", "answers": ["Margaret Field"], "tags": ["#cmplx"] }
+{ "qId": "syn012511", "qText": "Who is Sally Field married to?", "answers": ["Steven Craig", "Alan Greisman"], "tags": ["#cvt"] }
+{ "qId": "syn012528", "qText": "When was Sam Mendes born?", "answers": ["1965-08-01"], "tags": ["#basic"] }
+{ "qId": "syn012529", "qText": "Where was Sam Mendes born?", "answers": ["Reading"], "tags": ["#basic"] }
+{ "qId": "syn012530", "qText": "What is Sam Mendes's birth place?", "answers": ["Reading"], "tags": ["#basic"] }
+{ "qId": "syn012535", "qText": "What is Sam Mendes's nationality?", "answers": ["United Kingdom"], "tags": ["#basic"] }
+{ "qId": "syn012536", "qText": "Where is Sam Mendes from?", "answers": ["Reading"], "tags": ["#basic"] }
+{ "qId": "syn012537", "qText": "How high is Sam Mendes?", "answers": ["1.78"], "tags": ["#basic"] }
+{ "qId": "syn012538", "qText": "How tall is Sam Mendes?", "answers": ["1.78"], "tags": ["#basic"] }
+{ "qId": "syn012539", "qText": "What's the Sam Mendes's height?", "answers": ["1.78"], "tags": ["#basic"] }
+{ "qId": "syn012540", "qText": "Who are the parents of Sam Mendes?", "answers": ["Valerie Helene Mendes", "Jameson Peter Mendes"], "tags": ["#basic"] }
+{ "qId": "syn012541", "qText": "Who is Sam Mendes's father?", "answers": ["Jameson Peter Mendes"], "tags": ["#cmplx"] }
+{ "qId": "syn012542", "qText": "Who is Sam Mendes's mother?", "answers": ["Valerie Helene Mendes"], "tags": ["#cmplx"] }
+{ "qId": "syn012543", "qText": "Who is Sam Mendes married to?", "answers": ["Kate Winslet"], "tags": ["#cvt"] }
+{ "qId": "syn012544", "qText": "When was Sam Spiegel born?", "answers": ["1901-11-11"], "tags": ["#basic"] }
+{ "qId": "syn012545", "qText": "Where was Sam Spiegel born?", "answers": ["Jarosław"], "tags": ["#basic"] }
+{ "qId": "syn012546", "qText": "What is Sam Spiegel's birth place?", "answers": ["Jarosław"], "tags": ["#basic"] }
+{ "qId": "syn012547", "qText": "When did Sam Spiegel die?", "answers": ["1985-12-31"], "tags": ["#basic"] }
+{ "qId": "syn012548", "qText": "Where did Sam Spiegel die?", "answers": ["Saint Martin, Guernsey"], "tags": ["#basic"] }
+{ "qId": "syn012549", "qText": "How did Sam Spiegel die?", "answers": ["Natural causes"], "tags": ["#basic"] }
+{ "qId": "syn012551", "qText": "What is Sam Spiegel's nationality?", "answers": ["Austria", "United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012552", "qText": "Where is Sam Spiegel from?", "answers": ["Jarosław"], "tags": ["#basic"] }
+{ "qId": "syn012556", "qText": "Who are the parents of Sam Spiegel?", "answers": ["Simon Spiegel", "Regina Spiegel"], "tags": ["#basic"] }
+{ "qId": "syn012557", "qText": "Who is Sam Spiegel's father?", "answers": ["Simon Spiegel"], "tags": ["#cmplx"] }
+{ "qId": "syn012558", "qText": "Who is Sam Spiegel's mother?", "answers": ["Regina Spiegel"], "tags": ["#cmplx"] }
+{ "qId": "syn012559", "qText": "Who is Sam Spiegel married to?", "answers": ["Lynn Baggett", "Betty Spiegel", "Rachel Agranovich"], "tags": ["#cvt"] }
+{ "qId": "syn012576", "qText": "When was Saul Zaentz born?", "answers": ["1921-02-28"], "tags": ["#basic"] }
+{ "qId": "syn012577", "qText": "Where was Saul Zaentz born?", "answers": ["Passaic"], "tags": ["#basic"] }
+{ "qId": "syn012578", "qText": "What is Saul Zaentz's birth place?", "answers": ["Passaic"], "tags": ["#basic"] }
+{ "qId": "syn012579", "qText": "When did Saul Zaentz die?", "answers": ["2014-01-03"], "tags": ["#basic"] }
+{ "qId": "syn012580", "qText": "Where did Saul Zaentz die?", "answers": ["San Francisco"], "tags": ["#basic"] }
+{ "qId": "syn012581", "qText": "How did Saul Zaentz die?", "answers": ["Alzheimer's disease"], "tags": ["#basic"] }
+{ "qId": "syn012583", "qText": "What is Saul Zaentz's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012584", "qText": "Where is Saul Zaentz from?", "answers": ["Passaic"], "tags": ["#basic"] }
+{ "qId": "syn012591", "qText": "Who is Saul Zaentz married to?", "answers": ["Celia Mingus", "Lynda Redfield"], "tags": ["#cvt"] }
+{ "qId": "syn012592", "qText": "When was Scatman Crothers born?", "answers": ["1910-05-23"], "tags": ["#basic"] }
+{ "qId": "syn012593", "qText": "Where was Scatman Crothers born?", "answers": ["Terre Haute"], "tags": ["#basic"] }
+{ "qId": "syn012594", "qText": "What is Scatman Crothers's birth place?", "answers": ["Terre Haute"], "tags": ["#basic"] }
+{ "qId": "syn012595", "qText": "When did Scatman Crothers die?", "answers": ["1986-11-22"], "tags": ["#basic"] }
+{ "qId": "syn012596", "qText": "Where did Scatman Crothers die?", "answers": ["Van Nuys"], "tags": ["#basic"] }
+{ "qId": "syn012597", "qText": "How did Scatman Crothers die?", "answers": ["Pneumonia", "Lung cancer"], "tags": ["#basic"] }
+{ "qId": "syn012598", "qText": "Where is Scatman Crothers buried?", "answers": ["Forest Lawn Memorial Park"], "tags": ["#basic"] }
+{ "qId": "syn012599", "qText": "What is Scatman Crothers's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012600", "qText": "Where is Scatman Crothers from?", "answers": ["Terre Haute"], "tags": ["#basic"] }
+{ "qId": "syn012601", "qText": "How high is Scatman Crothers?", "answers": ["1.77"], "tags": ["#basic"] }
+{ "qId": "syn012602", "qText": "How tall is Scatman Crothers?", "answers": ["1.77"], "tags": ["#basic"] }
+{ "qId": "syn012603", "qText": "What's the Scatman Crothers's height?", "answers": ["1.77"], "tags": ["#basic"] }
+{ "qId": "syn012607", "qText": "Who is Scatman Crothers married to?", "answers": ["Helen Sullivan"], "tags": ["#cvt"] }
+{ "qId": "syn012608", "qText": "When was Seiji Miyaguchi born?", "answers": ["1913-11-15"], "tags": ["#basic"] }
+{ "qId": "syn012609", "qText": "Where was Seiji Miyaguchi born?", "answers": ["Tokyo City"], "tags": ["#basic"] }
+{ "qId": "syn012610", "qText": "What is Seiji Miyaguchi's birth place?", "answers": ["Tokyo City"], "tags": ["#basic"] }
+{ "qId": "syn012611", "qText": "When did Seiji Miyaguchi die?", "answers": ["1985-04-12"], "tags": ["#basic"] }
+{ "qId": "syn012612", "qText": "Where did Seiji Miyaguchi die?", "answers": ["Meguro"], "tags": ["#basic"] }
+{ "qId": "syn012613", "qText": "How did Seiji Miyaguchi die?", "answers": ["Lung cancer"], "tags": ["#basic"] }
+{ "qId": "syn012615", "qText": "What is Seiji Miyaguchi's nationality?", "answers": ["Japan"], "tags": ["#basic"] }
+{ "qId": "syn012616", "qText": "Where is Seiji Miyaguchi from?", "answers": ["Tokyo City"], "tags": ["#basic"] }
+{ "qId": "syn012624", "qText": "When was Sergio Leone born?", "answers": ["1929-01-03"], "tags": ["#basic"] }
+{ "qId": "syn012625", "qText": "Where was Sergio Leone born?", "answers": ["Rome"], "tags": ["#basic"] }
+{ "qId": "syn012626", "qText": "What is Sergio Leone's birth place?", "answers": ["Rome"], "tags": ["#basic"] }
+{ "qId": "syn012627", "qText": "When did Sergio Leone die?", "answers": ["1989-04-30"], "tags": ["#basic"] }
+{ "qId": "syn012628", "qText": "Where did Sergio Leone die?", "answers": ["Rome"], "tags": ["#basic"] }
+{ "qId": "syn012629", "qText": "How did Sergio Leone die?", "answers": ["Myocardial infarction"], "tags": ["#basic"] }
+{ "qId": "syn012631", "qText": "What is Sergio Leone's nationality?", "answers": ["Italy"], "tags": ["#basic"] }
+{ "qId": "syn012632", "qText": "Where is Sergio Leone from?", "answers": ["Rome"], "tags": ["#basic"] }
+{ "qId": "syn012633", "qText": "How high is Sergio Leone?", "answers": ["1.73"], "tags": ["#basic"] }
+{ "qId": "syn012634", "qText": "How tall is Sergio Leone?", "answers": ["1.73"], "tags": ["#basic"] }
+{ "qId": "syn012635", "qText": "What's the Sergio Leone's height?", "answers": ["1.73"], "tags": ["#basic"] }
+{ "qId": "syn012636", "qText": "Who are the parents of Sergio Leone?", "answers": ["Roberto Roberti", "Bice Waleran"], "tags": ["#basic"] }
+{ "qId": "syn012637", "qText": "Who is Sergio Leone's father?", "answers": ["Roberto Roberti"], "tags": ["#cmplx"] }
+{ "qId": "syn012638", "qText": "Who is Sergio Leone's mother?", "answers": ["Bice Waleran"], "tags": ["#cmplx"] }
+{ "qId": "syn012639", "qText": "Who is Sergio Leone married to?", "answers": ["Carla Leone"], "tags": ["#cvt"] }
+{ "qId": "syn012640", "qText": "When was Sigourney Weaver born?", "answers": ["1949-10-08"], "tags": ["#basic"] }
+{ "qId": "syn012641", "qText": "Where was Sigourney Weaver born?", "answers": ["Manhattan"], "tags": ["#basic"] }
+{ "qId": "syn012642", "qText": "What is Sigourney Weaver's birth place?", "answers": ["Manhattan"], "tags": ["#basic"] }
+{ "qId": "syn012647", "qText": "What is Sigourney Weaver's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012648", "qText": "Where is Sigourney Weaver from?", "answers": ["Manhattan"], "tags": ["#basic"] }
+{ "qId": "syn012649", "qText": "How high is Sigourney Weaver?", "answers": ["1.82"], "tags": ["#basic"] }
+{ "qId": "syn012650", "qText": "How tall is Sigourney Weaver?", "answers": ["1.82"], "tags": ["#basic"] }
+{ "qId": "syn012651", "qText": "What's the Sigourney Weaver's height?", "answers": ["1.82"], "tags": ["#basic"] }
+{ "qId": "syn012652", "qText": "Who are the parents of Sigourney Weaver?", "answers": ["Sylvester Weaver", "Elizabeth Inglis"], "tags": ["#basic"] }
+{ "qId": "syn012653", "qText": "Who is Sigourney Weaver's father?", "answers": ["Sylvester Weaver"], "tags": ["#cmplx"] }
+{ "qId": "syn012654", "qText": "Who is Sigourney Weaver's mother?", "answers": ["Elizabeth Inglis"], "tags": ["#cmplx"] }
+{ "qId": "syn012655", "qText": "Who is Sigourney Weaver married to?", "answers": ["Jim Simpson"], "tags": ["#cvt"] }
+{ "qId": "syn012672", "qText": "When was Stanley Kubrick born?", "answers": ["1928-07-26"], "tags": ["#basic"] }
+{ "qId": "syn012673", "qText": "Where was Stanley Kubrick born?", "answers": ["Manhattan"], "tags": ["#basic"] }
+{ "qId": "syn012674", "qText": "What is Stanley Kubrick's birth place?", "answers": ["Manhattan"], "tags": ["#basic"] }
+{ "qId": "syn012675", "qText": "When did Stanley Kubrick die?", "answers": ["1999-03-07"], "tags": ["#basic"] }
+{ "qId": "syn012676", "qText": "Where did Stanley Kubrick die?", "answers": ["St Albans"], "tags": ["#basic"] }
+{ "qId": "syn012677", "qText": "How did Stanley Kubrick die?", "answers": ["Myocardial infarction"], "tags": ["#basic"] }
+{ "qId": "syn012678", "qText": "Where is Stanley Kubrick buried?", "answers": ["Childwickbury Manor"], "tags": ["#basic"] }
+{ "qId": "syn012679", "qText": "What is Stanley Kubrick's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012680", "qText": "Where is Stanley Kubrick from?", "answers": ["Manhattan"], "tags": ["#basic"] }
+{ "qId": "syn012684", "qText": "Who are the parents of Stanley Kubrick?", "answers": ["Gertrude Kubrick", "Jacques Leonard Kubrick"], "tags": ["#basic"] }
+{ "qId": "syn012685", "qText": "Who is Stanley Kubrick's father?", "answers": ["Jacques Leonard Kubrick"], "tags": ["#cmplx"] }
+{ "qId": "syn012686", "qText": "Who is Stanley Kubrick's mother?", "answers": ["Gertrude Kubrick"], "tags": ["#cmplx"] }
+{ "qId": "syn012687", "qText": "Who is Stanley Kubrick married to?", "answers": ["Ruth Sobotka", "Christiane Kubrick", "Toba Metz"], "tags": ["#cvt"] }
+{ "qId": "syn012688", "qText": "When was Steve Golin born?", "answers": ["1955-03-06"], "tags": ["#basic"] }
+{ "qId": "syn012689", "qText": "Where was Steve Golin born?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012690", "qText": "What is Steve Golin's birth place?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012695", "qText": "What is Steve Golin's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012696", "qText": "Where is Steve Golin from?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012711", "qText": "What is Steve Starkey's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012720", "qText": "When was Steven Spielberg born?", "answers": ["1946-12-18"], "tags": ["#basic"] }
+{ "qId": "syn012721", "qText": "Where was Steven Spielberg born?", "answers": ["Cincinnati"], "tags": ["#basic"] }
+{ "qId": "syn012722", "qText": "What is Steven Spielberg's birth place?", "answers": ["Cincinnati"], "tags": ["#basic"] }
+{ "qId": "syn012727", "qText": "What is Steven Spielberg's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012728", "qText": "Where is Steven Spielberg from?", "answers": ["Cincinnati"], "tags": ["#basic"] }
+{ "qId": "syn012729", "qText": "How high is Steven Spielberg?", "answers": ["1.715"], "tags": ["#basic"] }
+{ "qId": "syn012730", "qText": "How tall is Steven Spielberg?", "answers": ["1.715"], "tags": ["#basic"] }
+{ "qId": "syn012731", "qText": "What's the Steven Spielberg's height?", "answers": ["1.715"], "tags": ["#basic"] }
+{ "qId": "syn012732", "qText": "Who are the parents of Steven Spielberg?", "answers": ["Leah Adler", "Arnold Spielberg"], "tags": ["#basic"] }
+{ "qId": "syn012733", "qText": "Who is Steven Spielberg's father?", "answers": ["Arnold Spielberg"], "tags": ["#cmplx"] }
+{ "qId": "syn012734", "qText": "Who is Steven Spielberg's mother?", "answers": ["Leah Adler"], "tags": ["#cmplx"] }
+{ "qId": "syn012735", "qText": "Who is Steven Spielberg married to?", "answers": ["Kate Capshaw", "Amy Irving"], "tags": ["#cvt"] }
+{ "qId": "syn012736", "qText": "When was Stuart Holmes born?", "answers": ["1884-03-10"], "tags": ["#basic"] }
+{ "qId": "syn012737", "qText": "Where was Stuart Holmes born?", "answers": ["Chicago"], "tags": ["#basic"] }
+{ "qId": "syn012738", "qText": "What is Stuart Holmes's birth place?", "answers": ["Chicago"], "tags": ["#basic"] }
+{ "qId": "syn012739", "qText": "When did Stuart Holmes die?", "answers": ["1971-12-29"], "tags": ["#basic"] }
+{ "qId": "syn012740", "qText": "Where did Stuart Holmes die?", "answers": ["Hollywood"], "tags": ["#basic"] }
+{ "qId": "syn012743", "qText": "What is Stuart Holmes's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012744", "qText": "Where is Stuart Holmes from?", "answers": ["Chicago"], "tags": ["#basic"] }
+{ "qId": "syn012751", "qText": "Who is Stuart Holmes married to?", "answers": ["Blanche Maynard"], "tags": ["#cvt"] }
+{ "qId": "syn012752", "qText": "When was Suzanne Todd born?", "answers": ["1969-10-03"], "tags": ["#basic"] }
+{ "qId": "syn012753", "qText": "Where was Suzanne Todd born?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn012754", "qText": "What is Suzanne Todd's birth place?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn012759", "qText": "What is Suzanne Todd's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012760", "qText": "Where is Suzanne Todd from?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn012767", "qText": "Who is Suzanne Todd married to?", "answers": ["Chris Messina"], "tags": ["#cvt"] }
+{ "qId": "syn012768", "qText": "When was Sydney Lassick born?", "answers": ["1922-07-23"], "tags": ["#basic"] }
+{ "qId": "syn012769", "qText": "Where was Sydney Lassick born?", "answers": ["Chicago"], "tags": ["#basic"] }
+{ "qId": "syn012770", "qText": "What is Sydney Lassick's birth place?", "answers": ["Chicago"], "tags": ["#basic"] }
+{ "qId": "syn012771", "qText": "When did Sydney Lassick die?", "answers": ["2003-04-12"], "tags": ["#basic"] }
+{ "qId": "syn012772", "qText": "Where did Sydney Lassick die?", "answers": ["Los Angeles"], "tags": ["#basic"] }
+{ "qId": "syn012773", "qText": "How did Sydney Lassick die?", "answers": ["Diabetes mellitus"], "tags": ["#basic"] }
+{ "qId": "syn012774", "qText": "Where is Sydney Lassick buried?", "answers": ["Mount Sinai Memorial Park Cemetery"], "tags": ["#basic"] }
+{ "qId": "syn012775", "qText": "What is Sydney Lassick's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012776", "qText": "Where is Sydney Lassick from?", "answers": ["Chicago"], "tags": ["#basic"] }
+{ "qId": "syn012777", "qText": "How high is Sydney Lassick?", "answers": ["1.65"], "tags": ["#basic"] }
+{ "qId": "syn012778", "qText": "How tall is Sydney Lassick?", "answers": ["1.65"], "tags": ["#basic"] }
+{ "qId": "syn012779", "qText": "What's the Sydney Lassick's height?", "answers": ["1.65"], "tags": ["#basic"] }
+{ "qId": "syn012784", "qText": "When was Terry Jones born?", "answers": ["1942-02-01"], "tags": ["#basic"] }
+{ "qId": "syn012785", "qText": "Where was Terry Jones born?", "answers": ["Colwyn Bay"], "tags": ["#basic"] }
+{ "qId": "syn012786", "qText": "What is Terry Jones's birth place?", "answers": ["Colwyn Bay"], "tags": ["#basic"] }
+{ "qId": "syn012791", "qText": "What is Terry Jones's nationality?", "answers": ["United Kingdom"], "tags": ["#basic"] }
+{ "qId": "syn012792", "qText": "Where is Terry Jones from?", "answers": ["Colwyn Bay"], "tags": ["#basic"] }
+{ "qId": "syn012793", "qText": "How high is Terry Jones?", "answers": ["1.73"], "tags": ["#basic"] }
+{ "qId": "syn012794", "qText": "How tall is Terry Jones?", "answers": ["1.73"], "tags": ["#basic"] }
+{ "qId": "syn012795", "qText": "What's the Terry Jones's height?", "answers": ["1.73"], "tags": ["#basic"] }
+{ "qId": "syn012799", "qText": "Who is Terry Jones married to?", "answers": ["Anna Soderstrom", "Alison Telfer"], "tags": ["#cvt"] }
+{ "qId": "syn012800", "qText": "When was Tip Tipping born?", "answers": ["1958-02-13"], "tags": ["#basic"] }
+{ "qId": "syn012801", "qText": "Where was Tip Tipping born?", "answers": ["United Kingdom"], "tags": ["#basic"] }
+{ "qId": "syn012802", "qText": "What is Tip Tipping's birth place?", "answers": ["United Kingdom"], "tags": ["#basic"] }
+{ "qId": "syn012803", "qText": "When did Tip Tipping die?", "answers": ["1993-02-05"], "tags": ["#basic"] }
+{ "qId": "syn012804", "qText": "Where did Tip Tipping die?", "answers": ["Brunton"], "tags": ["#basic"] }
+{ "qId": "syn012807", "qText": "What is Tip Tipping's nationality?", "answers": ["United Kingdom"], "tags": ["#basic"] }
+{ "qId": "syn012808", "qText": "Where is Tip Tipping from?", "answers": ["United Kingdom"], "tags": ["#basic"] }
+{ "qId": "syn012816", "qText": "When was Tom Powers born?", "answers": ["1890-07-07"], "tags": ["#basic"] }
+{ "qId": "syn012817", "qText": "Where was Tom Powers born?", "answers": ["Owensboro"], "tags": ["#basic"] }
+{ "qId": "syn012818", "qText": "What is Tom Powers's birth place?", "answers": ["Owensboro"], "tags": ["#basic"] }
+{ "qId": "syn012819", "qText": "When did Tom Powers die?", "answers": ["1955-11-07"], "tags": ["#basic"] }
+{ "qId": "syn012820", "qText": "Where did Tom Powers die?", "answers": ["Hollywood"], "tags": ["#basic"] }
+{ "qId": "syn012821", "qText": "How did Tom Powers die?", "answers": ["Cardiovascular disease"], "tags": ["#basic"] }
+{ "qId": "syn012822", "qText": "Where is Tom Powers buried?", "answers": ["Valhalla Memorial Park Cemetery"], "tags": ["#basic"] }
+{ "qId": "syn012823", "qText": "What is Tom Powers's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012824", "qText": "Where is Tom Powers from?", "answers": ["Owensboro"], "tags": ["#basic"] }
+{ "qId": "syn012831", "qText": "Who is Tom Powers married to?", "answers": ["Anita Janney"], "tags": ["#cvt"] }
+{ "qId": "syn012832", "qText": "When was Tony Kaye born?", "answers": ["1946-01-11"], "tags": ["#basic"] }
+{ "qId": "syn012833", "qText": "Where was Tony Kaye born?", "answers": ["Leicester"], "tags": ["#basic"] }
+{ "qId": "syn012834", "qText": "What is Tony Kaye's birth place?", "answers": ["Leicester"], "tags": ["#basic"] }
+{ "qId": "syn012839", "qText": "What is Tony Kaye's nationality?", "answers": ["England"], "tags": ["#basic"] }
+{ "qId": "syn012840", "qText": "Where is Tony Kaye from?", "answers": ["Leicester"], "tags": ["#basic"] }
+{ "qId": "syn012847", "qText": "Who is Tony Kaye married to?", "answers": ["Daniela Torchia", "Denise Della-Quilla"], "tags": ["#cvt"] }
+{ "qId": "syn012864", "qText": "When was Toshio Suzuki born?", "answers": ["1948-08-19"], "tags": ["#basic"] }
+{ "qId": "syn012865", "qText": "Where was Toshio Suzuki born?", "answers": ["Nagoya"], "tags": ["#basic"] }
+{ "qId": "syn012866", "qText": "What is Toshio Suzuki's birth place?", "answers": ["Nagoya"], "tags": ["#basic"] }
+{ "qId": "syn012871", "qText": "What is Toshio Suzuki's nationality?", "answers": ["Japan"], "tags": ["#basic"] }
+{ "qId": "syn012872", "qText": "Where is Toshio Suzuki from?", "answers": ["Nagoya"], "tags": ["#basic"] }
+{ "qId": "syn012896", "qText": "When was Vittorio De Sica born?", "answers": ["1901-07-07"], "tags": ["#basic"] }
+{ "qId": "syn012897", "qText": "Where was Vittorio De Sica born?", "answers": ["Sora"], "tags": ["#basic"] }
+{ "qId": "syn012898", "qText": "What is Vittorio De Sica's birth place?", "answers": ["Sora"], "tags": ["#basic"] }
+{ "qId": "syn012899", "qText": "When did Vittorio De Sica die?", "answers": ["1974-11-13"], "tags": ["#basic"] }
+{ "qId": "syn012900", "qText": "Where did Vittorio De Sica die?", "answers": ["Neuilly-sur-Seine"], "tags": ["#basic"] }
+{ "qId": "syn012903", "qText": "What is Vittorio De Sica's nationality?", "answers": ["France", "Italy"], "tags": ["#basic"] }
+{ "qId": "syn012904", "qText": "Where is Vittorio De Sica from?", "answers": ["Sora"], "tags": ["#basic"] }
+{ "qId": "syn012908", "qText": "Who are the parents of Vittorio De Sica?", "answers": ["Teresa Manfredi", "Umberto De Sica"], "tags": ["#basic"] }
+{ "qId": "syn012909", "qText": "Who is Vittorio De Sica's father?", "answers": ["Umberto De Sica"], "tags": ["#cmplx"] }
+{ "qId": "syn012910", "qText": "Who is Vittorio De Sica's mother?", "answers": ["Teresa Manfredi"], "tags": ["#cmplx"] }
+{ "qId": "syn012911", "qText": "Who is Vittorio De Sica married to?", "answers": ["María Mercader", "Giuditta Rissone"], "tags": ["#cvt"] }
+{ "qId": "syn012912", "qText": "When was Wade Williams born?", "answers": ["1961-12-24"], "tags": ["#basic"] }
+{ "qId": "syn012913", "qText": "Where was Wade Williams born?", "answers": ["Tulsa"], "tags": ["#basic"] }
+{ "qId": "syn012914", "qText": "What is Wade Williams's birth place?", "answers": ["Tulsa"], "tags": ["#basic"] }
+{ "qId": "syn012919", "qText": "What is Wade Williams's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012920", "qText": "Where is Wade Williams from?", "answers": ["Tulsa"], "tags": ["#basic"] }
+{ "qId": "syn012921", "qText": "How high is Wade Williams?", "answers": ["1.803"], "tags": ["#basic"] }
+{ "qId": "syn012922", "qText": "How tall is Wade Williams?", "answers": ["1.803"], "tags": ["#basic"] }
+{ "qId": "syn012923", "qText": "What's the Wade Williams's height?", "answers": ["1.803"], "tags": ["#basic"] }
+{ "qId": "syn012928", "qText": "When was Walter Hill born?", "answers": ["1942-01-10"], "tags": ["#basic"] }
+{ "qId": "syn012929", "qText": "Where was Walter Hill born?", "answers": ["Long Beach"], "tags": ["#basic"] }
+{ "qId": "syn012930", "qText": "What is Walter Hill's birth place?", "answers": ["Long Beach"], "tags": ["#basic"] }
+{ "qId": "syn012935", "qText": "What is Walter Hill's nationality?", "answers": ["United States of America"], "tags": ["#basic"] }
+{ "qId": "syn012936", "qText": "Where is Walter Hill from?", "answers": ["Long Beach"], "tags": ["#basic"] }
+{ "qId": "syn012943", "qText": "Who is Walter Hill married to?", "answers": ["Hildy Gottlieb"], "tags": ["#cvt"] }
+{ "qId": "syn012944", "qText": "When was Wolfgang Petersen born?", "answers": ["1941-03-14"], "tags": ["#basic"] }
+{ "qId": "syn012945", "qText": "Where was Wolfgang Petersen born?", "answers": ["Emden"], "tags": ["#basic"] }
+{ "qId": "syn012946", "qText": "What is Wolfgang Petersen's birth place?", "answers": ["Emden"], "tags": ["#basic"] }
+{ "qId": "syn012951", "qText": "What is Wolfgang Petersen's nationality?", "answers": ["Germany"], "tags": ["#basic"] }
+{ "qId": "syn012952", "qText": "Where is Wolfgang Petersen from?", "answers": ["Emden"], "tags": ["#basic"] }
+{ "qId": "syn012953", "qText": "How high is Wolfgang Petersen?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn012954", "qText": "How tall is Wolfgang Petersen?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn012955", "qText": "What's the Wolfgang Petersen's height?", "answers": ["1.8"], "tags": ["#basic"] }
+{ "qId": "syn012959", "qText": "Who is Wolfgang Petersen married to?", "answers": ["Ursula Sieg", "Maria Borgel-Petersen"], "tags": ["#cvt"] }
