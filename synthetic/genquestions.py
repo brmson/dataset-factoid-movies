@@ -10,27 +10,74 @@
 from collections import namedtuple
 from SPARQLWrapper import SPARQLWrapper, JSON
 import json, sys
+import urllib
 
-url = 'http://freebase.ailao.eu:3030/freebase/query'
+fburl = 'http://freebase.ailao.eu:3030/freebase/query'
+dbpurl = 'http://dbpedia.ailao.eu:3030/dbpedia/query'
+labelurl = 'http://pasky.or.cz:5001/'
 
-def queryFreebaseKey(label):
-    sparql = SPARQLWrapper(url)
+def queryWikipediaLabel(name):
+    response = urllib.request.urlopen(labelurl + 'search/' + urllib.parse.quote(name))
+    jsonres = response.read().decode('utf8')
+    res = json.loads(jsonres)
+    return res['results'][0]['name'] if res['results'] else None
+
+def queryWikipediaIdRedirected(label):
+    if label is None: return None
+    sparql = SPARQLWrapper(dbpurl)
+    sparql.setReturnFormat(JSON)
+    sparql_query = '''
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT DISTINCT ?pageID WHERE { 
+<http://dbpedia.org/resource/''' + label + '''> <http://dbpedia.org/ontology/wikiPageRedirects> ?tgt .
+?tgt <http://dbpedia.org/ontology/wikiPageID> ?pageID .
+} '''
+    sparql.setQuery(sparql_query)
+    res = sparql.query().convert()
+    retVal = []
+    for r in res['results']['bindings']:
+        retVal.append(r['pageID']['value'])
+    return retVal[0] if retVal else None
+
+def queryWikipediaId(label):
+    if label is None: return None
+    # first, check if this is a redirect and traverse it
+    retVal = queryWikipediaIdRedirected(label)
+    if retVal is not None:
+        return retVal
+    sparql = SPARQLWrapper(dbpurl)
+    sparql.setReturnFormat(JSON)
+    sparql_query = '''
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT DISTINCT ?pageID WHERE { 
+<http://dbpedia.org/resource/''' + label + '''> <http://dbpedia.org/ontology/wikiPageID> ?pageID .
+} '''
+    sparql.setQuery(sparql_query)
+    res = sparql.query().convert()
+    retVal = []
+    for r in res['results']['bindings']:
+        retVal.append(r['pageID']['value'])
+    return retVal[0] if retVal else None
+
+def queryFreebaseKey(pageID):
+    if pageID is None: return None
+    sparql = SPARQLWrapper(fburl)
     sparql.setReturnFormat(JSON)
     sparql_query = '''
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ns: <http://rdf.freebase.com/ns/>
 SELECT DISTINCT ?topic WHERE { 
-?topic rdfs:label "''' + label + '''"@en .
+?topic <http://rdf.freebase.com/key/wikipedia.en_id> "''' + pageID + '''" .
 } '''
     sparql.setQuery(sparql_query)
     res = sparql.query().convert()
     retVal = []
     for r in res['results']['bindings']:
         retVal.append(r['topic']['value'])
-    return retVal[0]
+    return retVal[0] if retVal else None
 
 def queryAnswer(query):
-    sparql = SPARQLWrapper(url)
+    sparql = SPARQLWrapper(fburl)
     sparql.setReturnFormat(JSON)
     sparql_query = '''
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
@@ -40,7 +87,6 @@ SELECT DISTINCT ?ans WHERE {
 OPTIONAL { ?a rdfs:label ?alabel . FILTER(LANG(?alabel) = "en") }
 BIND(IF(BOUND(?alabel), ?alabel, ?a) AS ?ans)
 }'''
-    # print(sparql_query)
     sparql.setQuery(sparql_query)
     res = sparql.query().convert()
     retVal = []
@@ -56,6 +102,9 @@ def genquestion(n, q, edict):
         entname, enturl = entity
         qText = qText.replace('$'+elabel, entname)
         query = query.replace('$'+elabel, '<'+enturl+'>')
+    if '$' in query or '$' in qText:
+        print('Unsubstituted variable: '+qText, file=sys.stderr)
+        return
     answers = queryAnswer(query)
     if not answers:
         print('No answer (skipping): '+qText, file=sys.stderr)
@@ -88,12 +137,17 @@ if __name__ == "__main__":
             labels = sys.argv[3].split(',')
             edict = dict()
             for i in range(len(labels)):
-                edict[labels[i]] = (ents[i], queryFreebaseKey(ents[i]))
+                fbkey = queryFreebaseKey(queryWikipediaId(queryWikipediaLabel(ents[i])))
+                print('%s: %s' % (ents[i], fbkey), file=sys.stderr)
+                if not fbkey:
+                    continue
+                edict[labels[i]] = (ents[i], fbkey)
             # print(edict)
             entities.append(edict)
 
     n = 0
     for edict in entities:
+        print('... ' + ', '.join(edict.keys()), file=sys.stderr)
         for q in questions:
             genquestion(n, q, edict)
             n += 1
