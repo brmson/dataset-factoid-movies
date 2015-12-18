@@ -48,3 +48,9 @@ and public feedback in our 2 spreadsheets (downloaded 17.8.2015):
 
 **moviesE** is an update of moviesD on 2015-12-10 and inclusion of
 synthetic questions gen v0.
+
+Licence and Acknowledgements
+----------------------------
+
+This dataset may be distributed under the terms of the CC-BY 4.0 licence.
+Work on this project has been supported in part by the Medialab foundation.
