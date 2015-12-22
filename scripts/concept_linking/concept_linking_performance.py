@@ -1,13 +1,21 @@
 #!/usr/bin/pypy
+#
 # Measures YodaQA concept linking performance
-# requires the fixed QuestionDump json, the gold standard tsv file and the dataset
+#
+# Usage: concept_linking_performance.py questionDump.json conceptGoldStandard.json questionEvaluation.tsv
+#
+# requires the QuestionDump json (analysis of questions by YodaQA, including
+# its concept suggestions that we are benchmarking), the dataset with correct
+# concepts associated with the questions, and the final answer output of YodaQA
+# for the questions (to measure impact of incorrect concept linking on
+# end-to-end performance)
+#
 # exact match means all correct concepts were found
 # partial match means -some- (atleast one) correct concept were found
 # incorrect means no expected concept was found
 # then there is the total number of concepts found vs expected
 # ...as precision (correct_found / all_found) and recall (correct_found / correct_all)
-# usage:
-# python concept_linking_performance.py questionDump.json correct_dataset.json GS_dump.tsv
+
 from __future__ import print_function
 from __future__ import division
 import sys
