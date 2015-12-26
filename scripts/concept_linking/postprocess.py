@@ -9,9 +9,9 @@ import json
 
 
 def fix_json(input_filename, output_filename):
-	"""
-	Takes the output from webapi and creates a valid json array
-	"""
+    """
+    Takes the output from webapi and creates a valid json array
+    """
     json_to_fix = open(input_filename, 'r')
     fixed_json = open(output_filename, 'w')
     lines = json_to_fix.readlines()
@@ -27,10 +27,10 @@ def fix_json(input_filename, output_filename):
     print("]", file = fixed_json)
 
 def find_duplicates(concept_list):
-	"""
-	takes a json array and and returns a list of duplicates
-	has O(n^2) complexity
-	"""
+    """
+    takes a json array and and returns a list of duplicates
+    has O(n^2) complexity
+    """
     enumerated_concept_list = enumerate(concept_list)
     duplicated_concepts = []
     for i, concept in enumerated_concept_list:
@@ -44,9 +44,9 @@ def find_duplicates(concept_list):
     return duplicated_concepts
 
 def check_all_qIds(entity_linking_dataset, original_dataset):
-	"""
-	takes a valid json and the original dataset return a list of missing questions
-	"""
+    """
+    takes a valid json and the original dataset return a list of missing questions
+    """
     result_list = []
     for question in original_dataset:
         found = False
@@ -59,12 +59,12 @@ def check_all_qIds(entity_linking_dataset, original_dataset):
     return result_list
 
 def sort(output_filename):
-	"""
-	takes a filename of a valid json array and sorts it
-	first by the origin and then the number 
-	outputs it in the same file 
-	"""
-	d = json.load(open(output_filename))
+    """
+    takes a filename of a valid json array and sorts it
+    first by the origin and then the number 
+    outputs it in the same file 
+    """
+    d = json.load(open(output_filename))
     d.sort(key=get_qId_last)
     d.sort(key=get_qId_first, reverse=True)
     output = open(output_filename,"w")
@@ -78,10 +78,10 @@ def sort(output_filename):
             print('  %s' % (json.dumps(entry, sort_keys=True),), file=output)
         i += 1
     print("]", file = output)
-		
+        
 
 def get_qId_first(json):
-	return json['qId'][:3]
+    return json['qId'][:3]
 
 def get_qId_last(json):
     return json['qId'][6:]
