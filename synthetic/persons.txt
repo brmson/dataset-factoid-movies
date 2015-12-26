@@ -1,19 +1,19 @@
 Adryn White
 Akemi Yamaguchi
 Akira Kurosawa
-Al Ernest Garcia
 Alain Sarde
 Alan Ladd, Jr.
-Albert S. Ruddy
 Alberto Grimaldi
+Albert S. Ruddy
+Al Ernest Garcia
 Alfred Hitchcock
 Amanda Plummer
 Andrew Stanton
 Andy Wachowski
 Arnold Kopelson
 Arnon Milchan
-Art Linson
 Arthur Freed
+Art Linson
 Basil McCurry
 Bill Gratton
 Billy Dee Williams
@@ -39,11 +39,11 @@ David Fincher
 David Lean
 Deirdre O'Connell
 Derek Jacobi
-Don Hahn
 Donald W. Ernst
+Don Hahn
 Douglas Wick
-Ed Vantura
 Eddie Powell
+Ed Vantura
 Elda Ferri
 Elena Altieri
 Eli Wallach
@@ -52,7 +52,6 @@ Eric Meyers
 Ethan Suplee
 Father Elias
 Florian Henckel von Donnersmarck
-Fran Walsh
 Francis Ford Coppola
 Franco Cristaldi
 Frank Adu
@@ -60,9 +59,9 @@ Frank Capra
 Frank Darabont
 Frank Marshall
 Frank Pesce
+Fran Walsh
 Fred Roos
 Fulvio Morsella
-Günter Rohrbach
 Gale Anne Hurd
 Gary Kurtz
 Gene Kelly
@@ -72,6 +71,7 @@ George Roy Hill
 Giuseppe Amato
 Giuseppe Tornatore
 Gloria Graham
+Günter Rohrbach
 Guy Ritchie
 Havis Davenport
 Hayao Miyazaki
@@ -149,8 +149,8 @@ Ralph Guggenheim
 Ray Walker
 Richard Marquand
 Ridley Scott
-Robert Zemeckis
 Roberto Benigni
+Robert Zemeckis
 Roger Allers
 Roman Polanski
 Ron Bozman
@@ -167,8 +167,8 @@ Sigourney Weaver
 Sojiro Motoki
 Stanley Kubrick
 Steve Golin
-Steve Starkey
 Steven Spielberg
+Steve Starkey
 Stuart Holmes
 Suzanne Todd
 Sydney Lassick
