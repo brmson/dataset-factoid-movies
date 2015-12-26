@@ -15,18 +15,26 @@ grep 'who is the star' q-movies.json  | sed -r 's/[^[]*\["//; s/".*//' | sort | 
 # pick every 7-th line to trim things down
 n=0
 cat q-movies.json q-persons.json q-directors.json q-actors.json q-movie-characters.json |
-	while read l; do [ $((n++%7)) != 0 ] || echo "$l"; done >synthetic-.json
+	while read l; 
+	do 
+		n=$((n+1)); 
+		[ $(((n-1)%7)) != 0 ] || echo "$l"; 
+	done > synthetic-.json
 
 # split 3:1 to train:test
 rm -f synthetic-train-.json synthetic-test-.json
 n=0
 cat synthetic-.json | while read l; do
-	if [ $((n++%4)) != 3 ]; then
+	
+	if [ $((n%4)) != 3 ]; then
 		echo "$l" >>synthetic-train-.json;
 	else
 		echo "$l" >>synthetic-test-.json;
 	fi
+	n=$((n+1))
 	done
+
+
 python ../../yodaqa/data/ml/repair-json.py synthetic-train-.json >synthetic-train.json
 python ../../yodaqa/data/ml/repair-json.py synthetic-test-.json >synthetic-test.json
 rm synthetic-.json synthetic-train-.json synthetic-test-.json

@@ -109,7 +109,8 @@ def genquestion(n, edict):
                     (n+1, 'Who did '+actor+' play in '+edict['MOVIE'][0]+'?', character),
                 ]:
             qid = 'syn%02d%04d' % (int(sys.argv[2]), i)
-            print('{ "qId": "%s", "qText": "%s", "answers": [%s], "tags": ["%s"] }' % (qid, qText, '"'+ans+'"', "cvt"))
+            print('{ "qId": "%s", "qText": "%s", "answers": [%s], "Concept": [{"fullLabel": "%s", "pageID": "%s"}], "tags": ["%s"] }' % \
+                (qid, qText, '"'+ans+'"', edict['MOVIE'][0],edict['MOVIE'][2], "cvt"))
 
 
 if __name__ == "__main__":
@@ -121,11 +122,13 @@ if __name__ == "__main__":
             labels = ['MOVIE']
             edict = dict()
             for i in range(len(labels)):
+                wiki_id = queryWikipediaId(queryWikipediaLabel(ents[i]))                        
                 fbkey = queryFreebaseKey(queryWikipediaId(queryWikipediaLabel(ents[i])))
-                print('%s: %s' % (ents[i], fbkey), file=sys.stderr)
+                fbkey = queryFreebaseKey(wiki_id)                       
+                print('%s: %s (%s)' % (ents[i], fbkey, wiki_id), file=sys.stderr)
                 if not fbkey:
                     continue
-                edict[labels[i]] = (ents[i], fbkey)
+                edict[labels[i]] = (ents[i], fbkey, wiki_id)
             # print(edict)
             entities.append(edict)
 

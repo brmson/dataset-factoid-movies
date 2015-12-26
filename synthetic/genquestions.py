@@ -99,7 +99,7 @@ def genquestion(n, q, edict):
     qText = q.qText
     query = q.query
     for elabel, entity in edict.items():
-        entname, enturl = entity
+        entname, enturl, entwikiid = entity
         qText = qText.replace('$'+elabel, entname)
         query = query.replace('$'+elabel, '<'+enturl+'>')
     if '$' in query or '$' in qText:
@@ -111,7 +111,8 @@ def genquestion(n, q, edict):
         return
 
     qid = 'syn%02d%04d' % (int(sys.argv[4]), n)
-    print('{ "qId": "%s", "qText": "%s", "answers": [%s], "tags": ["%s"] }' % (qid, qText, ', '.join(['"'+a+'"' for a in answers]), q.tag))
+    print('{ "qId": "%s", "qText": "%s", "answers": [%s], "Concept": [{"fullLabel": "%s", "pageID": "%s"}], "tags": ["%s"] }' % \
+        (qid, qText, ', '.join(['"'+a+'"' for a in answers]), entname, entwikiid, q.tag))
 
 Question = namedtuple("Question", "qText query tag")
 
@@ -137,11 +138,12 @@ if __name__ == "__main__":
             labels = sys.argv[3].split(',')
             edict = dict()
             for i in range(len(labels)):
-                fbkey = queryFreebaseKey(queryWikipediaId(queryWikipediaLabel(ents[i])))
+                wiki_id=queryWikipediaId(queryWikipediaLabel(ents[i]))
+                fbkey = queryFreebaseKey(wiki_id)
                 print('%s: %s' % (ents[i], fbkey), file=sys.stderr)
                 if not fbkey:
                     continue
-                edict[labels[i]] = (ents[i], fbkey)
+                edict[labels[i]] = (ents[i], fbkey, wiki_id)
             # print(edict)
             entities.append(edict)
 
