@@ -84,7 +84,7 @@ def get_qId_first(json):
     return json['qId'][:3]
 
 def get_qId_last(json):
-    return json['qId'][6:]
+    return json['qId'][-6:]
 
 def main():
     dataset_from_webapi = sys.argv[1]
