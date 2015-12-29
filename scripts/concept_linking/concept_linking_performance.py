@@ -49,7 +49,7 @@ def load_from_tsv(filename):
     return qid_rank_dict
 
 
-def compare(dataset, correct):
+def compare(dataset, correct, common_qids):
     concepts_gs = 0
     concepts_gen_correct = 0
     concepts_gen_all = 0
@@ -62,9 +62,12 @@ def compare(dataset, correct):
     none_found_set = set()
     total_mrr = set()
     total = len(dataset)
-    for entry, standard in zip(dataset, correct):
+    for qid in sorted(common_qids):
+        entry=dataset[qid]
+        standard=correct[qid]
+
         total_mrr.add(entry['qId'])
-        if entry['qId'] != standard['qId']:
+        if entry['qId'] != standard['qId']: #todo: remove, since it will not be used
             print("Incorrect match. Please sort dataset")
             break
         found_one = False
@@ -152,11 +155,25 @@ def compare(dataset, correct):
     print("total MRR: %.3f" % (calculate_mrr(total_mrr)[0]))
 
 
+def json2dict(json):
+    d={}
+    for e in json:
+        d[e["qId"]]=e
+    return d
+
+
 def main():
-    dataset = json.load(open(sys.argv[1], 'r'))
-    correct = json.load(open(sys.argv[2], 'r'))
+    dataset = json2dict(json.load(open(sys.argv[1], 'r')))
+    correct = json2dict(json.load(open(sys.argv[2], 'r')))
     load_from_tsv(sys.argv[3])
-    compare(dataset, correct)
+
+    datased_qids = set(dataset.keys())
+    correct_qids = set(correct.keys())
+    tsv_qids = set(qid_rank_dict.keys())
+
+    common_qids = datased_qids & correct_qids & tsv_qids
+
+    compare(dataset, correct, common_qids)
 
 
 if __name__ == '__main__':
