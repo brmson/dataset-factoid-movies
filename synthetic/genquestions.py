@@ -14,7 +14,7 @@ import urllib
 
 fburl = 'http://freebase.ailao.eu:3030/freebase/query'
 dbpurl = 'http://dbpedia.ailao.eu:3030/dbpedia/query'
-labelurl = 'http://pasky.or.cz:5001/'
+labelurl = 'http://dbp-labels.ailao.eu:5001/'
 
 def queryWikipediaLabel(name):
     response = urllib.request.urlopen(labelurl + 'search/' + urllib.parse.quote(name))
@@ -40,6 +40,7 @@ SELECT DISTINCT ?pageID WHERE {
     return retVal[0] if retVal else None
 
 def queryWikipediaId(label):
+    # TODO: nowadays, label-lookup also has innate ability to get the pageId
     if label is None: return None
     # first, check if this is a redirect and traverse it
     retVal = queryWikipediaIdRedirected(label)
