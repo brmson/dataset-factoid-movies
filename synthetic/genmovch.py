@@ -7,7 +7,8 @@
 # ...where 4 is the "generation" number for the synthetic generator
 # so that on re-runs with new templates, question IDs are not reused.
 
-from collections import namedtuple
+from __future__ import print_function
+
 from SPARQLWrapper import SPARQLWrapper, JSON
 import json, sys
 import urllib
@@ -124,9 +125,8 @@ if __name__ == "__main__":
             labels = ['MOVIE']
             edict = dict()
             for i in range(len(labels)):
-                wiki_id = queryWikipediaId(queryWikipediaLabel(ents[i]))                        
-                fbkey = queryFreebaseKey(queryWikipediaId(queryWikipediaLabel(ents[i])))
-                fbkey = queryFreebaseKey(wiki_id)                       
+                wiki_id = queryWikipediaId(queryWikipediaLabel(ents[i]))
+                fbkey = queryFreebaseKey(wiki_id)
                 print('%s: %s (%s)' % (ents[i], fbkey, wiki_id), file=sys.stderr)
                 if not fbkey:
                     continue
