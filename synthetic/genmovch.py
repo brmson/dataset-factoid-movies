@@ -100,7 +100,7 @@ FILTER(LANG(?p) = "en") FILTER(LANG(?q) = "en")
 
 def genquestion(n, edict):
     if not 'MOVIE' in edict:
-        return
+        return n
     answers = queryMovieCharacter(edict['MOVIE'][1])
 
     for actor, character in answers:
@@ -111,6 +111,8 @@ def genquestion(n, edict):
             qid = 'syn%02d%04d' % (int(sys.argv[2]), i)
             print('{ "qId": "%s", "qText": "%s", "answers": [%s], "Concept": [{"fullLabel": "%s", "pageID": "%s"}], "tags": ["%s"] }' % \
                 (qid, qText, '"'+ans+'"', edict['MOVIE'][0],edict['MOVIE'][2], "cvt"))
+        n += 2
+    return n
 
 
 if __name__ == "__main__":
@@ -135,5 +137,4 @@ if __name__ == "__main__":
     n = 0
     for edict in entities:
         #print('... ' + ', '.join(edict.keys()), file=sys.stderr)
-        genquestion(n, edict)
-        n += 2
+        n = genquestion(n, edict)
