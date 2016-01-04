@@ -1,5 +1,7 @@
 #!/bin/sh
 
+export LC_ALL=en_US.utf8
+
 ./genquestions.py movies.tsv movies.txt MOVIE 0 | tee q-movies.json
 
 grep 'who is' q-movies.json  | sed -r 's/[^[]*\["//; s/".*//' | sort | uniq >persons.txt
