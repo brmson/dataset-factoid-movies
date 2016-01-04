@@ -10,39 +10,39 @@
 { "qId": "syn010045", "qText": "Who is Akira Kurosawa's father?", "answers": ["Isamu Kurosawa"], "Concept": [{"fullLabel": "Akira Kurosawa", "pageID": "872"}], "tags": ["#cmplx"] }
 { "qId": "syn010046", "qText": "Who is Akira Kurosawa's mother?", "answers": ["Shima Kurosawa"], "Concept": [{"fullLabel": "Akira Kurosawa", "pageID": "872"}], "tags": ["#cmplx"] }
 { "qId": "syn010047", "qText": "Who is Akira Kurosawa married to?", "answers": ["Yōko Yaguchi"], "Concept": [{"fullLabel": "Akira Kurosawa", "pageID": "872"}], "tags": ["#cvt"] }
-{ "qId": "syn010048", "qText": "When was Al Ernest Garcia born?", "answers": ["1887-03-11"], "Concept": [{"fullLabel": "Al Ernest Garcia", "pageID": "7488416"}], "tags": ["#basic"] }
-{ "qId": "syn010049", "qText": "Where was Al Ernest Garcia born?", "answers": ["San Francisco"], "Concept": [{"fullLabel": "Al Ernest Garcia", "pageID": "7488416"}], "tags": ["#basic"] }
-{ "qId": "syn010050", "qText": "What is Al Ernest Garcia's birth place?", "answers": ["San Francisco"], "Concept": [{"fullLabel": "Al Ernest Garcia", "pageID": "7488416"}], "tags": ["#basic"] }
-{ "qId": "syn010051", "qText": "When did Al Ernest Garcia die?", "answers": ["1938-09-04"], "Concept": [{"fullLabel": "Al Ernest Garcia", "pageID": "7488416"}], "tags": ["#basic"] }
-{ "qId": "syn010052", "qText": "Where did Al Ernest Garcia die?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Al Ernest Garcia", "pageID": "7488416"}], "tags": ["#basic"] }
-{ "qId": "syn010055", "qText": "What is Al Ernest Garcia's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Al Ernest Garcia", "pageID": "7488416"}], "tags": ["#basic"] }
-{ "qId": "syn010056", "qText": "Where is Al Ernest Garcia from?", "answers": ["San Francisco"], "Concept": [{"fullLabel": "Al Ernest Garcia", "pageID": "7488416"}], "tags": ["#basic"] }
-{ "qId": "syn010064", "qText": "When was Alain Sarde born?", "answers": ["1952-03-28"], "Concept": [{"fullLabel": "Alain Sarde", "pageID": "9375610"}], "tags": ["#basic"] }
-{ "qId": "syn010065", "qText": "Where was Alain Sarde born?", "answers": ["Boulogne-Billancourt"], "Concept": [{"fullLabel": "Alain Sarde", "pageID": "9375610"}], "tags": ["#basic"] }
-{ "qId": "syn010066", "qText": "What is Alain Sarde's birth place?", "answers": ["Boulogne-Billancourt"], "Concept": [{"fullLabel": "Alain Sarde", "pageID": "9375610"}], "tags": ["#basic"] }
-{ "qId": "syn010071", "qText": "What is Alain Sarde's nationality?", "answers": ["France"], "Concept": [{"fullLabel": "Alain Sarde", "pageID": "9375610"}], "tags": ["#basic"] }
-{ "qId": "syn010072", "qText": "Where is Alain Sarde from?", "answers": ["Boulogne-Billancourt"], "Concept": [{"fullLabel": "Alain Sarde", "pageID": "9375610"}], "tags": ["#basic"] }
-{ "qId": "syn010076", "qText": "Who are the parents of Alain Sarde?", "answers": ["Andrée Gabriel"], "Concept": [{"fullLabel": "Alain Sarde", "pageID": "9375610"}], "tags": ["#basic"] }
-{ "qId": "syn010078", "qText": "Who is Alain Sarde's mother?", "answers": ["Andrée Gabriel"], "Concept": [{"fullLabel": "Alain Sarde", "pageID": "9375610"}], "tags": ["#cmplx"] }
-{ "qId": "syn010080", "qText": "When was Alan Ladd, Jr. born?", "answers": ["1937-10-22"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#basic"] }
-{ "qId": "syn010081", "qText": "Where was Alan Ladd, Jr. born?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#basic"] }
-{ "qId": "syn010082", "qText": "What is Alan Ladd, Jr.'s birth place?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#basic"] }
-{ "qId": "syn010087", "qText": "What is Alan Ladd, Jr.'s nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#basic"] }
-{ "qId": "syn010088", "qText": "Where is Alan Ladd, Jr. from?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#basic"] }
-{ "qId": "syn010092", "qText": "Who are the parents of Alan Ladd, Jr.?", "answers": ["Alan Ladd", "Marjorie Jane Harrold"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#basic"] }
-{ "qId": "syn010093", "qText": "Who is Alan Ladd, Jr.'s father?", "answers": ["Alan Ladd"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#cmplx"] }
-{ "qId": "syn010094", "qText": "Who is Alan Ladd, Jr.'s mother?", "answers": ["Marjorie Jane Harrold"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#cmplx"] }
-{ "qId": "syn010095", "qText": "Who is Alan Ladd, Jr. married to?", "answers": ["Cindra Ladd", "Patricia Ann"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#cvt"] }
+{ "qId": "syn010048", "qText": "When was Alain Sarde born?", "answers": ["1952-03-28"], "Concept": [{"fullLabel": "Alain Sarde", "pageID": "9375610"}], "tags": ["#basic"] }
+{ "qId": "syn010049", "qText": "Where was Alain Sarde born?", "answers": ["Boulogne-Billancourt"], "Concept": [{"fullLabel": "Alain Sarde", "pageID": "9375610"}], "tags": ["#basic"] }
+{ "qId": "syn010050", "qText": "What is Alain Sarde's birth place?", "answers": ["Boulogne-Billancourt"], "Concept": [{"fullLabel": "Alain Sarde", "pageID": "9375610"}], "tags": ["#basic"] }
+{ "qId": "syn010055", "qText": "What is Alain Sarde's nationality?", "answers": ["France"], "Concept": [{"fullLabel": "Alain Sarde", "pageID": "9375610"}], "tags": ["#basic"] }
+{ "qId": "syn010056", "qText": "Where is Alain Sarde from?", "answers": ["Boulogne-Billancourt"], "Concept": [{"fullLabel": "Alain Sarde", "pageID": "9375610"}], "tags": ["#basic"] }
+{ "qId": "syn010060", "qText": "Who are the parents of Alain Sarde?", "answers": ["Andrée Gabriel"], "Concept": [{"fullLabel": "Alain Sarde", "pageID": "9375610"}], "tags": ["#basic"] }
+{ "qId": "syn010062", "qText": "Who is Alain Sarde's mother?", "answers": ["Andrée Gabriel"], "Concept": [{"fullLabel": "Alain Sarde", "pageID": "9375610"}], "tags": ["#cmplx"] }
+{ "qId": "syn010064", "qText": "When was Alan Ladd, Jr. born?", "answers": ["1937-10-22"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#basic"] }
+{ "qId": "syn010065", "qText": "Where was Alan Ladd, Jr. born?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#basic"] }
+{ "qId": "syn010066", "qText": "What is Alan Ladd, Jr.'s birth place?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#basic"] }
+{ "qId": "syn010071", "qText": "What is Alan Ladd, Jr.'s nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#basic"] }
+{ "qId": "syn010072", "qText": "Where is Alan Ladd, Jr. from?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#basic"] }
+{ "qId": "syn010076", "qText": "Who are the parents of Alan Ladd, Jr.?", "answers": ["Alan Ladd", "Marjorie Jane Harrold"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#basic"] }
+{ "qId": "syn010077", "qText": "Who is Alan Ladd, Jr.'s father?", "answers": ["Alan Ladd"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#cmplx"] }
+{ "qId": "syn010078", "qText": "Who is Alan Ladd, Jr.'s mother?", "answers": ["Marjorie Jane Harrold"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#cmplx"] }
+{ "qId": "syn010079", "qText": "Who is Alan Ladd, Jr. married to?", "answers": ["Cindra Ladd", "Patricia Ann"], "Concept": [{"fullLabel": "Alan Ladd, Jr.", "pageID": "2672024"}], "tags": ["#cvt"] }
+{ "qId": "syn010080", "qText": "When was Alberto Grimaldi born?", "answers": ["1925-03-28"], "Concept": [{"fullLabel": "Alberto Grimaldi", "pageID": "8466649"}], "tags": ["#basic"] }
+{ "qId": "syn010081", "qText": "Where was Alberto Grimaldi born?", "answers": ["Naples"], "Concept": [{"fullLabel": "Alberto Grimaldi", "pageID": "8466649"}], "tags": ["#basic"] }
+{ "qId": "syn010082", "qText": "What is Alberto Grimaldi's birth place?", "answers": ["Naples"], "Concept": [{"fullLabel": "Alberto Grimaldi", "pageID": "8466649"}], "tags": ["#basic"] }
+{ "qId": "syn010087", "qText": "What is Alberto Grimaldi's nationality?", "answers": ["Italy"], "Concept": [{"fullLabel": "Alberto Grimaldi", "pageID": "8466649"}], "tags": ["#basic"] }
+{ "qId": "syn010088", "qText": "Where is Alberto Grimaldi from?", "answers": ["Naples"], "Concept": [{"fullLabel": "Alberto Grimaldi", "pageID": "8466649"}], "tags": ["#basic"] }
 { "qId": "syn010096", "qText": "When was Albert S. Ruddy born?", "answers": ["1930-03-28"], "Concept": [{"fullLabel": "Albert S. Ruddy", "pageID": "1560196"}], "tags": ["#basic"] }
 { "qId": "syn010097", "qText": "Where was Albert S. Ruddy born?", "answers": ["Montreal"], "Concept": [{"fullLabel": "Albert S. Ruddy", "pageID": "1560196"}], "tags": ["#basic"] }
 { "qId": "syn010098", "qText": "What is Albert S. Ruddy's birth place?", "answers": ["Montreal"], "Concept": [{"fullLabel": "Albert S. Ruddy", "pageID": "1560196"}], "tags": ["#basic"] }
 { "qId": "syn010103", "qText": "What is Albert S. Ruddy's nationality?", "answers": ["Canada"], "Concept": [{"fullLabel": "Albert S. Ruddy", "pageID": "1560196"}], "tags": ["#basic"] }
 { "qId": "syn010104", "qText": "Where is Albert S. Ruddy from?", "answers": ["Montreal"], "Concept": [{"fullLabel": "Albert S. Ruddy", "pageID": "1560196"}], "tags": ["#basic"] }
-{ "qId": "syn010112", "qText": "When was Alberto Grimaldi born?", "answers": ["1925-03-28"], "Concept": [{"fullLabel": "Alberto Grimaldi", "pageID": "8466649"}], "tags": ["#basic"] }
-{ "qId": "syn010113", "qText": "Where was Alberto Grimaldi born?", "answers": ["Naples"], "Concept": [{"fullLabel": "Alberto Grimaldi", "pageID": "8466649"}], "tags": ["#basic"] }
-{ "qId": "syn010114", "qText": "What is Alberto Grimaldi's birth place?", "answers": ["Naples"], "Concept": [{"fullLabel": "Alberto Grimaldi", "pageID": "8466649"}], "tags": ["#basic"] }
-{ "qId": "syn010119", "qText": "What is Alberto Grimaldi's nationality?", "answers": ["Italy"], "Concept": [{"fullLabel": "Alberto Grimaldi", "pageID": "8466649"}], "tags": ["#basic"] }
-{ "qId": "syn010120", "qText": "Where is Alberto Grimaldi from?", "answers": ["Naples"], "Concept": [{"fullLabel": "Alberto Grimaldi", "pageID": "8466649"}], "tags": ["#basic"] }
+{ "qId": "syn010112", "qText": "When was Al Ernest Garcia born?", "answers": ["1887-03-11"], "Concept": [{"fullLabel": "Al Ernest Garcia", "pageID": "7488416"}], "tags": ["#basic"] }
+{ "qId": "syn010113", "qText": "Where was Al Ernest Garcia born?", "answers": ["San Francisco"], "Concept": [{"fullLabel": "Al Ernest Garcia", "pageID": "7488416"}], "tags": ["#basic"] }
+{ "qId": "syn010114", "qText": "What is Al Ernest Garcia's birth place?", "answers": ["San Francisco"], "Concept": [{"fullLabel": "Al Ernest Garcia", "pageID": "7488416"}], "tags": ["#basic"] }
+{ "qId": "syn010115", "qText": "When did Al Ernest Garcia die?", "answers": ["1938-09-04"], "Concept": [{"fullLabel": "Al Ernest Garcia", "pageID": "7488416"}], "tags": ["#basic"] }
+{ "qId": "syn010116", "qText": "Where did Al Ernest Garcia die?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Al Ernest Garcia", "pageID": "7488416"}], "tags": ["#basic"] }
+{ "qId": "syn010119", "qText": "What is Al Ernest Garcia's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Al Ernest Garcia", "pageID": "7488416"}], "tags": ["#basic"] }
+{ "qId": "syn010120", "qText": "Where is Al Ernest Garcia from?", "answers": ["San Francisco"], "Concept": [{"fullLabel": "Al Ernest Garcia", "pageID": "7488416"}], "tags": ["#basic"] }
 { "qId": "syn010128", "qText": "When was Alfred Hitchcock born?", "answers": ["1899-08-13"], "Concept": [{"fullLabel": "Alfred Hitchcock", "pageID": "808"}], "tags": ["#basic"] }
 { "qId": "syn010129", "qText": "Where was Alfred Hitchcock born?", "answers": ["Leytonstone"], "Concept": [{"fullLabel": "Alfred Hitchcock", "pageID": "808"}], "tags": ["#basic"] }
 { "qId": "syn010130", "qText": "What is Alfred Hitchcock's birth place?", "answers": ["Leytonstone"], "Concept": [{"fullLabel": "Alfred Hitchcock", "pageID": "808"}], "tags": ["#basic"] }
@@ -88,21 +88,21 @@
 { "qId": "syn010215", "qText": "What is Arnon Milchan's nationality?", "answers": ["Israel"], "Concept": [{"fullLabel": "Arnon Milchan", "pageID": "1280440"}], "tags": ["#basic"] }
 { "qId": "syn010216", "qText": "Where is Arnon Milchan from?", "answers": ["Rehovot"], "Concept": [{"fullLabel": "Arnon Milchan", "pageID": "1280440"}], "tags": ["#basic"] }
 { "qId": "syn010223", "qText": "Who is Arnon Milchan married to?", "answers": ["Brigitte Genmaire", "Amanda Coetzer"], "Concept": [{"fullLabel": "Arnon Milchan", "pageID": "1280440"}], "tags": ["#cvt"] }
-{ "qId": "syn010224", "qText": "When was Art Linson born?", "answers": ["1942"], "Concept": [{"fullLabel": "Art Linson", "pageID": "6870741"}], "tags": ["#basic"] }
-{ "qId": "syn010225", "qText": "Where was Art Linson born?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Art Linson", "pageID": "6870741"}], "tags": ["#basic"] }
-{ "qId": "syn010226", "qText": "What is Art Linson's birth place?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Art Linson", "pageID": "6870741"}], "tags": ["#basic"] }
-{ "qId": "syn010231", "qText": "What is Art Linson's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Art Linson", "pageID": "6870741"}], "tags": ["#basic"] }
-{ "qId": "syn010232", "qText": "Where is Art Linson from?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Art Linson", "pageID": "6870741"}], "tags": ["#basic"] }
-{ "qId": "syn010239", "qText": "Who is Art Linson married to?", "answers": ["Fiona Lewis"], "Concept": [{"fullLabel": "Art Linson", "pageID": "6870741"}], "tags": ["#cvt"] }
-{ "qId": "syn010240", "qText": "When was Arthur Freed born?", "answers": ["1894-09-09"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#basic"] }
-{ "qId": "syn010241", "qText": "Where was Arthur Freed born?", "answers": ["Charleston"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#basic"] }
-{ "qId": "syn010242", "qText": "What is Arthur Freed's birth place?", "answers": ["Charleston"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#basic"] }
-{ "qId": "syn010243", "qText": "When did Arthur Freed die?", "answers": ["1973-04-12"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#basic"] }
-{ "qId": "syn010244", "qText": "Where did Arthur Freed die?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#basic"] }
-{ "qId": "syn010245", "qText": "How did Arthur Freed die?", "answers": ["Myocardial infarction"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#basic"] }
-{ "qId": "syn010247", "qText": "What is Arthur Freed's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#basic"] }
-{ "qId": "syn010248", "qText": "Where is Arthur Freed from?", "answers": ["Charleston"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#basic"] }
-{ "qId": "syn010255", "qText": "Who is Arthur Freed married to?", "answers": ["Renée Klein"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#cvt"] }
+{ "qId": "syn010224", "qText": "When was Arthur Freed born?", "answers": ["1894-09-09"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#basic"] }
+{ "qId": "syn010225", "qText": "Where was Arthur Freed born?", "answers": ["Charleston"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#basic"] }
+{ "qId": "syn010226", "qText": "What is Arthur Freed's birth place?", "answers": ["Charleston"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#basic"] }
+{ "qId": "syn010227", "qText": "When did Arthur Freed die?", "answers": ["1973-04-12"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#basic"] }
+{ "qId": "syn010228", "qText": "Where did Arthur Freed die?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#basic"] }
+{ "qId": "syn010229", "qText": "How did Arthur Freed die?", "answers": ["Myocardial infarction"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#basic"] }
+{ "qId": "syn010231", "qText": "What is Arthur Freed's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#basic"] }
+{ "qId": "syn010232", "qText": "Where is Arthur Freed from?", "answers": ["Charleston"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#basic"] }
+{ "qId": "syn010239", "qText": "Who is Arthur Freed married to?", "answers": ["Renée Klein"], "Concept": [{"fullLabel": "Arthur Freed", "pageID": "226142"}], "tags": ["#cvt"] }
+{ "qId": "syn010240", "qText": "When was Art Linson born?", "answers": ["1942"], "Concept": [{"fullLabel": "Art Linson", "pageID": "6870741"}], "tags": ["#basic"] }
+{ "qId": "syn010241", "qText": "Where was Art Linson born?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Art Linson", "pageID": "6870741"}], "tags": ["#basic"] }
+{ "qId": "syn010242", "qText": "What is Art Linson's birth place?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Art Linson", "pageID": "6870741"}], "tags": ["#basic"] }
+{ "qId": "syn010247", "qText": "What is Art Linson's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Art Linson", "pageID": "6870741"}], "tags": ["#basic"] }
+{ "qId": "syn010248", "qText": "Where is Art Linson from?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Art Linson", "pageID": "6870741"}], "tags": ["#basic"] }
+{ "qId": "syn010255", "qText": "Who is Art Linson married to?", "answers": ["Fiona Lewis"], "Concept": [{"fullLabel": "Art Linson", "pageID": "6870741"}], "tags": ["#cvt"] }
 { "qId": "syn010272", "qText": "When was Bill Gratton born?", "answers": ["1948-02-29"], "Concept": [{"fullLabel": "Bill Gratton", "pageID": "27022771"}], "tags": ["#basic"] }
 { "qId": "syn010273", "qText": "Where was Bill Gratton born?", "answers": ["Brantford"], "Concept": [{"fullLabel": "Bill Gratton", "pageID": "27022771"}], "tags": ["#basic"] }
 { "qId": "syn010274", "qText": "What is Bill Gratton's birth place?", "answers": ["Brantford"], "Concept": [{"fullLabel": "Bill Gratton", "pageID": "27022771"}], "tags": ["#basic"] }
@@ -319,12 +319,12 @@
 { "qId": "syn010653", "qText": "Who is Derek Jacobi's father?", "answers": ["Alfred George Jacobi"], "Concept": [{"fullLabel": "Derek Jacobi", "pageID": "168017"}], "tags": ["#cmplx"] }
 { "qId": "syn010654", "qText": "Who is Derek Jacobi's mother?", "answers": ["Daisy Gertrude Jacobi"], "Concept": [{"fullLabel": "Derek Jacobi", "pageID": "168017"}], "tags": ["#cmplx"] }
 { "qId": "syn010655", "qText": "Who is Derek Jacobi married to?", "answers": ["Richard Clifford"], "Concept": [{"fullLabel": "Derek Jacobi", "pageID": "168017"}], "tags": ["#cvt"] }
-{ "qId": "syn010656", "qText": "When was Don Hahn born?", "answers": ["1955-11-25"], "Concept": [{"fullLabel": "Don Hahn", "pageID": "5432086"}], "tags": ["#basic"] }
-{ "qId": "syn010657", "qText": "Where was Don Hahn born?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Don Hahn", "pageID": "5432086"}], "tags": ["#basic"] }
-{ "qId": "syn010658", "qText": "What is Don Hahn's birth place?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Don Hahn", "pageID": "5432086"}], "tags": ["#basic"] }
-{ "qId": "syn010663", "qText": "What is Don Hahn's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Don Hahn", "pageID": "5432086"}], "tags": ["#basic"] }
-{ "qId": "syn010664", "qText": "Where is Don Hahn from?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Don Hahn", "pageID": "5432086"}], "tags": ["#basic"] }
-{ "qId": "syn010671", "qText": "Who is Don Hahn married to?", "answers": ["Denise Meara-Hahn"], "Concept": [{"fullLabel": "Don Hahn", "pageID": "5432086"}], "tags": ["#cvt"] }
+{ "qId": "syn010672", "qText": "When was Don Hahn born?", "answers": ["1955-11-25"], "Concept": [{"fullLabel": "Don Hahn", "pageID": "5432086"}], "tags": ["#basic"] }
+{ "qId": "syn010673", "qText": "Where was Don Hahn born?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Don Hahn", "pageID": "5432086"}], "tags": ["#basic"] }
+{ "qId": "syn010674", "qText": "What is Don Hahn's birth place?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Don Hahn", "pageID": "5432086"}], "tags": ["#basic"] }
+{ "qId": "syn010679", "qText": "What is Don Hahn's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Don Hahn", "pageID": "5432086"}], "tags": ["#basic"] }
+{ "qId": "syn010680", "qText": "Where is Don Hahn from?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Don Hahn", "pageID": "5432086"}], "tags": ["#basic"] }
+{ "qId": "syn010687", "qText": "Who is Don Hahn married to?", "answers": ["Denise Meara-Hahn"], "Concept": [{"fullLabel": "Don Hahn", "pageID": "5432086"}], "tags": ["#cvt"] }
 { "qId": "syn010688", "qText": "When was Douglas Wick born?", "answers": ["1954-11-30"], "Concept": [{"fullLabel": "Douglas Wick", "pageID": "9402264"}], "tags": ["#basic"] }
 { "qId": "syn010689", "qText": "Where was Douglas Wick born?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Douglas Wick", "pageID": "9402264"}], "tags": ["#basic"] }
 { "qId": "syn010690", "qText": "What is Douglas Wick's birth place?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Douglas Wick", "pageID": "9402264"}], "tags": ["#basic"] }
@@ -334,14 +334,14 @@
 { "qId": "syn010701", "qText": "Who is Douglas Wick's father?", "answers": ["Charles Z. Wick"], "Concept": [{"fullLabel": "Douglas Wick", "pageID": "9402264"}], "tags": ["#cmplx"] }
 { "qId": "syn010702", "qText": "Who is Douglas Wick's mother?", "answers": ["Mary Jane Woods"], "Concept": [{"fullLabel": "Douglas Wick", "pageID": "9402264"}], "tags": ["#cmplx"] }
 { "qId": "syn010703", "qText": "Who is Douglas Wick married to?", "answers": ["Lucy Fisher"], "Concept": [{"fullLabel": "Douglas Wick", "pageID": "9402264"}], "tags": ["#cvt"] }
-{ "qId": "syn010720", "qText": "When was Eddie Powell born?", "answers": ["1927-03-09"], "Concept": [{"fullLabel": "Eddie Powell", "pageID": "4565352"}], "tags": ["#basic"] }
-{ "qId": "syn010721", "qText": "Where was Eddie Powell born?", "answers": ["London"], "Concept": [{"fullLabel": "Eddie Powell", "pageID": "4565352"}], "tags": ["#basic"] }
-{ "qId": "syn010722", "qText": "What is Eddie Powell's birth place?", "answers": ["London"], "Concept": [{"fullLabel": "Eddie Powell", "pageID": "4565352"}], "tags": ["#basic"] }
-{ "qId": "syn010723", "qText": "When did Eddie Powell die?", "answers": ["2000-08-11"], "Concept": [{"fullLabel": "Eddie Powell", "pageID": "4565352"}], "tags": ["#basic"] }
-{ "qId": "syn010724", "qText": "Where did Eddie Powell die?", "answers": ["Berkshire"], "Concept": [{"fullLabel": "Eddie Powell", "pageID": "4565352"}], "tags": ["#basic"] }
-{ "qId": "syn010727", "qText": "What is Eddie Powell's nationality?", "answers": ["United Kingdom"], "Concept": [{"fullLabel": "Eddie Powell", "pageID": "4565352"}], "tags": ["#basic"] }
-{ "qId": "syn010728", "qText": "Where is Eddie Powell from?", "answers": ["London"], "Concept": [{"fullLabel": "Eddie Powell", "pageID": "4565352"}], "tags": ["#basic"] }
-{ "qId": "syn010735", "qText": "Who is Eddie Powell married to?", "answers": ["Rosemary Burrows"], "Concept": [{"fullLabel": "Eddie Powell", "pageID": "4565352"}], "tags": ["#cvt"] }
+{ "qId": "syn010704", "qText": "When was Eddie Powell born?", "answers": ["1927-03-09"], "Concept": [{"fullLabel": "Eddie Powell", "pageID": "4565352"}], "tags": ["#basic"] }
+{ "qId": "syn010705", "qText": "Where was Eddie Powell born?", "answers": ["London"], "Concept": [{"fullLabel": "Eddie Powell", "pageID": "4565352"}], "tags": ["#basic"] }
+{ "qId": "syn010706", "qText": "What is Eddie Powell's birth place?", "answers": ["London"], "Concept": [{"fullLabel": "Eddie Powell", "pageID": "4565352"}], "tags": ["#basic"] }
+{ "qId": "syn010707", "qText": "When did Eddie Powell die?", "answers": ["2000-08-11"], "Concept": [{"fullLabel": "Eddie Powell", "pageID": "4565352"}], "tags": ["#basic"] }
+{ "qId": "syn010708", "qText": "Where did Eddie Powell die?", "answers": ["Berkshire"], "Concept": [{"fullLabel": "Eddie Powell", "pageID": "4565352"}], "tags": ["#basic"] }
+{ "qId": "syn010711", "qText": "What is Eddie Powell's nationality?", "answers": ["United Kingdom"], "Concept": [{"fullLabel": "Eddie Powell", "pageID": "4565352"}], "tags": ["#basic"] }
+{ "qId": "syn010712", "qText": "Where is Eddie Powell from?", "answers": ["London"], "Concept": [{"fullLabel": "Eddie Powell", "pageID": "4565352"}], "tags": ["#basic"] }
+{ "qId": "syn010719", "qText": "Who is Eddie Powell married to?", "answers": ["Rosemary Burrows"], "Concept": [{"fullLabel": "Eddie Powell", "pageID": "4565352"}], "tags": ["#cvt"] }
 { "qId": "syn010743", "qText": "What is Elda Ferri's nationality?", "answers": ["Italy"], "Concept": [{"fullLabel": "Elda Ferri", "pageID": "15771427"}], "tags": ["#basic"] }
 { "qId": "syn010752", "qText": "When was Elena Altieri born?", "answers": ["1910-07-07"], "Concept": [{"fullLabel": "Elena Altieri", "pageID": "18699505"}], "tags": ["#basic"] }
 { "qId": "syn010753", "qText": "Where was Elena Altieri born?", "answers": ["Stresa"], "Concept": [{"fullLabel": "Elena Altieri", "pageID": "18699505"}], "tags": ["#basic"] }
@@ -391,62 +391,62 @@
 { "qId": "syn010861", "qText": "Who is Florian Henckel von Donnersmarck's father?", "answers": ["Leo-Ferdinand Henckel von Donnersmarck"], "Concept": [{"fullLabel": "Florian Henckel von Donnersmarck", "pageID": "6614192"}], "tags": ["#cmplx"] }
 { "qId": "syn010862", "qText": "Who is Florian Henckel von Donnersmarck's mother?", "answers": ["Anna Maria von Berg"], "Concept": [{"fullLabel": "Florian Henckel von Donnersmarck", "pageID": "6614192"}], "tags": ["#cmplx"] }
 { "qId": "syn010863", "qText": "Who is Florian Henckel von Donnersmarck married to?", "answers": ["Christiane Asschenfeldt"], "Concept": [{"fullLabel": "Florian Henckel von Donnersmarck", "pageID": "6614192"}], "tags": ["#cvt"] }
-{ "qId": "syn010864", "qText": "When was Fran Walsh born?", "answers": ["1959-01-10"], "Concept": [{"fullLabel": "Fran Walsh", "pageID": "454104"}], "tags": ["#basic"] }
-{ "qId": "syn010865", "qText": "Where was Fran Walsh born?", "answers": ["Wellington"], "Concept": [{"fullLabel": "Fran Walsh", "pageID": "454104"}], "tags": ["#basic"] }
-{ "qId": "syn010866", "qText": "What is Fran Walsh's birth place?", "answers": ["Wellington"], "Concept": [{"fullLabel": "Fran Walsh", "pageID": "454104"}], "tags": ["#basic"] }
-{ "qId": "syn010871", "qText": "What is Fran Walsh's nationality?", "answers": ["New Zealand"], "Concept": [{"fullLabel": "Fran Walsh", "pageID": "454104"}], "tags": ["#basic"] }
-{ "qId": "syn010872", "qText": "Where is Fran Walsh from?", "answers": ["Wellington"], "Concept": [{"fullLabel": "Fran Walsh", "pageID": "454104"}], "tags": ["#basic"] }
-{ "qId": "syn010879", "qText": "Who is Fran Walsh married to?", "answers": ["Peter Jackson"], "Concept": [{"fullLabel": "Fran Walsh", "pageID": "454104"}], "tags": ["#cvt"] }
-{ "qId": "syn010880", "qText": "When was Francis Ford Coppola born?", "answers": ["1939-04-07"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
-{ "qId": "syn010881", "qText": "Where was Francis Ford Coppola born?", "answers": ["Detroit"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
-{ "qId": "syn010882", "qText": "What is Francis Ford Coppola's birth place?", "answers": ["Detroit"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
-{ "qId": "syn010887", "qText": "What is Francis Ford Coppola's nationality?", "answers": ["United States of America", "Italy"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
-{ "qId": "syn010888", "qText": "Where is Francis Ford Coppola from?", "answers": ["Detroit"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
-{ "qId": "syn010889", "qText": "How high is Francis Ford Coppola?", "answers": ["1.82"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
-{ "qId": "syn010890", "qText": "How tall is Francis Ford Coppola?", "answers": ["1.82"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
-{ "qId": "syn010891", "qText": "What's the Francis Ford Coppola's height?", "answers": ["1.82"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
-{ "qId": "syn010892", "qText": "Who are the parents of Francis Ford Coppola?", "answers": ["Carmine Coppola", "Italia Coppola"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
-{ "qId": "syn010893", "qText": "Who is Francis Ford Coppola's father?", "answers": ["Carmine Coppola"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#cmplx"] }
-{ "qId": "syn010894", "qText": "Who is Francis Ford Coppola's mother?", "answers": ["Italia Coppola"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#cmplx"] }
-{ "qId": "syn010895", "qText": "Who is Francis Ford Coppola married to?", "answers": ["Eleanor Coppola"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#cvt"] }
-{ "qId": "syn010896", "qText": "When was Franco Cristaldi born?", "answers": ["1924-10-03"], "Concept": [{"fullLabel": "Franco Cristaldi", "pageID": "11980470"}], "tags": ["#basic"] }
-{ "qId": "syn010897", "qText": "Where was Franco Cristaldi born?", "answers": ["Turin"], "Concept": [{"fullLabel": "Franco Cristaldi", "pageID": "11980470"}], "tags": ["#basic"] }
-{ "qId": "syn010898", "qText": "What is Franco Cristaldi's birth place?", "answers": ["Turin"], "Concept": [{"fullLabel": "Franco Cristaldi", "pageID": "11980470"}], "tags": ["#basic"] }
-{ "qId": "syn010899", "qText": "When did Franco Cristaldi die?", "answers": ["1992-07-01"], "Concept": [{"fullLabel": "Franco Cristaldi", "pageID": "11980470"}], "tags": ["#basic"] }
-{ "qId": "syn010900", "qText": "Where did Franco Cristaldi die?", "answers": ["Monte Carlo"], "Concept": [{"fullLabel": "Franco Cristaldi", "pageID": "11980470"}], "tags": ["#basic"] }
-{ "qId": "syn010903", "qText": "What is Franco Cristaldi's nationality?", "answers": ["Italy"], "Concept": [{"fullLabel": "Franco Cristaldi", "pageID": "11980470"}], "tags": ["#basic"] }
-{ "qId": "syn010904", "qText": "Where is Franco Cristaldi from?", "answers": ["Turin"], "Concept": [{"fullLabel": "Franco Cristaldi", "pageID": "11980470"}], "tags": ["#basic"] }
-{ "qId": "syn010911", "qText": "Who is Franco Cristaldi married to?", "answers": ["Claudia Cardinale", "Zeudi Araya", "Carla Simonetti"], "Concept": [{"fullLabel": "Franco Cristaldi", "pageID": "11980470"}], "tags": ["#cvt"] }
-{ "qId": "syn010928", "qText": "When was Frank Capra born?", "answers": ["1897-05-18"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
-{ "qId": "syn010929", "qText": "Where was Frank Capra born?", "answers": ["Bisacquino"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
-{ "qId": "syn010930", "qText": "What is Frank Capra's birth place?", "answers": ["Bisacquino"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
-{ "qId": "syn010931", "qText": "When did Frank Capra die?", "answers": ["1991-09-03"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
-{ "qId": "syn010932", "qText": "Where did Frank Capra die?", "answers": ["La Quinta"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
-{ "qId": "syn010933", "qText": "How did Frank Capra die?", "answers": ["Myocardial infarction", "Heart failure"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
-{ "qId": "syn010934", "qText": "Where is Frank Capra buried?", "answers": ["Coachella Valley Public Cemetery"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
-{ "qId": "syn010935", "qText": "What is Frank Capra's nationality?", "answers": ["United States of America", "Italy"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
-{ "qId": "syn010936", "qText": "Where is Frank Capra from?", "answers": ["Bisacquino"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
-{ "qId": "syn010937", "qText": "How high is Frank Capra?", "answers": ["1.7"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
-{ "qId": "syn010938", "qText": "How tall is Frank Capra?", "answers": ["1.7"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
-{ "qId": "syn010939", "qText": "What's the Frank Capra's height?", "answers": ["1.7"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
-{ "qId": "syn010940", "qText": "Who are the parents of Frank Capra?", "answers": ["Sarah Nicolas", "Salvatore Capra"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
-{ "qId": "syn010941", "qText": "Who is Frank Capra's father?", "answers": ["Salvatore Capra"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#cmplx"] }
-{ "qId": "syn010942", "qText": "Who is Frank Capra's mother?", "answers": ["Sarah Nicolas"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#cmplx"] }
-{ "qId": "syn010943", "qText": "Who is Frank Capra married to?", "answers": ["Lou Capra", "Helen Howell"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#cvt"] }
-{ "qId": "syn010944", "qText": "When was Frank Darabont born?", "answers": ["1959-01-28"], "Concept": [{"fullLabel": "Frank Darabont", "pageID": "1046823"}], "tags": ["#basic"] }
-{ "qId": "syn010945", "qText": "Where was Frank Darabont born?", "answers": ["Montbéliard"], "Concept": [{"fullLabel": "Frank Darabont", "pageID": "1046823"}], "tags": ["#basic"] }
-{ "qId": "syn010946", "qText": "What is Frank Darabont's birth place?", "answers": ["Montbéliard"], "Concept": [{"fullLabel": "Frank Darabont", "pageID": "1046823"}], "tags": ["#basic"] }
-{ "qId": "syn010951", "qText": "What is Frank Darabont's nationality?", "answers": ["France", "United States of America", "Hungary"], "Concept": [{"fullLabel": "Frank Darabont", "pageID": "1046823"}], "tags": ["#basic"] }
-{ "qId": "syn010952", "qText": "Where is Frank Darabont from?", "answers": ["Montbéliard"], "Concept": [{"fullLabel": "Frank Darabont", "pageID": "1046823"}], "tags": ["#basic"] }
-{ "qId": "syn010959", "qText": "Who is Frank Darabont married to?", "answers": ["Karyn Wagner"], "Concept": [{"fullLabel": "Frank Darabont", "pageID": "1046823"}], "tags": ["#cvt"] }
-{ "qId": "syn010960", "qText": "When was Frank Marshall born?", "answers": ["1946-09-13"], "Concept": [{"fullLabel": "Frank Marshall", "pageID": "664779"}], "tags": ["#basic"] }
-{ "qId": "syn010961", "qText": "Where was Frank Marshall born?", "answers": ["Glendale"], "Concept": [{"fullLabel": "Frank Marshall", "pageID": "664779"}], "tags": ["#basic"] }
-{ "qId": "syn010962", "qText": "What is Frank Marshall's birth place?", "answers": ["Glendale"], "Concept": [{"fullLabel": "Frank Marshall", "pageID": "664779"}], "tags": ["#basic"] }
-{ "qId": "syn010967", "qText": "What is Frank Marshall's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Frank Marshall", "pageID": "664779"}], "tags": ["#basic"] }
-{ "qId": "syn010968", "qText": "Where is Frank Marshall from?", "answers": ["Glendale"], "Concept": [{"fullLabel": "Frank Marshall", "pageID": "664779"}], "tags": ["#basic"] }
-{ "qId": "syn010972", "qText": "Who are the parents of Frank Marshall?", "answers": ["Jack Marshall"], "Concept": [{"fullLabel": "Frank Marshall", "pageID": "664779"}], "tags": ["#basic"] }
-{ "qId": "syn010973", "qText": "Who is Frank Marshall's father?", "answers": ["Jack Marshall"], "Concept": [{"fullLabel": "Frank Marshall", "pageID": "664779"}], "tags": ["#cmplx"] }
-{ "qId": "syn010975", "qText": "Who is Frank Marshall married to?", "answers": ["Kathleen Kennedy"], "Concept": [{"fullLabel": "Frank Marshall", "pageID": "664779"}], "tags": ["#cvt"] }
+{ "qId": "syn010864", "qText": "When was Francis Ford Coppola born?", "answers": ["1939-04-07"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
+{ "qId": "syn010865", "qText": "Where was Francis Ford Coppola born?", "answers": ["Detroit"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
+{ "qId": "syn010866", "qText": "What is Francis Ford Coppola's birth place?", "answers": ["Detroit"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
+{ "qId": "syn010871", "qText": "What is Francis Ford Coppola's nationality?", "answers": ["United States of America", "Italy"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
+{ "qId": "syn010872", "qText": "Where is Francis Ford Coppola from?", "answers": ["Detroit"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
+{ "qId": "syn010873", "qText": "How high is Francis Ford Coppola?", "answers": ["1.82"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
+{ "qId": "syn010874", "qText": "How tall is Francis Ford Coppola?", "answers": ["1.82"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
+{ "qId": "syn010875", "qText": "What's the Francis Ford Coppola's height?", "answers": ["1.82"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
+{ "qId": "syn010876", "qText": "Who are the parents of Francis Ford Coppola?", "answers": ["Carmine Coppola", "Italia Coppola"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#basic"] }
+{ "qId": "syn010877", "qText": "Who is Francis Ford Coppola's father?", "answers": ["Carmine Coppola"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#cmplx"] }
+{ "qId": "syn010878", "qText": "Who is Francis Ford Coppola's mother?", "answers": ["Italia Coppola"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#cmplx"] }
+{ "qId": "syn010879", "qText": "Who is Francis Ford Coppola married to?", "answers": ["Eleanor Coppola"], "Concept": [{"fullLabel": "Francis Ford Coppola", "pageID": "10576"}], "tags": ["#cvt"] }
+{ "qId": "syn010880", "qText": "When was Franco Cristaldi born?", "answers": ["1924-10-03"], "Concept": [{"fullLabel": "Franco Cristaldi", "pageID": "11980470"}], "tags": ["#basic"] }
+{ "qId": "syn010881", "qText": "Where was Franco Cristaldi born?", "answers": ["Turin"], "Concept": [{"fullLabel": "Franco Cristaldi", "pageID": "11980470"}], "tags": ["#basic"] }
+{ "qId": "syn010882", "qText": "What is Franco Cristaldi's birth place?", "answers": ["Turin"], "Concept": [{"fullLabel": "Franco Cristaldi", "pageID": "11980470"}], "tags": ["#basic"] }
+{ "qId": "syn010883", "qText": "When did Franco Cristaldi die?", "answers": ["1992-07-01"], "Concept": [{"fullLabel": "Franco Cristaldi", "pageID": "11980470"}], "tags": ["#basic"] }
+{ "qId": "syn010884", "qText": "Where did Franco Cristaldi die?", "answers": ["Monte Carlo"], "Concept": [{"fullLabel": "Franco Cristaldi", "pageID": "11980470"}], "tags": ["#basic"] }
+{ "qId": "syn010887", "qText": "What is Franco Cristaldi's nationality?", "answers": ["Italy"], "Concept": [{"fullLabel": "Franco Cristaldi", "pageID": "11980470"}], "tags": ["#basic"] }
+{ "qId": "syn010888", "qText": "Where is Franco Cristaldi from?", "answers": ["Turin"], "Concept": [{"fullLabel": "Franco Cristaldi", "pageID": "11980470"}], "tags": ["#basic"] }
+{ "qId": "syn010895", "qText": "Who is Franco Cristaldi married to?", "answers": ["Claudia Cardinale", "Zeudi Araya", "Carla Simonetti"], "Concept": [{"fullLabel": "Franco Cristaldi", "pageID": "11980470"}], "tags": ["#cvt"] }
+{ "qId": "syn010912", "qText": "When was Frank Capra born?", "answers": ["1897-05-18"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
+{ "qId": "syn010913", "qText": "Where was Frank Capra born?", "answers": ["Bisacquino"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
+{ "qId": "syn010914", "qText": "What is Frank Capra's birth place?", "answers": ["Bisacquino"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
+{ "qId": "syn010915", "qText": "When did Frank Capra die?", "answers": ["1991-09-03"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
+{ "qId": "syn010916", "qText": "Where did Frank Capra die?", "answers": ["La Quinta"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
+{ "qId": "syn010917", "qText": "How did Frank Capra die?", "answers": ["Myocardial infarction", "Heart failure"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
+{ "qId": "syn010918", "qText": "Where is Frank Capra buried?", "answers": ["Coachella Valley Public Cemetery"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
+{ "qId": "syn010919", "qText": "What is Frank Capra's nationality?", "answers": ["United States of America", "Italy"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
+{ "qId": "syn010920", "qText": "Where is Frank Capra from?", "answers": ["Bisacquino"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
+{ "qId": "syn010921", "qText": "How high is Frank Capra?", "answers": ["1.7"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
+{ "qId": "syn010922", "qText": "How tall is Frank Capra?", "answers": ["1.7"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
+{ "qId": "syn010923", "qText": "What's the Frank Capra's height?", "answers": ["1.7"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
+{ "qId": "syn010924", "qText": "Who are the parents of Frank Capra?", "answers": ["Sarah Nicolas", "Salvatore Capra"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#basic"] }
+{ "qId": "syn010925", "qText": "Who is Frank Capra's father?", "answers": ["Salvatore Capra"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#cmplx"] }
+{ "qId": "syn010926", "qText": "Who is Frank Capra's mother?", "answers": ["Sarah Nicolas"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#cmplx"] }
+{ "qId": "syn010927", "qText": "Who is Frank Capra married to?", "answers": ["Lou Capra", "Helen Howell"], "Concept": [{"fullLabel": "Frank Capra", "pageID": "11369"}], "tags": ["#cvt"] }
+{ "qId": "syn010928", "qText": "When was Frank Darabont born?", "answers": ["1959-01-28"], "Concept": [{"fullLabel": "Frank Darabont", "pageID": "1046823"}], "tags": ["#basic"] }
+{ "qId": "syn010929", "qText": "Where was Frank Darabont born?", "answers": ["Montbéliard"], "Concept": [{"fullLabel": "Frank Darabont", "pageID": "1046823"}], "tags": ["#basic"] }
+{ "qId": "syn010930", "qText": "What is Frank Darabont's birth place?", "answers": ["Montbéliard"], "Concept": [{"fullLabel": "Frank Darabont", "pageID": "1046823"}], "tags": ["#basic"] }
+{ "qId": "syn010935", "qText": "What is Frank Darabont's nationality?", "answers": ["France", "United States of America", "Hungary"], "Concept": [{"fullLabel": "Frank Darabont", "pageID": "1046823"}], "tags": ["#basic"] }
+{ "qId": "syn010936", "qText": "Where is Frank Darabont from?", "answers": ["Montbéliard"], "Concept": [{"fullLabel": "Frank Darabont", "pageID": "1046823"}], "tags": ["#basic"] }
+{ "qId": "syn010943", "qText": "Who is Frank Darabont married to?", "answers": ["Karyn Wagner"], "Concept": [{"fullLabel": "Frank Darabont", "pageID": "1046823"}], "tags": ["#cvt"] }
+{ "qId": "syn010944", "qText": "When was Frank Marshall born?", "answers": ["1946-09-13"], "Concept": [{"fullLabel": "Frank Marshall", "pageID": "664779"}], "tags": ["#basic"] }
+{ "qId": "syn010945", "qText": "Where was Frank Marshall born?", "answers": ["Glendale"], "Concept": [{"fullLabel": "Frank Marshall", "pageID": "664779"}], "tags": ["#basic"] }
+{ "qId": "syn010946", "qText": "What is Frank Marshall's birth place?", "answers": ["Glendale"], "Concept": [{"fullLabel": "Frank Marshall", "pageID": "664779"}], "tags": ["#basic"] }
+{ "qId": "syn010951", "qText": "What is Frank Marshall's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Frank Marshall", "pageID": "664779"}], "tags": ["#basic"] }
+{ "qId": "syn010952", "qText": "Where is Frank Marshall from?", "answers": ["Glendale"], "Concept": [{"fullLabel": "Frank Marshall", "pageID": "664779"}], "tags": ["#basic"] }
+{ "qId": "syn010956", "qText": "Who are the parents of Frank Marshall?", "answers": ["Jack Marshall"], "Concept": [{"fullLabel": "Frank Marshall", "pageID": "664779"}], "tags": ["#basic"] }
+{ "qId": "syn010957", "qText": "Who is Frank Marshall's father?", "answers": ["Jack Marshall"], "Concept": [{"fullLabel": "Frank Marshall", "pageID": "664779"}], "tags": ["#cmplx"] }
+{ "qId": "syn010959", "qText": "Who is Frank Marshall married to?", "answers": ["Kathleen Kennedy"], "Concept": [{"fullLabel": "Frank Marshall", "pageID": "664779"}], "tags": ["#cvt"] }
+{ "qId": "syn010976", "qText": "When was Fran Walsh born?", "answers": ["1959-01-10"], "Concept": [{"fullLabel": "Fran Walsh", "pageID": "454104"}], "tags": ["#basic"] }
+{ "qId": "syn010977", "qText": "Where was Fran Walsh born?", "answers": ["Wellington"], "Concept": [{"fullLabel": "Fran Walsh", "pageID": "454104"}], "tags": ["#basic"] }
+{ "qId": "syn010978", "qText": "What is Fran Walsh's birth place?", "answers": ["Wellington"], "Concept": [{"fullLabel": "Fran Walsh", "pageID": "454104"}], "tags": ["#basic"] }
+{ "qId": "syn010983", "qText": "What is Fran Walsh's nationality?", "answers": ["New Zealand"], "Concept": [{"fullLabel": "Fran Walsh", "pageID": "454104"}], "tags": ["#basic"] }
+{ "qId": "syn010984", "qText": "Where is Fran Walsh from?", "answers": ["Wellington"], "Concept": [{"fullLabel": "Fran Walsh", "pageID": "454104"}], "tags": ["#basic"] }
+{ "qId": "syn010991", "qText": "Who is Fran Walsh married to?", "answers": ["Peter Jackson"], "Concept": [{"fullLabel": "Fran Walsh", "pageID": "454104"}], "tags": ["#cvt"] }
 { "qId": "syn010992", "qText": "When was Fred Roos born?", "answers": ["1934-05-22"], "Concept": [{"fullLabel": "Fred Roos", "pageID": "7719637"}], "tags": ["#basic"] }
 { "qId": "syn010993", "qText": "Where was Fred Roos born?", "answers": ["Santa Monica"], "Concept": [{"fullLabel": "Fred Roos", "pageID": "7719637"}], "tags": ["#basic"] }
 { "qId": "syn010994", "qText": "What is Fred Roos's birth place?", "answers": ["Santa Monica"], "Concept": [{"fullLabel": "Fred Roos", "pageID": "7719637"}], "tags": ["#basic"] }
@@ -455,94 +455,94 @@
 { "qId": "syn011004", "qText": "Who are the parents of Fred Roos?", "answers": ["Florence Mary Roos", "Victor Otto Roos"], "Concept": [{"fullLabel": "Fred Roos", "pageID": "7719637"}], "tags": ["#basic"] }
 { "qId": "syn011005", "qText": "Who is Fred Roos's father?", "answers": ["Victor Otto Roos"], "Concept": [{"fullLabel": "Fred Roos", "pageID": "7719637"}], "tags": ["#cmplx"] }
 { "qId": "syn011006", "qText": "Who is Fred Roos's mother?", "answers": ["Florence Mary Roos"], "Concept": [{"fullLabel": "Fred Roos", "pageID": "7719637"}], "tags": ["#cmplx"] }
-{ "qId": "syn011040", "qText": "When was Gale Anne Hurd born?", "answers": ["1955-10-25"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
-{ "qId": "syn011041", "qText": "Where was Gale Anne Hurd born?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
-{ "qId": "syn011042", "qText": "What is Gale Anne Hurd's birth place?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
-{ "qId": "syn011047", "qText": "What is Gale Anne Hurd's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
-{ "qId": "syn011048", "qText": "Where is Gale Anne Hurd from?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
-{ "qId": "syn011049", "qText": "How high is Gale Anne Hurd?", "answers": ["1.63"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
-{ "qId": "syn011050", "qText": "How tall is Gale Anne Hurd?", "answers": ["1.63"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
-{ "qId": "syn011051", "qText": "What's the Gale Anne Hurd's height?", "answers": ["1.63"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
-{ "qId": "syn011052", "qText": "Who are the parents of Gale Anne Hurd?", "answers": ["Frank E. Hurd", "Lolita Hurd"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
-{ "qId": "syn011053", "qText": "Who is Gale Anne Hurd's father?", "answers": ["Frank E. Hurd"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#cmplx"] }
-{ "qId": "syn011054", "qText": "Who is Gale Anne Hurd's mother?", "answers": ["Lolita Hurd"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#cmplx"] }
-{ "qId": "syn011055", "qText": "Who is Gale Anne Hurd married to?", "answers": ["Jonathan Hensleigh", "James Cameron", "Brian De Palma"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#cvt"] }
-{ "qId": "syn011056", "qText": "When was Gary Kurtz born?", "answers": ["1940-07-27"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#basic"] }
-{ "qId": "syn011057", "qText": "Where was Gary Kurtz born?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#basic"] }
-{ "qId": "syn011058", "qText": "What is Gary Kurtz's birth place?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#basic"] }
-{ "qId": "syn011063", "qText": "What is Gary Kurtz's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#basic"] }
-{ "qId": "syn011064", "qText": "Where is Gary Kurtz from?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#basic"] }
-{ "qId": "syn011068", "qText": "Who are the parents of Gary Kurtz?", "answers": ["Eldo M. Kurtz", "Sarah H. Kurtz"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#basic"] }
-{ "qId": "syn011069", "qText": "Who is Gary Kurtz's father?", "answers": ["Eldo M. Kurtz"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#cmplx"] }
-{ "qId": "syn011070", "qText": "Who is Gary Kurtz's mother?", "answers": ["Sarah H. Kurtz"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#cmplx"] }
-{ "qId": "syn011071", "qText": "Who is Gary Kurtz married to?", "answers": ["Clare Gabriel", "Meredith Alsup Kurtz", "Roberta Kurtz"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#cvt"] }
-{ "qId": "syn011072", "qText": "When was Gene Kelly born?", "answers": ["1912-08-23"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
-{ "qId": "syn011073", "qText": "Where was Gene Kelly born?", "answers": ["Highland Park"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
-{ "qId": "syn011074", "qText": "What is Gene Kelly's birth place?", "answers": ["Highland Park"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
-{ "qId": "syn011075", "qText": "When did Gene Kelly die?", "answers": ["1996-02-02"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
-{ "qId": "syn011076", "qText": "Where did Gene Kelly die?", "answers": ["Beverly Hills"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
-{ "qId": "syn011077", "qText": "How did Gene Kelly die?", "answers": ["Stroke"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
-{ "qId": "syn011079", "qText": "What is Gene Kelly's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
-{ "qId": "syn011080", "qText": "Where is Gene Kelly from?", "answers": ["Highland Park"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
-{ "qId": "syn011081", "qText": "How high is Gene Kelly?", "answers": ["1.7"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
-{ "qId": "syn011082", "qText": "How tall is Gene Kelly?", "answers": ["1.7"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
-{ "qId": "syn011083", "qText": "What's the Gene Kelly's height?", "answers": ["1.7"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
-{ "qId": "syn011084", "qText": "Who are the parents of Gene Kelly?", "answers": ["James Kelly", "Harriet Curran"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
-{ "qId": "syn011085", "qText": "Who is Gene Kelly's father?", "answers": ["James Kelly"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#cmplx"] }
-{ "qId": "syn011086", "qText": "Who is Gene Kelly's mother?", "answers": ["Harriet Curran"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#cmplx"] }
-{ "qId": "syn011087", "qText": "Who is Gene Kelly married to?", "answers": ["Patricia Ward", "Betsy Blair", "Jeanne Coyne"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#cvt"] }
-{ "qId": "syn011088", "qText": "When was George Lucas born?", "answers": ["1944-05-14"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
-{ "qId": "syn011089", "qText": "Where was George Lucas born?", "answers": ["Modesto"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
-{ "qId": "syn011090", "qText": "What is George Lucas's birth place?", "answers": ["Modesto"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
-{ "qId": "syn011095", "qText": "What is George Lucas's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
-{ "qId": "syn011096", "qText": "Where is George Lucas from?", "answers": ["Modesto"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
-{ "qId": "syn011097", "qText": "How high is George Lucas?", "answers": ["1.7"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
-{ "qId": "syn011098", "qText": "How tall is George Lucas?", "answers": ["1.7"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
-{ "qId": "syn011099", "qText": "What's the George Lucas's height?", "answers": ["1.7"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
-{ "qId": "syn011100", "qText": "Who are the parents of George Lucas?", "answers": ["Dorothy Ellinore Bomberger", "George Walton Lucas Sr."], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
-{ "qId": "syn011101", "qText": "Who is George Lucas's father?", "answers": ["George Walton Lucas Sr."], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#cmplx"] }
-{ "qId": "syn011102", "qText": "Who is George Lucas's mother?", "answers": ["Dorothy Ellinore Bomberger"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#cmplx"] }
-{ "qId": "syn011103", "qText": "Who is George Lucas married to?", "answers": ["Marcia Lucas", "Mellody Hobson"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#cvt"] }
-{ "qId": "syn011104", "qText": "When was George Macready born?", "answers": ["1899-08-29"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#basic"] }
-{ "qId": "syn011105", "qText": "Where was George Macready born?", "answers": ["Providence"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#basic"] }
-{ "qId": "syn011106", "qText": "What is George Macready's birth place?", "answers": ["Providence"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#basic"] }
-{ "qId": "syn011107", "qText": "When did George Macready die?", "answers": ["1973-07-02"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#basic"] }
-{ "qId": "syn011108", "qText": "Where did George Macready die?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#basic"] }
-{ "qId": "syn011109", "qText": "How did George Macready die?", "answers": ["Emphysema"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#basic"] }
-{ "qId": "syn011111", "qText": "What is George Macready's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#basic"] }
-{ "qId": "syn011112", "qText": "Where is George Macready from?", "answers": ["Providence"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#basic"] }
-{ "qId": "syn011119", "qText": "Who is George Macready married to?", "answers": ["Elizabeth Dana Patterson"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#cvt"] }
-{ "qId": "syn011120", "qText": "When was George Roy Hill born?", "answers": ["1921-12-20"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
-{ "qId": "syn011121", "qText": "Where was George Roy Hill born?", "answers": ["Minneapolis"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
-{ "qId": "syn011122", "qText": "What is George Roy Hill's birth place?", "answers": ["Minneapolis"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
-{ "qId": "syn011123", "qText": "When did George Roy Hill die?", "answers": ["2002-12-27"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
-{ "qId": "syn011124", "qText": "Where did George Roy Hill die?", "answers": ["New York City"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
-{ "qId": "syn011125", "qText": "How did George Roy Hill die?", "answers": ["Parkinson's disease"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
-{ "qId": "syn011127", "qText": "What is George Roy Hill's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
-{ "qId": "syn011128", "qText": "Where is George Roy Hill from?", "answers": ["Minneapolis"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
-{ "qId": "syn011132", "qText": "Who are the parents of George Roy Hill?", "answers": ["Helen Frances Hill", "George Roy Hill"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
-{ "qId": "syn011133", "qText": "Who is George Roy Hill's father?", "answers": ["George Roy Hill"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#cmplx"] }
-{ "qId": "syn011134", "qText": "Who is George Roy Hill's mother?", "answers": ["Helen Frances Hill"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#cmplx"] }
-{ "qId": "syn011135", "qText": "Who is George Roy Hill married to?", "answers": ["Louisa Horton Hill"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#cvt"] }
-{ "qId": "syn011136", "qText": "When was Giuseppe Amato born?", "answers": ["1899-08-24"], "Concept": [{"fullLabel": "Giuseppe Amato", "pageID": "18690503"}], "tags": ["#basic"] }
-{ "qId": "syn011137", "qText": "Where was Giuseppe Amato born?", "answers": ["Naples"], "Concept": [{"fullLabel": "Giuseppe Amato", "pageID": "18690503"}], "tags": ["#basic"] }
-{ "qId": "syn011138", "qText": "What is Giuseppe Amato's birth place?", "answers": ["Naples"], "Concept": [{"fullLabel": "Giuseppe Amato", "pageID": "18690503"}], "tags": ["#basic"] }
-{ "qId": "syn011139", "qText": "When did Giuseppe Amato die?", "answers": ["1964-02-03"], "Concept": [{"fullLabel": "Giuseppe Amato", "pageID": "18690503"}], "tags": ["#basic"] }
-{ "qId": "syn011140", "qText": "Where did Giuseppe Amato die?", "answers": ["Rome"], "Concept": [{"fullLabel": "Giuseppe Amato", "pageID": "18690503"}], "tags": ["#basic"] }
-{ "qId": "syn011141", "qText": "How did Giuseppe Amato die?", "answers": ["Myocardial infarction"], "Concept": [{"fullLabel": "Giuseppe Amato", "pageID": "18690503"}], "tags": ["#basic"] }
-{ "qId": "syn011143", "qText": "What is Giuseppe Amato's nationality?", "answers": ["Italy"], "Concept": [{"fullLabel": "Giuseppe Amato", "pageID": "18690503"}], "tags": ["#basic"] }
-{ "qId": "syn011144", "qText": "Where is Giuseppe Amato from?", "answers": ["Naples"], "Concept": [{"fullLabel": "Giuseppe Amato", "pageID": "18690503"}], "tags": ["#basic"] }
-{ "qId": "syn011152", "qText": "When was Giuseppe Tornatore born?", "answers": ["1956-05-27"], "Concept": [{"fullLabel": "Giuseppe Tornatore", "pageID": "430416"}], "tags": ["#basic"] }
-{ "qId": "syn011153", "qText": "Where was Giuseppe Tornatore born?", "answers": ["Bagheria"], "Concept": [{"fullLabel": "Giuseppe Tornatore", "pageID": "430416"}], "tags": ["#basic"] }
-{ "qId": "syn011154", "qText": "What is Giuseppe Tornatore's birth place?", "answers": ["Bagheria"], "Concept": [{"fullLabel": "Giuseppe Tornatore", "pageID": "430416"}], "tags": ["#basic"] }
-{ "qId": "syn011159", "qText": "What is Giuseppe Tornatore's nationality?", "answers": ["Italy"], "Concept": [{"fullLabel": "Giuseppe Tornatore", "pageID": "430416"}], "tags": ["#basic"] }
-{ "qId": "syn011160", "qText": "Where is Giuseppe Tornatore from?", "answers": ["Bagheria"], "Concept": [{"fullLabel": "Giuseppe Tornatore", "pageID": "430416"}], "tags": ["#basic"] }
-{ "qId": "syn011164", "qText": "Who are the parents of Giuseppe Tornatore?", "answers": ["Peppino Tornatore"], "Concept": [{"fullLabel": "Giuseppe Tornatore", "pageID": "430416"}], "tags": ["#basic"] }
-{ "qId": "syn011165", "qText": "Who is Giuseppe Tornatore's father?", "answers": ["Peppino Tornatore"], "Concept": [{"fullLabel": "Giuseppe Tornatore", "pageID": "430416"}], "tags": ["#cmplx"] }
-{ "qId": "syn011168", "qText": "When was Gloria Graham born?", "answers": ["1940"], "Concept": [{"fullLabel": "Gloria Graham", "pageID": "23219849"}], "tags": ["#basic"] }
-{ "qId": "syn011169", "qText": "Where was Gloria Graham born?", "answers": ["Texas"], "Concept": [{"fullLabel": "Gloria Graham", "pageID": "23219849"}], "tags": ["#basic"] }
-{ "qId": "syn011170", "qText": "What is Gloria Graham's birth place?", "answers": ["Texas"], "Concept": [{"fullLabel": "Gloria Graham", "pageID": "23219849"}], "tags": ["#basic"] }
-{ "qId": "syn011176", "qText": "Where is Gloria Graham from?", "answers": ["Texas"], "Concept": [{"fullLabel": "Gloria Graham", "pageID": "23219849"}], "tags": ["#basic"] }
+{ "qId": "syn011024", "qText": "When was Gale Anne Hurd born?", "answers": ["1955-10-25"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
+{ "qId": "syn011025", "qText": "Where was Gale Anne Hurd born?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
+{ "qId": "syn011026", "qText": "What is Gale Anne Hurd's birth place?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
+{ "qId": "syn011031", "qText": "What is Gale Anne Hurd's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
+{ "qId": "syn011032", "qText": "Where is Gale Anne Hurd from?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
+{ "qId": "syn011033", "qText": "How high is Gale Anne Hurd?", "answers": ["1.63"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
+{ "qId": "syn011034", "qText": "How tall is Gale Anne Hurd?", "answers": ["1.63"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
+{ "qId": "syn011035", "qText": "What's the Gale Anne Hurd's height?", "answers": ["1.63"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
+{ "qId": "syn011036", "qText": "Who are the parents of Gale Anne Hurd?", "answers": ["Frank E. Hurd", "Lolita Hurd"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#basic"] }
+{ "qId": "syn011037", "qText": "Who is Gale Anne Hurd's father?", "answers": ["Frank E. Hurd"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#cmplx"] }
+{ "qId": "syn011038", "qText": "Who is Gale Anne Hurd's mother?", "answers": ["Lolita Hurd"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#cmplx"] }
+{ "qId": "syn011039", "qText": "Who is Gale Anne Hurd married to?", "answers": ["Jonathan Hensleigh", "James Cameron", "Brian De Palma"], "Concept": [{"fullLabel": "Gale Anne Hurd", "pageID": "3766393"}], "tags": ["#cvt"] }
+{ "qId": "syn011040", "qText": "When was Gary Kurtz born?", "answers": ["1940-07-27"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#basic"] }
+{ "qId": "syn011041", "qText": "Where was Gary Kurtz born?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#basic"] }
+{ "qId": "syn011042", "qText": "What is Gary Kurtz's birth place?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#basic"] }
+{ "qId": "syn011047", "qText": "What is Gary Kurtz's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#basic"] }
+{ "qId": "syn011048", "qText": "Where is Gary Kurtz from?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#basic"] }
+{ "qId": "syn011052", "qText": "Who are the parents of Gary Kurtz?", "answers": ["Eldo M. Kurtz", "Sarah H. Kurtz"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#basic"] }
+{ "qId": "syn011053", "qText": "Who is Gary Kurtz's father?", "answers": ["Eldo M. Kurtz"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#cmplx"] }
+{ "qId": "syn011054", "qText": "Who is Gary Kurtz's mother?", "answers": ["Sarah H. Kurtz"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#cmplx"] }
+{ "qId": "syn011055", "qText": "Who is Gary Kurtz married to?", "answers": ["Clare Gabriel", "Meredith Alsup Kurtz", "Roberta Kurtz"], "Concept": [{"fullLabel": "Gary Kurtz", "pageID": "1737466"}], "tags": ["#cvt"] }
+{ "qId": "syn011056", "qText": "When was Gene Kelly born?", "answers": ["1912-08-23"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
+{ "qId": "syn011057", "qText": "Where was Gene Kelly born?", "answers": ["Highland Park"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
+{ "qId": "syn011058", "qText": "What is Gene Kelly's birth place?", "answers": ["Highland Park"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
+{ "qId": "syn011059", "qText": "When did Gene Kelly die?", "answers": ["1996-02-02"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
+{ "qId": "syn011060", "qText": "Where did Gene Kelly die?", "answers": ["Beverly Hills"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
+{ "qId": "syn011061", "qText": "How did Gene Kelly die?", "answers": ["Stroke"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
+{ "qId": "syn011063", "qText": "What is Gene Kelly's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
+{ "qId": "syn011064", "qText": "Where is Gene Kelly from?", "answers": ["Highland Park"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
+{ "qId": "syn011065", "qText": "How high is Gene Kelly?", "answers": ["1.7"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
+{ "qId": "syn011066", "qText": "How tall is Gene Kelly?", "answers": ["1.7"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
+{ "qId": "syn011067", "qText": "What's the Gene Kelly's height?", "answers": ["1.7"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
+{ "qId": "syn011068", "qText": "Who are the parents of Gene Kelly?", "answers": ["James Kelly", "Harriet Curran"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#basic"] }
+{ "qId": "syn011069", "qText": "Who is Gene Kelly's father?", "answers": ["James Kelly"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#cmplx"] }
+{ "qId": "syn011070", "qText": "Who is Gene Kelly's mother?", "answers": ["Harriet Curran"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#cmplx"] }
+{ "qId": "syn011071", "qText": "Who is Gene Kelly married to?", "answers": ["Patricia Ward", "Betsy Blair", "Jeanne Coyne"], "Concept": [{"fullLabel": "Gene Kelly", "pageID": "12209"}], "tags": ["#cvt"] }
+{ "qId": "syn011072", "qText": "When was George Lucas born?", "answers": ["1944-05-14"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
+{ "qId": "syn011073", "qText": "Where was George Lucas born?", "answers": ["Modesto"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
+{ "qId": "syn011074", "qText": "What is George Lucas's birth place?", "answers": ["Modesto"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
+{ "qId": "syn011079", "qText": "What is George Lucas's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
+{ "qId": "syn011080", "qText": "Where is George Lucas from?", "answers": ["Modesto"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
+{ "qId": "syn011081", "qText": "How high is George Lucas?", "answers": ["1.7"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
+{ "qId": "syn011082", "qText": "How tall is George Lucas?", "answers": ["1.7"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
+{ "qId": "syn011083", "qText": "What's the George Lucas's height?", "answers": ["1.7"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
+{ "qId": "syn011084", "qText": "Who are the parents of George Lucas?", "answers": ["Dorothy Ellinore Bomberger", "George Walton Lucas Sr."], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#basic"] }
+{ "qId": "syn011085", "qText": "Who is George Lucas's father?", "answers": ["George Walton Lucas Sr."], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#cmplx"] }
+{ "qId": "syn011086", "qText": "Who is George Lucas's mother?", "answers": ["Dorothy Ellinore Bomberger"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#cmplx"] }
+{ "qId": "syn011087", "qText": "Who is George Lucas married to?", "answers": ["Marcia Lucas", "Mellody Hobson"], "Concept": [{"fullLabel": "George Lucas", "pageID": "11857"}], "tags": ["#cvt"] }
+{ "qId": "syn011088", "qText": "When was George Macready born?", "answers": ["1899-08-29"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#basic"] }
+{ "qId": "syn011089", "qText": "Where was George Macready born?", "answers": ["Providence"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#basic"] }
+{ "qId": "syn011090", "qText": "What is George Macready's birth place?", "answers": ["Providence"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#basic"] }
+{ "qId": "syn011091", "qText": "When did George Macready die?", "answers": ["1973-07-02"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#basic"] }
+{ "qId": "syn011092", "qText": "Where did George Macready die?", "answers": ["Los Angeles"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#basic"] }
+{ "qId": "syn011093", "qText": "How did George Macready die?", "answers": ["Emphysema"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#basic"] }
+{ "qId": "syn011095", "qText": "What is George Macready's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#basic"] }
+{ "qId": "syn011096", "qText": "Where is George Macready from?", "answers": ["Providence"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#basic"] }
+{ "qId": "syn011103", "qText": "Who is George Macready married to?", "answers": ["Elizabeth Dana Patterson"], "Concept": [{"fullLabel": "George Macready", "pageID": "2083301"}], "tags": ["#cvt"] }
+{ "qId": "syn011104", "qText": "When was George Roy Hill born?", "answers": ["1921-12-20"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
+{ "qId": "syn011105", "qText": "Where was George Roy Hill born?", "answers": ["Minneapolis"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
+{ "qId": "syn011106", "qText": "What is George Roy Hill's birth place?", "answers": ["Minneapolis"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
+{ "qId": "syn011107", "qText": "When did George Roy Hill die?", "answers": ["2002-12-27"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
+{ "qId": "syn011108", "qText": "Where did George Roy Hill die?", "answers": ["New York City"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
+{ "qId": "syn011109", "qText": "How did George Roy Hill die?", "answers": ["Parkinson's disease"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
+{ "qId": "syn011111", "qText": "What is George Roy Hill's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
+{ "qId": "syn011112", "qText": "Where is George Roy Hill from?", "answers": ["Minneapolis"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
+{ "qId": "syn011116", "qText": "Who are the parents of George Roy Hill?", "answers": ["Helen Frances Hill", "George Roy Hill"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#basic"] }
+{ "qId": "syn011117", "qText": "Who is George Roy Hill's father?", "answers": ["George Roy Hill"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#cmplx"] }
+{ "qId": "syn011118", "qText": "Who is George Roy Hill's mother?", "answers": ["Helen Frances Hill"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#cmplx"] }
+{ "qId": "syn011119", "qText": "Who is George Roy Hill married to?", "answers": ["Louisa Horton Hill"], "Concept": [{"fullLabel": "George Roy Hill", "pageID": "162081"}], "tags": ["#cvt"] }
+{ "qId": "syn011120", "qText": "When was Giuseppe Amato born?", "answers": ["1899-08-24"], "Concept": [{"fullLabel": "Giuseppe Amato", "pageID": "18690503"}], "tags": ["#basic"] }
+{ "qId": "syn011121", "qText": "Where was Giuseppe Amato born?", "answers": ["Naples"], "Concept": [{"fullLabel": "Giuseppe Amato", "pageID": "18690503"}], "tags": ["#basic"] }
+{ "qId": "syn011122", "qText": "What is Giuseppe Amato's birth place?", "answers": ["Naples"], "Concept": [{"fullLabel": "Giuseppe Amato", "pageID": "18690503"}], "tags": ["#basic"] }
+{ "qId": "syn011123", "qText": "When did Giuseppe Amato die?", "answers": ["1964-02-03"], "Concept": [{"fullLabel": "Giuseppe Amato", "pageID": "18690503"}], "tags": ["#basic"] }
+{ "qId": "syn011124", "qText": "Where did Giuseppe Amato die?", "answers": ["Rome"], "Concept": [{"fullLabel": "Giuseppe Amato", "pageID": "18690503"}], "tags": ["#basic"] }
+{ "qId": "syn011125", "qText": "How did Giuseppe Amato die?", "answers": ["Myocardial infarction"], "Concept": [{"fullLabel": "Giuseppe Amato", "pageID": "18690503"}], "tags": ["#basic"] }
+{ "qId": "syn011127", "qText": "What is Giuseppe Amato's nationality?", "answers": ["Italy"], "Concept": [{"fullLabel": "Giuseppe Amato", "pageID": "18690503"}], "tags": ["#basic"] }
+{ "qId": "syn011128", "qText": "Where is Giuseppe Amato from?", "answers": ["Naples"], "Concept": [{"fullLabel": "Giuseppe Amato", "pageID": "18690503"}], "tags": ["#basic"] }
+{ "qId": "syn011136", "qText": "When was Giuseppe Tornatore born?", "answers": ["1956-05-27"], "Concept": [{"fullLabel": "Giuseppe Tornatore", "pageID": "430416"}], "tags": ["#basic"] }
+{ "qId": "syn011137", "qText": "Where was Giuseppe Tornatore born?", "answers": ["Bagheria"], "Concept": [{"fullLabel": "Giuseppe Tornatore", "pageID": "430416"}], "tags": ["#basic"] }
+{ "qId": "syn011138", "qText": "What is Giuseppe Tornatore's birth place?", "answers": ["Bagheria"], "Concept": [{"fullLabel": "Giuseppe Tornatore", "pageID": "430416"}], "tags": ["#basic"] }
+{ "qId": "syn011143", "qText": "What is Giuseppe Tornatore's nationality?", "answers": ["Italy"], "Concept": [{"fullLabel": "Giuseppe Tornatore", "pageID": "430416"}], "tags": ["#basic"] }
+{ "qId": "syn011144", "qText": "Where is Giuseppe Tornatore from?", "answers": ["Bagheria"], "Concept": [{"fullLabel": "Giuseppe Tornatore", "pageID": "430416"}], "tags": ["#basic"] }
+{ "qId": "syn011148", "qText": "Who are the parents of Giuseppe Tornatore?", "answers": ["Peppino Tornatore"], "Concept": [{"fullLabel": "Giuseppe Tornatore", "pageID": "430416"}], "tags": ["#basic"] }
+{ "qId": "syn011149", "qText": "Who is Giuseppe Tornatore's father?", "answers": ["Peppino Tornatore"], "Concept": [{"fullLabel": "Giuseppe Tornatore", "pageID": "430416"}], "tags": ["#cmplx"] }
+{ "qId": "syn011152", "qText": "When was Gloria Graham born?", "answers": ["1940"], "Concept": [{"fullLabel": "Gloria Graham", "pageID": "23219849"}], "tags": ["#basic"] }
+{ "qId": "syn011153", "qText": "Where was Gloria Graham born?", "answers": ["Texas"], "Concept": [{"fullLabel": "Gloria Graham", "pageID": "23219849"}], "tags": ["#basic"] }
+{ "qId": "syn011154", "qText": "What is Gloria Graham's birth place?", "answers": ["Texas"], "Concept": [{"fullLabel": "Gloria Graham", "pageID": "23219849"}], "tags": ["#basic"] }
+{ "qId": "syn011160", "qText": "Where is Gloria Graham from?", "answers": ["Texas"], "Concept": [{"fullLabel": "Gloria Graham", "pageID": "23219849"}], "tags": ["#basic"] }
 { "qId": "syn011184", "qText": "When was Guy Ritchie born?", "answers": ["1968-09-10"], "Concept": [{"fullLabel": "Guy Ritchie", "pageID": "91084"}], "tags": ["#basic"] }
 { "qId": "syn011185", "qText": "Where was Guy Ritchie born?", "answers": ["Hatfield, Hertfordshire"], "Concept": [{"fullLabel": "Guy Ritchie", "pageID": "91084"}], "tags": ["#basic"] }
 { "qId": "syn011186", "qText": "What is Guy Ritchie's birth place?", "answers": ["Hatfield, Hertfordshire"], "Concept": [{"fullLabel": "Guy Ritchie", "pageID": "91084"}], "tags": ["#basic"] }
@@ -1016,30 +1016,30 @@
 { "qId": "syn012413", "qText": "Who is Ridley Scott's father?", "answers": ["Francis Percy Scott"], "Concept": [{"fullLabel": "Ridley Scott", "pageID": "25493"}], "tags": ["#cmplx"] }
 { "qId": "syn012414", "qText": "Who is Ridley Scott's mother?", "answers": ["Elizabeth Jean Scott"], "Concept": [{"fullLabel": "Ridley Scott", "pageID": "25493"}], "tags": ["#cmplx"] }
 { "qId": "syn012415", "qText": "Who is Ridley Scott married to?", "answers": ["Giannina Facio", "Felicity Heywood", "Sandy Watson"], "Concept": [{"fullLabel": "Ridley Scott", "pageID": "25493"}], "tags": ["#cvt"] }
-{ "qId": "syn012416", "qText": "When was Robert Zemeckis born?", "answers": ["1952-05-14"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
-{ "qId": "syn012417", "qText": "Where was Robert Zemeckis born?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
-{ "qId": "syn012418", "qText": "What is Robert Zemeckis's birth place?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
-{ "qId": "syn012423", "qText": "What is Robert Zemeckis's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
-{ "qId": "syn012424", "qText": "Where is Robert Zemeckis from?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
-{ "qId": "syn012425", "qText": "How high is Robert Zemeckis?", "answers": ["1.83"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
-{ "qId": "syn012426", "qText": "How tall is Robert Zemeckis?", "answers": ["1.83"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
-{ "qId": "syn012427", "qText": "What's the Robert Zemeckis's height?", "answers": ["1.83"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
-{ "qId": "syn012428", "qText": "Who are the parents of Robert Zemeckis?", "answers": ["Rose Zemeckis", "Alphonse Zemeckis"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
-{ "qId": "syn012429", "qText": "Who is Robert Zemeckis's father?", "answers": ["Alphonse Zemeckis"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#cmplx"] }
-{ "qId": "syn012430", "qText": "Who is Robert Zemeckis's mother?", "answers": ["Rose Zemeckis"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#cmplx"] }
-{ "qId": "syn012431", "qText": "Who is Robert Zemeckis married to?", "answers": ["Mary Ellen Trainor", "Leslie Harter Zemeckis"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#cvt"] }
-{ "qId": "syn012432", "qText": "When was Roberto Benigni born?", "answers": ["1952-10-27"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
-{ "qId": "syn012433", "qText": "Where was Roberto Benigni born?", "answers": ["Castiglion Fiorentino"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
-{ "qId": "syn012434", "qText": "What is Roberto Benigni's birth place?", "answers": ["Castiglion Fiorentino"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
-{ "qId": "syn012439", "qText": "What is Roberto Benigni's nationality?", "answers": ["Italy"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
-{ "qId": "syn012440", "qText": "Where is Roberto Benigni from?", "answers": ["Castiglion Fiorentino"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
-{ "qId": "syn012441", "qText": "How high is Roberto Benigni?", "answers": ["1.689"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
-{ "qId": "syn012442", "qText": "How tall is Roberto Benigni?", "answers": ["1.689"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
-{ "qId": "syn012443", "qText": "What's the Roberto Benigni's height?", "answers": ["1.689"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
-{ "qId": "syn012444", "qText": "Who are the parents of Roberto Benigni?", "answers": ["Isolina Papini", "Remigio Benigni"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
-{ "qId": "syn012445", "qText": "Who is Roberto Benigni's father?", "answers": ["Remigio Benigni"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#cmplx"] }
-{ "qId": "syn012446", "qText": "Who is Roberto Benigni's mother?", "answers": ["Isolina Papini"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#cmplx"] }
-{ "qId": "syn012447", "qText": "Who is Roberto Benigni married to?", "answers": ["Nicoletta Braschi"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#cvt"] }
+{ "qId": "syn012416", "qText": "When was Roberto Benigni born?", "answers": ["1952-10-27"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
+{ "qId": "syn012417", "qText": "Where was Roberto Benigni born?", "answers": ["Castiglion Fiorentino"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
+{ "qId": "syn012418", "qText": "What is Roberto Benigni's birth place?", "answers": ["Castiglion Fiorentino"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
+{ "qId": "syn012423", "qText": "What is Roberto Benigni's nationality?", "answers": ["Italy"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
+{ "qId": "syn012424", "qText": "Where is Roberto Benigni from?", "answers": ["Castiglion Fiorentino"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
+{ "qId": "syn012425", "qText": "How high is Roberto Benigni?", "answers": ["1.689"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
+{ "qId": "syn012426", "qText": "How tall is Roberto Benigni?", "answers": ["1.689"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
+{ "qId": "syn012427", "qText": "What's the Roberto Benigni's height?", "answers": ["1.689"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
+{ "qId": "syn012428", "qText": "Who are the parents of Roberto Benigni?", "answers": ["Isolina Papini", "Remigio Benigni"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#basic"] }
+{ "qId": "syn012429", "qText": "Who is Roberto Benigni's father?", "answers": ["Remigio Benigni"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#cmplx"] }
+{ "qId": "syn012430", "qText": "Who is Roberto Benigni's mother?", "answers": ["Isolina Papini"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#cmplx"] }
+{ "qId": "syn012431", "qText": "Who is Roberto Benigni married to?", "answers": ["Nicoletta Braschi"], "Concept": [{"fullLabel": "Roberto Benigni", "pageID": "46344"}], "tags": ["#cvt"] }
+{ "qId": "syn012432", "qText": "When was Robert Zemeckis born?", "answers": ["1952-05-14"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
+{ "qId": "syn012433", "qText": "Where was Robert Zemeckis born?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
+{ "qId": "syn012434", "qText": "What is Robert Zemeckis's birth place?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
+{ "qId": "syn012439", "qText": "What is Robert Zemeckis's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
+{ "qId": "syn012440", "qText": "Where is Robert Zemeckis from?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
+{ "qId": "syn012441", "qText": "How high is Robert Zemeckis?", "answers": ["1.83"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
+{ "qId": "syn012442", "qText": "How tall is Robert Zemeckis?", "answers": ["1.83"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
+{ "qId": "syn012443", "qText": "What's the Robert Zemeckis's height?", "answers": ["1.83"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
+{ "qId": "syn012444", "qText": "Who are the parents of Robert Zemeckis?", "answers": ["Rose Zemeckis", "Alphonse Zemeckis"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#basic"] }
+{ "qId": "syn012445", "qText": "Who is Robert Zemeckis's father?", "answers": ["Alphonse Zemeckis"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#cmplx"] }
+{ "qId": "syn012446", "qText": "Who is Robert Zemeckis's mother?", "answers": ["Rose Zemeckis"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#cmplx"] }
+{ "qId": "syn012447", "qText": "Who is Robert Zemeckis married to?", "answers": ["Mary Ellen Trainor", "Leslie Harter Zemeckis"], "Concept": [{"fullLabel": "Robert Zemeckis", "pageID": "213266"}], "tags": ["#cvt"] }
 { "qId": "syn012448", "qText": "When was Roger Allers born?", "answers": ["1949"], "Concept": [{"fullLabel": "Roger Allers", "pageID": "4276567"}], "tags": ["#basic"] }
 { "qId": "syn012449", "qText": "Where was Roger Allers born?", "answers": ["Rye"], "Concept": [{"fullLabel": "Roger Allers", "pageID": "4276567"}], "tags": ["#basic"] }
 { "qId": "syn012450", "qText": "What is Roger Allers's birth place?", "answers": ["Rye"], "Concept": [{"fullLabel": "Roger Allers", "pageID": "4276567"}], "tags": ["#basic"] }
@@ -1174,19 +1174,19 @@
 { "qId": "syn012690", "qText": "What is Steve Golin's birth place?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Steve Golin", "pageID": "3271981"}], "tags": ["#basic"] }
 { "qId": "syn012695", "qText": "What is Steve Golin's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Steve Golin", "pageID": "3271981"}], "tags": ["#basic"] }
 { "qId": "syn012696", "qText": "Where is Steve Golin from?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Steve Golin", "pageID": "3271981"}], "tags": ["#basic"] }
-{ "qId": "syn012711", "qText": "What is Steve Starkey's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Steve Starkey", "pageID": "21305721"}], "tags": ["#basic"] }
-{ "qId": "syn012720", "qText": "When was Steven Spielberg born?", "answers": ["1946-12-18"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
-{ "qId": "syn012721", "qText": "Where was Steven Spielberg born?", "answers": ["Cincinnati"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
-{ "qId": "syn012722", "qText": "What is Steven Spielberg's birth place?", "answers": ["Cincinnati"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
-{ "qId": "syn012727", "qText": "What is Steven Spielberg's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
-{ "qId": "syn012728", "qText": "Where is Steven Spielberg from?", "answers": ["Cincinnati"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
-{ "qId": "syn012729", "qText": "How high is Steven Spielberg?", "answers": ["1.715"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
-{ "qId": "syn012730", "qText": "How tall is Steven Spielberg?", "answers": ["1.715"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
-{ "qId": "syn012731", "qText": "What's the Steven Spielberg's height?", "answers": ["1.715"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
-{ "qId": "syn012732", "qText": "Who are the parents of Steven Spielberg?", "answers": ["Leah Adler", "Arnold Spielberg"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
-{ "qId": "syn012733", "qText": "Who is Steven Spielberg's father?", "answers": ["Arnold Spielberg"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#cmplx"] }
-{ "qId": "syn012734", "qText": "Who is Steven Spielberg's mother?", "answers": ["Leah Adler"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#cmplx"] }
-{ "qId": "syn012735", "qText": "Who is Steven Spielberg married to?", "answers": ["Kate Capshaw", "Amy Irving"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#cvt"] }
+{ "qId": "syn012704", "qText": "When was Steven Spielberg born?", "answers": ["1946-12-18"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
+{ "qId": "syn012705", "qText": "Where was Steven Spielberg born?", "answers": ["Cincinnati"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
+{ "qId": "syn012706", "qText": "What is Steven Spielberg's birth place?", "answers": ["Cincinnati"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
+{ "qId": "syn012711", "qText": "What is Steven Spielberg's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
+{ "qId": "syn012712", "qText": "Where is Steven Spielberg from?", "answers": ["Cincinnati"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
+{ "qId": "syn012713", "qText": "How high is Steven Spielberg?", "answers": ["1.715"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
+{ "qId": "syn012714", "qText": "How tall is Steven Spielberg?", "answers": ["1.715"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
+{ "qId": "syn012715", "qText": "What's the Steven Spielberg's height?", "answers": ["1.715"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
+{ "qId": "syn012716", "qText": "Who are the parents of Steven Spielberg?", "answers": ["Leah Adler", "Arnold Spielberg"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#basic"] }
+{ "qId": "syn012717", "qText": "Who is Steven Spielberg's father?", "answers": ["Arnold Spielberg"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#cmplx"] }
+{ "qId": "syn012718", "qText": "Who is Steven Spielberg's mother?", "answers": ["Leah Adler"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#cmplx"] }
+{ "qId": "syn012719", "qText": "Who is Steven Spielberg married to?", "answers": ["Kate Capshaw", "Amy Irving"], "Concept": [{"fullLabel": "Steven Spielberg", "pageID": "26940"}], "tags": ["#cvt"] }
+{ "qId": "syn012727", "qText": "What is Steve Starkey's nationality?", "answers": ["United States of America"], "Concept": [{"fullLabel": "Steve Starkey", "pageID": "21305721"}], "tags": ["#basic"] }
 { "qId": "syn012736", "qText": "When was Stuart Holmes born?", "answers": ["1884-03-10"], "Concept": [{"fullLabel": "Stuart Holmes", "pageID": "7251697"}], "tags": ["#basic"] }
 { "qId": "syn012737", "qText": "Where was Stuart Holmes born?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Stuart Holmes", "pageID": "7251697"}], "tags": ["#basic"] }
 { "qId": "syn012738", "qText": "What is Stuart Holmes's birth place?", "answers": ["Chicago"], "Concept": [{"fullLabel": "Stuart Holmes", "pageID": "7251697"}], "tags": ["#basic"] }
