@@ -49,6 +49,9 @@ and public feedback in our 2 spreadsheets (downloaded 17.8.2015):
 **moviesE** is an update of moviesD on 2015-12-10 and inclusion of
 synthetic questions gen v0.
 
+**moviesF** is an update of moviesE on 2016-01-04 with a variety of bugs
+related to the synthetic questions fixed.
+
 Licence and Acknowledgements
 ----------------------------
 
