@@ -1,3 +1,4 @@
+#basic	Who is $PERSON?	"director"
 #cmplx	Which of the movies from $PERSON received Oscar?	TODO
 #basic	What movies did $PERSON direct?	?a ns:film.film.directed_by $PERSON .
 #aggreg	What was the last movie by $PERSON?	TODO

@@ -7,6 +7,8 @@
 # ...where 0 is the "generation" number for the synthetic generator
 # so that on re-runs with new templates, question IDs are not reused.
 
+from __future__ import print_function
+
 from collections import namedtuple
 from SPARQLWrapper import SPARQLWrapper, JSON
 import json, sys
@@ -106,7 +108,10 @@ def genquestion(n, q, edict):
     if '$' in query or '$' in qText:
         print('Unsubstituted variable: '+qText, file=sys.stderr)
         return
-    answers = queryAnswer(query)
+    if query.startswith('"'):  # literal answer
+        answers = [query[1:-1]]
+    else:
+        answers = queryAnswer(query)
     if not answers:
         print('No answer (skipping): '+qText, file=sys.stderr)
         return
@@ -139,7 +144,7 @@ if __name__ == "__main__":
             labels = sys.argv[3].split(',')
             edict = dict()
             for i in range(len(labels)):
-                wiki_id=queryWikipediaId(queryWikipediaLabel(ents[i]))
+                wiki_id = queryWikipediaId(queryWikipediaLabel(ents[i]))
                 fbkey = queryFreebaseKey(wiki_id)
                 print('%s: %s' % (ents[i], fbkey), file=sys.stderr)
                 if not fbkey:

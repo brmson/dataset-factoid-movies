@@ -1,3 +1,4 @@
+#basic	Who is $PERSON?	"actor"
 #cmplx	Which of the movies where $PERSON starred received Oscar?	TODO
 #basic	What movies did $PERSON star in?	?a ns:film.film.starring ?s . ?s ns:film.performance.actor $PERSON .
 #aggreg	What was the last movie where $PERSON played?	TODO
