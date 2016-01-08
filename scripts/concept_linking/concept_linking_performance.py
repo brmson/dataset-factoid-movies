@@ -1,4 +1,5 @@
 #!/usr/bin/pypy
+# -*- coding: utf-8 -*-
 #
 # Measures YodaQA concept linking performance
 #
@@ -43,7 +44,7 @@ def calculate_mrr(qid_set, prop=0, exact_mrr=0):
 def load_from_tsv(filename):
     global qid_rank_dict
     file = open(filename)
-    for line in csv.reader(file, delimiter='\t'):
+    for line in csv.reader(file, delimiter='\t', quoting=csv.QUOTE_NONE):
         # dictionary[qId] = rank
         qid_rank_dict[line[0]] = line[4]
     return qid_rank_dict
