@@ -28,14 +28,14 @@ with open(input_filename,'r') as f:
             jsfile = train
         words = line.split("\t")[1:]
         jsfile.write('{')
-        jsfile.write('"qId\": \"mfb' + str(i).zfill(6) + '\", ')
-        jsfile.write('"qText\": \"' + words[1] + '\", ')
+        jsfile.write('"qId\": \"lfb' + str(i).zfill(6) + '\", ')
+        jsfile.write('"qText\": \"' + words[1].replace('\\', '\\\\').replace('"', '\\"') + '\", ')
         jsfile.write("\"answers\": [")
-        jsfile.write("\""+words[2]+"\"")
+        jsfile.write("\""+words[2].replace('\\', '\\\\').replace('"', '\\"')+"\"")
         j = 3
         
         while (words[j] != "" and j<len(words)-1): #iterate through answers
-            jsfile.write(", \""+words[j]+"\"")
+            jsfile.write(", \""+words[j].replace('\\', '\\\\').replace('"', '\\"')+"\"")
             j+=1
         jsfile.write("], ")
         jsfile.write("\"author\": "+"\""+words[0]+"\"")
